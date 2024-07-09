@@ -1,0 +1,1380 @@
+sentence1,sentence2,score
+"['girl', 'style', 'hair']","['girl', 'brush', 'hair']",2.5
+"['group', 'men', 'play', 'soccer', 'beach']","['group', 'boy', 'play', 'soccer', 'beach']",3.6
+"['one', 'woman', 'measur', 'anoth', 'woman', 'ankl']","['woman', 'measur', 'anoth', 'woman', 'ankl']",5.0
+"['man', 'cut', 'cucumb']","['man', 'slice', 'cucumb']",4.2
+"['man', 'play', 'harp']","['man', 'play', 'keyboard']",1.5
+"['woman', 'cut', 'onion']","['woman', 'cut', 'tofu']",1.8
+"['man', 'ride', 'electr', 'bicycl']","['man', 'ride', 'bicycl']",3.5
+"['man', 'play', 'drum']","['man', 'play', 'guitar']",2.2
+"['man', 'play', 'guitar']","['ladi', 'play', 'guitar']",2.2
+"['man', 'play', 'guitar']","['man', 'play', 'trumpet']",1.714
+"['man', 'play', 'guitar']","['man', 'play', 'trumpet']",1.714
+"['man', 'cut', 'onion']","['man', 'cut', 'onion']",5.0
+"['man', 'cycl']","['man', 'talk']",0.6000000000000001
+"['man', 'slice', 'open', 'fish']","['man', 'cut', 'fish']",4.4
+"['man', 'slice', 'tomato']","['man', 'slice', 'bun']",2.0
+"['man', 'play', 'guitar']","['man', 'play', 'keyboard']",1.8
+"['babi', 'panda', 'go', 'slide']","['panda', 'slide', 'slide']",4.4
+"['man', 'sing', 'play', 'guitar']","['man', 'play', 'guitar']",3.6
+"['man', 'attack', 'woman']","['man', 'slap', 'woman']",3.6
+"['man', 'drive', 'car']","['man', 'ride', 'hors']",1.2
+"['woman', 'cut', 'tofu']","['woman', 'cut', 'onion']",2.4
+"['woman', 'style', 'hair']","['woman', 'slice', 'herb']",0.2
+"['two', 'zebra', 'play', 'open', 'field']","['two', 'zebra', 'play', 'field']",4.2
+"['man', 'cut', 'potato']","['man', 'slice', 'potato']",4.4
+"['man', 'slice', 'onion']","['woman', 'slice', 'pumpkin']",2.25
+"['man', 'danc']","['man', 'woman', 'danc']",2.0
+"['man', 'ride', 'motorcycl']","['woman', 'ride', 'hors']",0.75
+"['woman', 'slice', 'garlic']","['woman', 'slice', 'onion']",2.2
+"['man', 'speak']","['man', 'cook']",0.8
+"['littl', 'boy', 'sing', 'play', 'guitar']","['man', 'sing', 'play', 'guitar']",2.2
+"['turtl', 'swim', 'water']","['turtl', 'walk', 'underwat']",3.2
+"['young', 'woman', 'put', 'sticker', 'face']","['woman', 'appli', 'sticker', 'face']",4.8
+"['woman', 'wrap', 'tofu']","['woman', 'ball', 'dough']",1.4
+"['cat', 'eat', 'corn']","['cat', 'eat', 'corn', 'cob']",4.25
+"['man', 'eat', 'food']","['man', 'eat', 'piec', 'bread']",3.4
+"['man', 'play', 'guitar']","['man', 'eat', 'pasta']",0.533
+"['man', 'kick', 'pot', 'water']","['man', 'pick', 'flower']",0.4
+"['man', 'cut', 'pipe', 'scissor']","['man', 'cut', 'carpet', 'knife']",1.2
+"['woman', 'danc', 'rain']","['woman', 'danc', 'rain', 'side']",5.0
+"['woman', 'take', 'bath']","['woman', 'ride', 'hors']",0.538
+"['man', 'mix', 'veget', 'pot']","['person', 'stir', 'veget', 'pot']",3.75
+"['woman', 'talk', 'cell', 'phone']","['man', 'woman', 'talk', 'phone']",3.0
+"['man', 'play', 'guitar']","['man', 'sing', 'play', 'guitar']",3.6
+"['man', 'play', 'guitar']","['man', 'drive', 'car']",0.5
+"['man', 'cut', 'appl', 'hand']","['man', 'cut', 'carpet', 'knife']",1.5
+"['man', 'open', 'door']","['man', 'cut', 'onion']",0.8
+"['man', 'slice', 'tomato']","['man', 'ride', 'hors']",0.8
+"['man', 'cut', 'paper', 'sword']","['woman', 'cut', 'tomato']",0.6000000000000001
+"['boy', 'studi', 'calendar']","['boy', 'look', 'calendar']",4.4
+"['ballerina', 'danc']","['man', 'danc']",1.75
+"['woman', 'danc']","['woman', 'play', 'violin']",0.4
+"['woman', 'slice', 'tomato']","['woman', 'chop', 'potato']",1.4
+"['woman', 'water', 'ski']","['woman', 'slice', 'fish']",0.4
+"['man', 'play', 'flute']","['man', 'ride', 'scooter']",0.8
+"['man', 'play', 'piano']","['man', 'play', 'guitar']",2.0
+"['woman', 'pick']","['man', 'play', 'guitar']",0.133
+"['man', 'put', 'three', 'piec', 'meat', 'pan']","['man', 'put', 'meat', 'pan']",4.0
+"['woman', 'cut', 'onion']","['woman', 'clean', 'garden']",0.267
+"['men', 'saw']","['men', 'saw', 'log']",3.4
+"['car', 'driven', 'road']","['girl', 'walk', 'road']",1.2
+"['man', 'kiss', 'hug', 'woman']","['man', 'hug', 'kiss', 'woman']",5.0
+"['train', 'move']","['man', 'yoga']",0.0
+"['someon', 'slice', 'onion']","['woman', 'cut', 'onion']",3.8
+"['woman', 'play', 'ocean']","['woman', 'prepar', 'shrimp', 'cook']",0.75
+"['person', 'play', 'electron', 'keyboard']","['kid', 'play', 'keyboard']",3.4
+"['man', 'hold', 'leaf']","['monkey', 'fight', 'man']",0.0
+"['woman', 'peel', 'shrimp']","['man', 'squeez', 'water']",0.2
+"['man', 'sit', 'smoke']","['man', 'smoke', 'cigarett']",4.0
+"['man', 'play', 'guitar']","['woman', 'ride', 'hors']",0.5
+"['man', 'stand', 'front', 'window', 'look', 'outsid']","['man', 'stare', 'window']",3.8
+"['skunk', 'look']","['skunk', 'look', 'camera']",2.4
+"['man', 'play', 'guitar', 'sing']","['man', 'sing', 'guitar']",4.75
+"['woman', 'open', 'window']","['man', 'crawl']",0.0
+"['peopl', 'danc', 'outsid']","['group', 'peopl', 'danc']",3.75
+"['man', 'use', 'camera', 'hammer', 'nail']","['someon', 'bang', 'camera', 'lens', 'nail']",2.6
+"['woman', 'file', 'nail']","['man', 'peel', 'carrot']",0.0
+"['boy', 'crawl', 'dog', 'hous']","['boy', 'play', 'wooden', 'flute']",0.75
+"['woman', 'swim', 'underwat']","['man', 'slice', 'carrot']",0.0
+"['machin', 'sharpen', 'pencil']","['machin', 'shave', 'end', 'pencil']",3.8
+"['monkey', 'play', 'drum']","['gorilla', 'play', 'drum']",2.8
+"['man', 'open', 'box', 'take', 'paper']","['woman', 'peel', 'potato']",0.0
+"['woman', 'danc']","['woman', 'play', 'clarinet']",0.8
+"['person', 'draw', 'larg', 'touchscreen']","['man', 'draw', 'digit', 'dri', 'eras', 'board']",3.0
+"['men', 'play', 'follow', 'leader', 'grass']","['rhino', 'graze', 'grass']",1.0
+"['woman', 'crack', 'egg']","['man', 'talk', 'woman']",0.0
+"['woman', 'peel', 'garlic', 'hand']","['woman', 'slice', 'herb']",1.0
+"['polar', 'bear', 'fought', 'kill']","['polar', 'bear', 'fight']",3.4
+"['man', 'trick', 'play', 'card']","['man', 'perform', 'card', 'trick']",5.0
+"['cat', 'lick', 'bottl']","['cat', 'play', 'small', 'bottl']",2.333
+"['person', 'slice', 'onion']","['person', 'cut', 'ginger']",1.4
+"['person', 'peel', 'potato', 'potato', 'peeler']","['man', 'cut', 'tomato', 'cleaver']",0.75
+"['two', 'woman', 'danc', 'sing', 'front', 'crowd']","['woman', 'sing', 'danc']",3.5380000000000003
+"['man', 'season', 'carrot']","['woman', 'slice', 'garlic']",0.8
+"['two', 'men', 'push', 'cart', 'wood']","['two', 'men', 'push', 'cart']",3.5
+"['man', 'play', 'footbal']","['man', 'maneuv', 'soccer', 'ball', 'foot']",2.0
+"['ladi', 'peel', 'potato']","['woman', 'peel', 'potato']",4.75
+"['woman', 'slice', 'tofu']","['woman', 'cut', 'block', 'tofu', 'small', 'cube']",4.0
+"['someon', 'type', 'keyboard']","['someon', 'type']",4.5
+"['three', 'young', 'men', 'run', 'jump', 'kick', 'coke', 'machin']","['three', 'men', 'jump', 'wall']",1.5
+"['young', 'asian', 'girl', 'appli', 'eyelin']","['girl', 'put', 'eye', 'makeup']",2.4
+"['cat', 'walk', 'around', 'hous']","['woman', 'peel', 'potato']",0.0
+"['woman', 'talk', 'pet', 'bunni', 'fondl']","['woman', 'walk', 'dog', 'onto', 'astro', 'turf']",0.4
+"['monkey', 'play', 'drum']","['someon', 'gorilla', 'costum', 'play', 'set', 'drum']",2.5
+"['man', 'ride', 'white', 'hors', 'enclos', 'ground']","['someon', 'ride', 'hors']",2.6
+"['orient', 'ladi', 'cut', 'carrot', 'thin', 'piec']","['woman', 'slice', 'carrot']",3.6
+"['group', 'peopl', 'danc']","['woman', 'danc', 'outsid']",3.0
+"['man', 'play', 'guitar']","['boy', 'talk', 'giant', 'dog']",0.0
+"['woman', 'mix', 'veget']","['woman', 'ad', 'ingredi', 'skillet']",1.6
+"['woman', 'pour', 'mixtur', 'bowl', 'mix']","['woman', 'prepar', 'egg', 'skillet']",1.25
+"['man', 'cut', 'piec', 'butter', 'mix', 'bowl']","['piec', 'butter', 'ad', 'stand', 'mixer']",3.6
+"['man', 'put', 'garlic', 'bread', 'slice']","['man', 'sprinkl', 'season', 'sever', 'split', 'butter', 'loaf', 'bread']",2.0
+"['panda', 'bear', 'lay', 'log']","['panda', 'lie']",3.6
+"['five', 'men', 'jump', 'swim', 'pool']","['group', 'swimmer', 'fall', 'pool']",2.8
+"['cheetah', 'run', 'behind', 'prey']","['cheetah', 'chase', 'prey', 'across', 'field']",4.4
+"['cat', 'play', 'floor']","['man', 'slice', 'garlic']",0.0
+"['boy', 'play', 'violin', 'stage']","['person', 'mix', 'pot']",0.0
+"['dog', 'bark', 'toy']","['littl', 'dog', 'bark', 'electron', 'toy']",3.75
+"['man', 'cycl']","['boy', 'ride', 'bicycl']",2.5
+"['woman', 'slice', 'ginger']","['person', 'hold', 'two', 'babi', 'loris']",0.0
+"['man', 'drag', 'dead', 'deer']","['man', 'jump', 'water', 'cliff']",0.8
+"['man', 'prepar', 'snake', 'cook']","['man', 'drop', 'slice', 'cucumb', 'water']",1.0
+"['woman', 'spread', 'mustard', 'bread', 'roll']","['kitten', 'play', 'woman', 'finger']",0.0
+"['someon', 'touch', 'kitten', 'chew', 'string']","['someon', 'cut', 'paper']",0.25
+"['meat', 'put', 'skillet']","['woman', 'put', 'babi', 'trash']",0.4
+"['babi', 'eleph', 'eat', 'small', 'tree']","['littl', 'girl', 'peddl', 'scooter']",0.0
+"['woman', 'man', 'danc', 'rain']","['man', 'woman', 'danc', 'rain']",5.0
+"['someon', 'draw']","['someon', 'danc']",0.30000000000000004
+"['man', 'play', 'guitar']","['woman', 'play', 'guitar']",2.75
+"['two', 'men', 'fistfight', 'ring']","['two', 'men', 'fistfight', 'ring']",5.0
+"['person', 'wipe', 'butter', 'tray']","['person', 'butter', 'tray']",4.25
+"['two', 'men', 'play', 'footbal']","['two', 'men', 'practic', 'footbal']",3.4
+"['man', 'play', 'guitar']","['girl', 'play', 'guitar']",1.6
+"['man', 'peel', 'potato']","['man', 'slice', 'potato']",2.6
+"['woman', 'stab', 'potato', 'fork']","['woman', 'punctur', 'potato', 'fork']",5.0
+"['child', 'wake']","['girl', 'wake']",3.2
+"['boy', 'play', 'keyboard']","['littl', 'boy', 'play', 'keyboard']",4.8
+"['woman', 'play', 'flute']","['woman', 'play', 'flute']",5.0
+"['woman', 'play', 'electr', 'guitar']","['man', 'play', 'acoust', 'guitar']",2.4
+"['man', 'play', 'flute']","['man', 'play', 'guitar']",2.0
+"['group', 'peopl', 'sweep', 'water', 'hous']","['peopl', 'sweep', 'water', 'hous']",5.0
+"['man', 'play', 'guitar']","['man', 'play', 'guitar']",5.0
+"['man', 'woman', 'kiss']","['man', 'woman', 'hug', 'kiss']",3.4
+"['woman', 'climb', 'cliff']","['woman', 'climb', 'rock', 'face']",4.5
+"['polar', 'bear', 'run', 'toward', 'group', 'walru']","['polar', 'bear', 'chase', 'group', 'walru']",4.2
+"['woman', 'cut', 'fish']","['woman', 'cut', 'tofu']",2.2
+"['someon', 'play', 'piano']","['someon', 'play', 'guitar']",2.4
+"['man', 'pour', 'rice', 'roni', 'pan']","['man', 'pour', 'ricaroni', 'pan']",3.8
+"['man', 'break', 'wooden', 'board', 'hand']","['man', 'break', 'tile', 'hand']",2.5
+"['girl', 'play', 'guitar']","['girl', 'play', 'piano']",2.0
+"['man', 'pray']","['man', 'danc']",0.75
+"['man', 'play', 'piano']","['man', 'play', 'violin']",2.0
+"['woman', 'slice', 'onion']","['woman', 'slice', 'lemon']",2.2
+"['man', 'ride', 'hors', 'creek']","['man', 'ride', 'hors']",4.0
+"['man', 'play', 'guitar']","['man', 'play', 'guitar', 'sing']",3.2
+"['man', 'pick', 'tree']","['man', 'carri', 'tree']",3.8
+"['person', 'peel', 'potato']","['man', 'peel', 'potato']",3.75
+"['person', 'play', 'piano']","['person', 'slice', 'potato']",0.5
+"['man', 'spit']","['man', 'talk']",0.8
+"['man', 'play', 'music', 'keyboard']","['man', 'play', 'keyboard', 'piano']",5.0
+"['man', 'danc']","['man', 'think']",1.2
+"['man', 'play', 'trumpet']","['man', 'play', 'trumpet']",5.0
+"['woman', 'ride', 'hors']","['man', 'ride', 'hors']",2.8
+"['band', 'play', 'stage']","['woman', 'danc', 'stage']",1.2
+"['woman', 'play', 'guitar', 'sing']","['woman', 'play', 'guitar']",3.2
+"['man', 'eat']","['man', 'eat', 'food']",4.6
+"['littl', 'boy', 'hit', 'golf', 'ball']","['littl', 'boy', 'swung', 'golf', 'ball']",4.0
+"['guy', 'take', 'sunglass']","['boy', 'remov', 'sunglass']",3.8
+"['someon', 'read', 'email']","['man', 'read', 'email']",3.4
+"['person', 'slice', 'onion']","['someon', 'slice', 'onion']",4.6
+"['girl', 'come', 'car']","['girl', 'jump', 'top', 'car']",2.6
+"['man', 'play', 'drum']","['man', 'play', 'guitar']",1.8
+"['someon', 'slice', 'onion']","['someon', 'carri', 'fish']",0.75
+"['woman', 'dice', 'peel', 'potato', 'cut', 'thick', 'strip']","['woman', 'chop', 'peel', 'potato', 'slice']",4.0
+"['littl', 'girl', 'peddl', 'scooter']","['girl', 'ride', 'scooter']",2.75
+"['cat', 'clean']","['cat', 'lick']",3.8
+"['man', 'kick', 'soccer', 'ball']","['man', 'perform', 'trick', 'soccer', 'ball']",2.6
+"['woman', 'open', 'window']","['woman', 'look', 'window']",2.0
+"['three', 'men', 'danc', 'street']","['three', 'shirtless', 'men', 'danc', 'street']",3.8
+"['man', 'play', 'guitar']","['man', 'peel', 'potato']",0.583
+"['man', 'danc']","['woman', 'exercis']",0.4
+"['woman', 'exercis']","['man', 'danc']",0.25
+"['boy', 'play', 'violin', 'onstag']","['boy', 'play', 'instrument']",2.8
+"['woman', 'measur', 'woman']","['ladi', 'measur', 'woman', 'ankl']",3.2
+"['man', 'exercis']","['man', 'fire', 'rifl']",0.5
+"['dog', 'play', 'toy']","['dog', 'eat', 'doll']",2.25
+"['man', 'play', 'piano']","['guy', 'peel', 'potato']",0.0
+"['man', 'bowl']","['kitten', 'walk']",0.0
+"['woman', 'danc', 'near', 'fire']","['woman', 'cut', 'tomato']",0.308
+"['man', 'make', 'bed']","['man', 'speak', 'audienc']",0.75
+"['person', 'ride', 'motorcyl']","['person', 'chop', 'onion']",0.4
+"['man', 'pour', 'rice', 'pot']","['man', 'put', 'rice', 'bowl', 'pot']",4.2
+"['person', 'slice', 'garlic']","['person', 'dice', 'clove', 'garlic', 'knife']",3.75
+"['woman', 'slice', 'ginger']","['woman', 'cut', 'potato']",1.6
+"['men', 'play', 'soccer']","['two', 'team', 'play', 'soccer']",3.0
+"['person', 'scrub', 'zucchini']","['woman', 'scrub', 'zucchini', 'veget', 'brush']",4.0
+"['panda', 'bear', 'chew', 'stick']","['babi', 'panda', 'play', 'stick']",3.0
+"['peopl', 'lift', 'bag']","['sever', 'peopl', 'carri', 'larg', 'bag']",3.75
+"['man', 'talk', 'phone']","['man', 'moonwalk', 'across', 'store']",0.4
+"['woman', 'braid', 'hair']","['man', 'ride', 'motorcycl']",0.0
+"['man', 'throw', 'knife', 'tree']","['man', 'throw', 'blade', 'close', 'target', 'outsid']",3.0
+"['woman', 'slice', 'tofu']","['woman', 'put', 'lipstick']",0.4
+"['woman', 'fold', 'paper']","['woman', 'appli', 'eye', 'shadow']",0.4
+"['someon', 'fold', 'piec', 'paper']","['person', 'slice', 'small', 'piec', 'ginger']",0.25
+"['man', 'lift', 'weight']","['man', 'chop', 'egg', 'plant']",0.25
+"['man', 'play', 'cello']","['man', 'rapidli', 'lift', 'small', 'weight']",0.4
+"['man', 'talk']","['man', 'walk', 'stair']",0.4
+"['man', 'tri', 'feed', 'mous', 'snake']","['man', 'teas', 'snake', 'mous']",3.2
+"['man', 'play', 'drum']","['woman', 'slice', 'leaf']",0.0
+"['man', 'play', 'ukulel']","['man', 'sit', 'play', 'small', 'guitar']",2.2
+"['kitten', 'drink', 'milk', 'bowl']","['small', 'child', 'drink', 'water', 'cup']",0.8
+"['man', 'break', 'cinder', 'block', 'anoth', 'man']","['woman', 'break', 'egg', 'pan']",0.8
+"['man', 'hit', 'boy', 'flower', 'vase']","['man', 'cut', 'mat']",0.30000000000000004
+"['man', 'mix', 'whip', 'cream']","['man', 'hold', 'skunk']",0.0
+"['man', 'stir', 'juic']","['man', 'peel', 'onion']",0.75
+"['someon', 'slice', 'two', 'uncook', 'rack', 'rib', 'apart']","['someon', 'cut', 'piec', 'meat']",2.333
+"['man', 'kick', 'pot', 'water']","['man', 'turn', 'food']",1.333
+"['two', 'littl', 'girl', 'talk', 'telephon']","['two', 'coupl', 'talk']",1.2
+"['cat', 'get', 'stuck', 'move', 'ceil', 'fan']","['cat', 'swing', 'fan']",4.2
+"['cat', 'drink', 'milk']","['white', 'cat', 'lick', 'drink', 'milk', 'kept', 'plate']",3.8
+"['rocki', 'apollo', 'creed', 'run', 'beach']","['men', 'jog', 'beach']",3.0
+"['man', 'sing', 'play', 'guitar']","['man', 'stuf', 'full', 'food']",0.5
+"['boat', 'sail', 'along', 'water']","['man', 'play', 'guitar']",0.0
+"['okapi', 'eat', 'tree']","['moos', 'drink', 'sprinkler']",0.333
+"['sever', 'kid', 'jump', 'trampolin']","['man', 'back', 'flip', 'trampolin']",1.5
+"['woman', 'pour', 'egg', 'fri', 'pan']","['man', 'pet', 'two', 'dog']",0.167
+"['woman', 'fri', 'ground', 'meat']","['man', 'cut', 'trunk', 'axe']",0.5
+"['three', 'boy', 'karat', 'costum', 'fight']","['three', 'men', 'practic', 'karat', 'move', 'field']",1.25
+"['swimmer', 'race', 'lake']","['woman', 'swimmer', 'dive', 'start', 'platform']",1.6
+"['person', 'boil', 'noodl']","['cat', 'lick', 'bottl']",0.0
+"['person', 'slice', 'onion']","['woman', 'chop', 'herb']",1.0
+"['man', 'reel', 'fish']","['woman', 'pour', 'oil', 'bowl']",0.0
+"['woman', 'cut', 'onion']","['hors', 'stand']",0.0
+"['ladi', 'mix', 'meat', 'mixtur', 'bowl']","['woman', 'stir', 'meat', 'bowl']",4.0
+"['girl', 'appli', 'makeup', 'face']","['woman', 'put', 'makeup']",2.75
+"['woman', 'put', 'makeup']","['woman', 'put', 'eyeshadow']",3.333
+"['cat', 'play', 'water']","['cat', 'fish', 'straw', 'ouf', 'water', 'dish']",3.5
+"['person', 'ad', 'food', 'pan']","['man', 'danc', 'street']",0.188
+"['man', 'smoke']","['babi', 'suck', 'pacifi']",0.0
+"['person', 'put', 'shred', 'chees', 'pot']","['hamster', 'eat', 'seed']",0.25
+"['man', 'eras', 'chalk', 'board']","['woman', 'danc', 'sing']",0.364
+"['man', 'exercis']","['man', 'pullup']",3.2
+"['chimp', 'kick', 'target']","['woman', 'put', 'oil', 'skillet']",0.0
+"['man', 'exercis']","['babi', 'laugh']",0.0
+"['girl', 'carri', 'babi']","['man', 'eat', 'food']",0.0
+"['sever', 'swimmer', 'jump', 'water']","['swimmer', 'race', 'lake']",1.75
+"['man', 'spin', 'surf', 'board']","['man', 'put', 'barbecu', 'sauc', 'chicken']",0.0
+"['young', 'man', 'ride', 'skateboard', 'jump', 'onto', 'sidewalk', 'anoth', 'curb']","['man', 'ride', 'skateboard']",2.75
+"['person', 'dice', 'orang', 'pepper']","['cook', 'slice', 'bell', 'pepper']",1.8
+"['two', 'men', 'danc', 'togeth']","['woman', 'open', 'closet']",0.0
+"['man', 'read', 'email']","['person', 'open', 'banana']",0.0
+"['curiou', 'boy', 'look', 'shed']","['two', 'small', 'boy', 'woodi', 'area', 'look', 'shed']",2.8
+"['mope', 'front', 'step', 'ruin']","['mope', 'front', 'ruin']",4.4
+"['man', 'sleep', 'babi', 'lap']","['man', 'asleep', 'chair', 'hold', 'babi']",4.0
+"['two', 'cat', 'look', 'window']","['white', 'cat', 'look', 'window']",2.6
+"['person', 'wear', 'helmet', 'ride', 'bike', 'near', 'white', 'structur']","['girl', 'wear', 'black', 'short', 'boot', 'stand', 'next', 'blue', 'motorcycl']",1.2
+"['man', 'bicycl', 'coffe', 'hous']","['man', 'walk', 'bicycl', 'patio', 'coffe', 'shop']",3.2
+"['black', 'white', 'cat', 'high', 'tree', 'branch']","['black', 'white', 'lamb', 'tag', 'right', 'ear']",0.8
+"['young', 'blond', 'girl', 'wear', 'helmet', 'sit', 'red', 'bicycl', 'behind']","['young', 'girl', 'wear', 'bike', 'helmet', 'bicycl', 'background']",3.4
+"['blue', 'couch', 'twin', 'bed', 'live', 'room']","['blue', 'couch', 'room', 'sun', 'shine']",2.0
+"['flock', 'sheep', 'spread', 'field']","['white', 'cat', 'stand', 'floor']",0.0
+"['two', 'dog', 'one', 'cat', 'sit', 'couch']","['two', 'dog', 'cat', 'rest', 'couch']",4.6
+"['bicycl', 'park', 'shop']","['bicycl', 'park', 'outsid', 'bookstor']",4.0
+"['orang', 'white', 'cat', 'lay', 'blanket', 'black', 'leather', 'chair']","['ginger', 'white', 'cat', 'curl', 'asleep', 'leather', 'chair']",3.8
+"['young', 'coupl', 'sit', 'black', 'couch']","['young', 'coupl', 'sit', 'couch']",4.0
+"['group', 'black', 'peopl', 'front', 'build', 'mope']","['group', 'peopl', 'outsid', 'decrepit', 'build']",2.8
+"['elderli', 'woman', 'sit', 'red', 'pattern', 'couch', 'arm', 'around', 'younger', 'woman']","['two', 'woman', 'sit', 'couch', 'pose', 'camera']",3.6
+"['man', 'ride', 'back', 'orang', 'suv']","['african', 'man', 'hang', 'onto', 'back', 'full', 'yellow', 'van']",1.8
+"['red', 'white', 'bu', 'drive', 'road']","['bu', 'drive', 'busi', 'road']",3.6
+"['cat', 'lay', 'red', 'cushion', 'look', 'camera']","['tan', 'dog', 'lie', 'moggi', 'bed', 'look', 'camera']",1.2
+"['two', 'green', 'white', 'train', 'sit', 'track']","['two', 'green', 'white', 'train', 'sit', 'train', 'track']",5.0
+"['grey', 'cat', 'lie', 'wooden', 'tabl']","['grey', 'cat', 'lay', 'dine', 'tabl']",4.0
+"['man', 'sit', 'back', 'yard', 'play', 'guitar']","['man', 'ride', 'back', 'orang', 'suv']",0.0
+"['father', 'nap', 'chair', 'babi', 'lap']","['man', 'pink', 'shirt', 'sleep', 'chair', 'infant']",3.4
+"['close', 'head', 'ostrich']","['close', 'ostrich', 'face']",4.4
+"['green', 'white', 'bird', 'perch', 'tree', 'branch']","['bird', 'green', 'head', 'white', 'chest', 'perch', 'tree', 'branch']",4.2
+"['man', 'top', 'hat', 'ride', 'white', 'hors']","['man', 'top', 'hat', 'ride', 'white', 'hors']",5.0
+"['woman', 'ride', 'brown', 'hors']","['woman', 'take', 'photo']",0.2
+"['two', 'men', 'stand', 'grass', 'stare', 'car']","['woman', 'pink', 'top', 'pose', 'beer']",0.2
+"['two', 'indian', 'woman', 'two', 'indian', 'girl', 'near', 'water']","['two', 'indian', 'woman', 'stand', 'two', 'indian', 'girl', 'beach']",4.0
+"['tabl', 'set', 'wine', 'dish', 'two', 'peopl']","['wooden', 'tabl', 'set', 'candl', 'wine', 'purpl', 'plastic', 'bowl']",2.6
+"['mope', 'front', 'ruin']","['white', 'bu', 'park', 'grass', 'front', 'build']",0.6000000000000001
+"['person', 'drive', 'cart', 'pull', 'bicycl']","['man', 'wear', 'dust', 'mask', 'ride', 'three', 'wheel', 'bicycl']",1.2
+"['dog', 'snif', 'bottom', 'door']","['black', 'white', 'dog', 'snif', 'close', 'door']",3.8
+"['small', 'bird', 'sit', 'branch', 'winter']","['small', 'bird', 'perch', 'ici', 'branch']",4.2
+"['yellow', 'bird', 'eat', 'fruit', 'wire', 'grate']","['yellow', 'bird', 'eat', 'fruit', 'bird', 'feeder']",2.8
+"['brown', 'duck', 'white', 'duck', 'stand', 'grass']","['brown', 'white', 'duck', 'walk', 'green', 'grass']",4.2
+"['black', 'white', 'cat', 'dog', 'stripe', 'couch']","['black', 'white', 'cat', 'stand', 'front', 'window']",2.4
+"['man', 'wear', 'black', 'formal', 'wear', 'black', 'top', 'hat', 'ride', 'white', 'show', 'hors']","['man', 'top', 'hat', 'ride', 'white', 'hors']",3.6
+"['small', 'brown', 'bird', 'eat', 'bird', 'feeder', 'hang', 'tree']","['small', 'bird', 'perch', 'bird', 'feeder', 'hang', 'tree']",3.8
+"['pictur', 'countrysid', 'larg', 'citi', 'background']","['black', 'cattl', 'grassi', 'plain', 'larg', 'tree', 'background']",0.6000000000000001
+"['blue', 'red', 'plane', 'midair', 'flight']","['blue', 'red', 'airplan', 'flight']",4.8
+"['three', 'men', 'pose', 'tent']","['three', 'men', 'eat', 'kitchen']",1.2
+"['closeup', 'gray', 'cat', 'green', 'eye']","['closeup', 'cat', 'cream', 'sofa']",2.4
+"['train', 'train', 'station']","['train', 'sit', 'train', 'station']",4.2
+"['train', 'head', 'track', 'along', 'hedg']","['dog', 'floor', 'patio', 'look', 'cat', 'fenc']",0.0
+"['littl', 'girl', 'laugh', 'camera']","['white', 'cow', 'big', 'ear', 'look', 'camera']",0.2
+"['three', 'young', 'woman', 'stand', 'room', 'togeth']","['three', 'dark', 'hair', 'young', 'woman', 'white', 'red', 'black', 'sweater']",3.4
+"['white', 'bird', 'long', 'orang', 'leg', 'stand', 'lake']","['larg', 'white', 'bird', 'long', 'orang', 'beak', 'stand', 'shorelin']",3.0
+"['red', 'train', 'drive', 'snow', 'cover', 'citi']","['train', 'ride', 'track', 'snow']",3.2
+"['three', 'bicyclist', 'cross', 'bridg', 'citi']","['bicyclist', 'cross', 'bridg', 'rain']",3.0
+"['red', 'white', 'bu', 'drive', 'england', 'street']","['red', 'white', 'england', 'bu', 'drive', 'street']",4.4
+"['bird', 'swim', 'water']","['bird', 'fli', 'low', 'water']",1.8
+"['black', 'dog', 'look', 'camera']","['black', 'white', 'bull', 'look', 'camera']",2.0
+"['group', 'hors', 'graze', 'field']","['group', 'hors', 'graze', 'grassi', 'field']",4.8
+"['sever', 'peopl', 'motorcycl', 'market', 'squar']","['peopl', 'motorbik', 'citi', 'street']",4.0
+"['three', 'sheep', 'dirt', 'road', 'view', 'passeng', 'vehicl']","['three', 'sheep', 'dirt', 'road', 'shot', 'car']",2.2
+"['group', 'peopl', 'pose', 'two', 'men', 'dress', 'elvi']","['group', 'peopl', 'stand', 'two', 'peopl', 'dress', 'elvi']",4.2
+"['parrot', 'push', 'small', 'shop', 'cart']","['white', 'bird', 'steer', 'shop', 'cart']",3.4
+"['man', 'yellow', 'cano', 'paddl', 'water']","['man', 'paddl', 'yellow', 'cano', 'toward', 'shore']",4.2
+"['beer', 'bottl', 'lrb', 'harp', 'lager', 'rrb', 'line', 'floor']","['row', 'beer', 'bottl', 'floor']",3.4
+"['two', 'woman', 'sit', 'outsid', 'laugh']","['two', 'woman', 'stand', 'outsid', 'bu']",2.4
+"['steam', 'engin', 'train', 'move', 'toward', 'camera']","['white', 'sheep', 'hillsid', 'look', 'camera']",1.0
+"['brown', 'white', 'cow', 'field', 'look', 'camera']","['black', 'white', 'cat', 'look', 'camera']",1.6
+"['black', 'white', 'cow', 'stand', 'near', 'pile', 'snow']","['black', 'white', 'cow', 'stand', 'field']",3.2
+"['home', 'offic', 'space', 'bright', 'green', 'wall', 'artwork']","['offic', 'multipl', 'desk', 'green', 'wall']",3.4
+"['black', 'white', 'photo', 'man', 'drive', 'car', 'someon', 'motorcycl']","['black', 'white', 'photo', 'man', 'classic', 'car', 'man', 'classic', 'motorcycl']",4.0
+"['three', 'peopl', 'water', 'yellow', 'cano']","['three', 'peopl', 'prepar', 'cano']",3.0
+"['girl', 'ride', 'hat', 'hors']","['girl', 'ride', 'tan', 'hors']",3.8
+"['man', 'dress', 'pale', 'scarf', 'stick']","['runner', 'rest', 'shade', 'bottl', 'soda']",0.0
+"['retro', 'live', 'room', 'televis']","['grey', 'cat', 'lie', 'wooden', 'tabl']",0.0
+"['girl', 'ride', 'hat', 'hors']","['girl', 'ride', 'brown', 'hors']",2.6
+"['car', 'pull', 'side', 'road', 'onto', 'street']","['silver', 'car', 'park', 'side', 'road', 'front', 'hill']",2.6
+"['man', 'sit', 'cross', 'leg', 'wear', 'cloak', 'hold', 'stick']","['man', 'sit', 'cross', 'leg', 'wear', 'brown', 'cloth', 'hold', 'wooden', 'stick']",3.8
+"['two', 'black', 'white', 'dog', 'bottom', 'stair']","['dog', 'lie', 'bottom', 'staircas', 'next', 'anoth', 'stand', 'dog']",2.6
+"['old', 'fashion', 'wooden', 'sail', 'ship', 'ocean']","['old', 'fashion', 'wooden', 'sail', 'ship', 'park', 'pier']",2.8
+"['man', 'sit', 'cross', 'leg', 'grass', 'tree', 'background']","['ocean', 'liner', 'close', 'coast', 'hous', 'background']",0.0
+"['two', 'cat', 'sit', 'couch', 'look', 'window']","['cat', 'look', 'window']",2.6
+"['three', 'goat', 'round', 'dog']","['three', 'goat', 'chase', 'dog']",4.6
+"['tan', 'puppi', 'carpet', 'floor']","['tan', 'puppi', 'lie', 'white', 'carpet']",3.8
+"['black', 'dog', 'stand', 'grassi', 'area']","['longhair', 'dog', 'stand', 'grassi', 'wood', 'area']",3.4
+"['train', 'station']","['train', 'station']",5.0
+"['blue', 'bird', 'stand', 'lawn']","['blue', 'bird', 'stand', 'green', 'grass']",4.6
+"['empti', 'offic', 'cubicl']","['empti', 'offic', 'chair', 'cubicl']",3.0
+"['man', 'woman', 'sit', 'tabl', 'restaur']","['four', 'woman', 'two', 'men', 'sit', 'long', 'tabl', 'restaur']",2.2
+"['young', 'man', 'wear', 'stripe', 'shirt', 'hold', 'two', 'bicycl']","['young', 'redhead', 'man', 'hold', 'two', 'bicycl', 'near', 'beach']",3.8
+"['televis', 'upholst', 'chair', 'coffe', 'stabl', 'bright', 'room']","['leather', 'couch', 'wooden', 'tabl', 'live', 'room']",2.2
+"['two', 'cat', 'sit', 'couch', 'look', 'window']","['two', 'cat', 'look', 'window']",3.6
+"['small', 'dog', 'wear', 'sweater', 'look', 'camera']","['small', 'white', 'dog', 'wear', 'jacket', 'look', 'camera']",4.0
+"['two', 'men', 'stand', 'grass', 'stare', 'car']","['two', 'woman', 'sit', 'chair', 'shop']",0.4
+"['woman', 'stand', 'front', 'build', 'snow']","['two', 'woman', 'babi', 'pose', 'front', 'dine', 'room']",0.0
+"['home', 'offic', 'space', 'bright', 'green', 'wall', 'artwork']","['small', 'offic', 'space', 'bright', 'green', 'wall']",3.8
+"['green', 'car', 'park', 'saloon']","['green', 'car', 'park', 'outsid', 'saloon']",5.0
+"['group', 'peopl', 'sit', 'around', 'restaur', 'dine', 'tabl']","['group', 'peopl', 'sit', 'restaur', 'tabl']",4.8
+"['two', 'duck', 'stand', 'water']","['bird', 'swim', 'water']",2.4
+"['black', 'white', 'cow', 'pen', 'hay']","['black', 'white', 'cow', 'behind', 'fenc']",2.8
+"['man', 'woman', 'pose', 'camera']","['cat', 'sit', 'sand', 'look', 'camera']",1.4
+"['green', 'white', 'cargo', 'plane', 'take', 'airport']","['white', 'green', 'commerci', 'airlin', 'take', 'runway']",3.6
+"['yellow', 'school', 'bu', 'park', 'field']","['brown', 'hors', 'green', 'field']",0.0
+"['elderli', 'man', 'work', 'laptop', 'home']","['older', 'gentleman', 'sit', 'couch', 'laptop']",4.2
+"['cat', 'sit', 'bag', 'cat', 'food']","['two', 'eagl', 'sit', 'long', 'branch']",0.4
+"['larg', 'pile', 'wooden', 'item', 'pile', 'high']","['larg', 'pile', 'scrap', 'wood']",3.8
+"['woman', 'ride', 'brown', 'hors']","['girl', 'ride', 'brown', 'hors']",4.0
+"['black', 'white', 'photo', 'girl', 'sofa']","['black', 'white', 'photo', 'cow', 'tree']",1.2
+"['black', 'dog', 'stand', 'next', 'materi', 'construct', 'site']","['black', 'dog', 'stand', 'middl', 'construct', 'site']",4.0
+"['two', 'woman', 'sit', 'chair', 'shop']","['two', 'woman', 'sit', 'cafe']",3.0
+"['woman', 'paint', 'chair', 'dine', 'room', 'background']","['man', 'boy', 'walk', 'along', 'beach', 'sea', 'background']",0.0
+"['cat', 'sleep', 'coach', 'pillow', 'behind']","['cat', 'lay', 'anim', 'print', 'blanket']",2.4
+"['two', 'motorbik', 'race', 'dirt', 'cours']","['two', 'motorbik', 'dirt', 'track']",3.4
+"['young', 'woman', 'ride', 'bay', 'hose', 'dirt', 'ridingr']","['man', 'stare', 'hors', 'white', 'mane']",0.8
+"['gray', 'cat', 'lay', 'brown', 'tabl']","['grey', 'cat', 'lie', 'wooden', 'tabl']",4.2
+"['motorcycl', 'park', 'next', 'car', 'outsid']","['motorcycl', 'park', 'next', 'car']",4.4
+"['pile', 'use', 'wooden', 'build', 'materi', 'chair', 'top']","['pile', 'wooden', 'debri', 'chair', 'top']",4.0
+"['passeng', 'train', 'wait', 'citi', 'train', 'station']","['passeng', 'train', 'yellow', 'engin']",1.8
+"['black', 'train', 'move', 'track']","['long', 'train', 'train', 'track']",2.8
+"['philip', 'flatscreen', 'tv', 'shown', 'two', 'remot', 'control']","['phillip', 'flat', 'screen', 'tv', 'two', 'remot', 'control']",5.0
+"['cruis', 'ship', 'front', 'dock', 'area']","['calico', 'cat', 'sit', 'step', 'front', 'door']",0.0
+"['black', 'white', 'cow', 'stand', 'hay', 'look', 'back', 'camera']","['black', 'white', 'sheep', 'stand', 'grass']",0.2
+"['four', 'peopl', 'row', 'river']","['four', 'peopl', 'row', 'cano', 'water']",4.0
+"['dark', 'brown', 'hors', 'stand', 'field']","['brown', 'hors', 'green', 'field']",3.8
+"['two', 'men', 'talk', 'front', 'plane']","['two', 'men', 'talk', 'front', 'small', 'plane']",4.4
+"['two', 'cat', 'one', 'brown', 'one', 'white', 'lay', 'bed', 'blue', 'blanket']","['two', 'cat', 'one', 'ginger', 'white', 'lay', 'bed']",3.2
+"['train', 'sit', 'train', 'station']","['train', 'park', 'train', 'station']",4.6
+"['two', 'anim', 'sit', 'rock']","['brown', 'train', 'sit', 'railroad', 'track']",0.0
+"['black', 'white', 'cow', 'look', 'fenc']","['black', 'white', 'dog', 'look', 'camera']",1.0
+"['two', 'woman', 'cloth', 'store']","['two', 'woman', 'sailboat']",0.8
+"['older', 'gentleman', 'look', 'red', 'motorcycl']","['man', 'look', 'red', 'motorcycl']",4.0
+"['black', 'white', 'cow', 'graze', 'pen']","['two', 'black', 'white', 'cow', 'drink', 'pond']",1.6
+"['small', 'camouflag', 'airplan', 'park', 'grass']","['small', 'dog', 'wear', 'pink', 'shirt', 'tie', 'rail']",0.0
+"['black', 'white', 'photo', 'love', 'seat']","['black', 'white', 'photo', 'couch', 'purs', 'one', 'end']",3.4
+"['black', 'bird', 'stand', 'concret']","['blue', 'bird', 'stand', 'green', 'grass']",1.0
+"['crowd', 'peopl', 'walk', 'past', 'giant', 'mushroom']","['group', 'four', 'peopl', 'walk', 'past', 'giant', 'mushroom']",4.0
+"['sheep', 'besid', 'road', 'lake']","['sheep', 'edg', 'road', 'lake', 'mountain', 'background']",3.0
+"['group', 'peopl', 'sit', 'tabl', 'italian', 'restaur']","['group', 'six', 'peopl', 'sit', 'tabl', 'salad', 'serv']",3.0
+"['tan', 'cow', 'look', 'close', 'camera']","['white', 'grey', 'cat', 'bathroom', 'sink', 'look', 'camera']",0.75
+"['older', 'woman', 'hold', 'newborn', 'babi']","['woman', 'sit', 'sofa', 'hold', 'babi']",3.4
+"['two', 'dog', 'play', 'grass']","['two', 'dog', 'play', 'snow']",2.8
+"['three', 'peopl', 'sit', 'picnic', 'tabl', 'outsid', 'build', 'paint', 'like', 'union', 'jack']","['three', 'peopl', 'sit', 'outdoor', 'tabl', 'front', 'build', 'paint', 'like', 'union', 'jack']",4.8
+"['dog', 'swim', 'water']","['dog', 'wear', 'cape', 'run', 'snow']",1.4
+"['young', 'laugh', 'girl', 'boy', 'play', 'big', 'drum']","['babi', 'girl', 'littl', 'boy', 'stand', 'next', 'guitar', 'drum']",2.4
+"['brown', 'dog', 'run', 'snow', 'white', 'ball', 'mouth']","['four', 'dog', 'play', 'snow', 'citi', 'skylin', 'behind']",1.8
+"['bird', 'fli', 'across', 'water']","['bird', 'fli', 'water']",4.8
+"['dog', 'run', 'pond']","['pale', 'dog', 'run', 'along', 'dirt', 'path']",1.4
+"['man', 'woman', 'watch', 'two', 'dog']","['man', 'maroon', 'bath', 'suit', 'swing', 'rope', 'lake']",0.4
+"['man', 'sit', 'dock', 'look', 'water']","['man', 'jump', 'rock', 'water']",1.33
+"['brown', 'white', 'dog', 'run', 'snow']","['brown', 'white', 'dog', 'run', 'grass']",2.4
+"['man', 'woman', 'stand', 'front', 'build']","['two', 'girl', 'sit', 'atv', 'sand', 'front', 'bridg']",0.4
+"['three', 'dolphin', 'jump', 'pool', 'front', 'crowd', 'peopl']","['man', 'give', 'present', 'front', 'lot', 'peopl']",0.6000000000000001
+"['dog', 'run', 'field']","['dog', 'run', 'field']",4.8
+"['black', 'white', 'dog', 'jump', 'water']","['white', 'dog', 'run', 'across', 'water']",2.8
+"['tan', 'white', 'dog', 'retriev', 'ball', 'gravel', 'path']","['larg', 'dog', 'walk', 'along', 'gravel', 'path', 'wood']",2.0
+"['brown', 'white', 'dog', 'walk', 'snowi', 'step']","['black', 'white', 'dog', 'frolic', 'snow']",2.6
+"['woman', 'black', 'orang', 'jacket', 'throw', 'stick', 'brown', 'black', 'dog', 'fetch']","['man', 'blue', 'jacket', 'stand', 'crowd']",0.0
+"['dog', 'run', 'across', 'snow', 'snowbal', 'mouth']","['tan', 'dog', 'run', 'grass', 'yellow', 'toy', 'mouth']",2.4
+"['small', 'boy', 'build', 'wooden', 'block']","['small', 'boy', 'wear', 'blue', 'shirt', 'stack', 'wooden', 'block']",4.0
+"['man', 'woman', 'walk', 'white', 'dog', 'leash']","['man', 'woman', 'dog', 'walk', 'pave', 'road']",4.0
+"['young', 'boy', 'wear', 'red', 'winter', 'coat', 'eat', 'hold', 'candi', 'bar']","['young', 'boy', 'wear', 'red', 'coat', 'eat', 'chocol', 'bar']",4.0
+"['two', 'race', 'dog', 'run', 'mud']","['man', 'go', 'water']",0.0
+"['young', 'boy', 'jump', 'pool', 'say', 'dive']","['boy', 'jump', 'pool', 'lifeguard', 'watch']",3.2
+"['three', 'dog', 'run', 'dirt']","['yellow', 'dog', 'run', 'dirt', 'road']",1.4
+"['four', 'child', 'stool', 'diner']","['four', 'child', 'sit', 'tall', 'bar', 'stool', 'yellow', 'grey', 'bar']",3.6
+"['boy', 'white', 'dog', 'run', 'grassi', 'field']","['boy', 'dog', 'run', 'grass']",4.4
+"['two', 'boy', 'play', 'game', 'flag', 'footbal']","['two', 'boy', 'play', 'flag', 'footbal']",5.0
+"['black', 'white', 'dog', 'mouth', 'wide', 'open']","['black', 'white', 'dog', 'jump', 'snow']",1.8
+"['one', 'white', 'boy', 'one', 'black', 'boy', 'stand', 'arm', 'around']","['two', 'young', 'boy', 'one', 'white', 'one', 'black', 'stand', 'arm', 'around']",4.8
+"['girl', 'play', 'puddl', 'bare', 'foot']","['child', 'play', 'two', 'white', 'black', 'goos']",0.6000000000000001
+"['two', 'child', 'splash', 'water']","['two', 'dolphin', 'jump', 'water']",1.4
+"['man', 'suit', 'danc', 'young', 'girl', 'front', 'audienc']","['woman', 'dangl', 'blue', 'fabric', 'connect', 'tree']",0.2
+"['three', 'child', 'play', 'floor', 'toy']","['three', 'child', 'sit', 'floor', 'play', 'sever', 'toy']",4.2
+"['two', 'dog', 'play', 'yard']","['two', 'dog', 'play', 'grass']",4.6
+"['num', 'greyhound', 'dog', 'run', 'around', 'track']","['muzzl', 'greyhound', 'dog', 'run', 'around', 'track']",4.0
+"['four', 'child', 'play', 'trampolin']","['four', 'kid', 'jump', 'trampolin']",4.6
+"['black', 'tan', 'dog', 'stand', 'field', 'near', 'tree']","['white', 'dog', 'stand', 'river', 'shake', 'dri']",1.8
+"['black', 'dog', 'run', 'water']","['black', 'dog', 'run', 'water']",4.6
+"['man', 'woman', 'walk', 'past', 'record', 'shop']","['man', 'woman', 'kiss', 'front', 'crowd', 'peopl']",0.2
+"['two', 'dog', 'play', 'grass']","['two', 'tan', 'dog', 'play', 'snow']",2.6
+"['three', 'child', 'wrestl', 'floral', 'carpet']","['three', 'child', 'play', 'floor']",3.8
+"['boy', 'red', 'jump', 'sandbox']","['dog', 'swim', 'pond']",0.0
+"['dog', 'jump', 'water']","['dog', 'jump', 'water']",5.0
+"['wet', 'blond', 'dog', 'carri', 'stick', 'shore']","['wet', 'brown', 'dog', 'stick', 'mouth', 'run', 'sand', 'next', 'water']",3.6
+"['man', 'dog', 'rock', 'beach']","['man', 'dog', 'rocki', 'seashor']",4.6
+"['larg', 'group', 'peopl', 'stand', 'outsid', 'build']","['group', 'peopl', 'ice', 'skate', 'big', 'citi']",2.0
+"['two', 'dog', 'run', 'field']","['two', 'dog', 'run', 'field']",5.0
+"['two', 'peopl', 'bed']","['two', 'boxer', 'ring']",0.0
+"['light', 'brown', 'dog', 'run', 'path', 'happili']","['pale', 'dog', 'run', 'path']",3.4
+"['red', 'hair', 'woman', 'black', 'pose', 'man', 'rest', 'tree']","['man', 'black', 'shirt', 'hold', 'child', 'wear', 'sunglass']",0.0
+"['two', 'black', 'dog', 'jump', 'play', 'yellow', 'tenni', 'ball', 'snow']","['brown', 'dog', 'black', 'dog', 'play', 'yellow', 'soccer', 'ball']",2.0
+"['black', 'white', 'dog', 'jump', 'hurdl']","['white', 'dog', 'run', 'bridg']",2.0
+"['two', 'brown', 'dog', 'run', 'water']","['two', 'brown', 'dog', 'run', 'water']",4.6
+"['black', 'dog', 'jump', 'water']","['black', 'dog', 'shake', 'water']",3.0
+"['man', 'climb', 'rockfac']","['man', 'climb', 'rock', 'wall']",4.6
+"['woman', 'play', 'tenni', 'hit', 'ball']","['woman', 'play', 'volley', 'ball']",2.0
+"['young', 'boy', 'hair', 'stand', 'slide', 'blue', 'slide']","['kid', 'orang', 'shirt', 'slide', 'teal', 'slide']",2.6
+"['dog', 'stand', 'water']","['girl', 'play', 'parachut']",0.4
+"['surfer', 'ride', 'break', 'wave']","['group', 'surfer', 'catch', 'wave']",2.6
+"['two', 'dog', 'run', 'grass', 'near', 'hous', 'tree']","['two', 'dog', 'run', 'green', 'yard']",4.2
+"['brown', 'white', 'dog', 'run', 'across', 'brown', 'field']","['person', 'hang', 'rocki', 'cliff']",0.0
+"['black', 'dog', 'stand', 'grass', 'near', 'volleybal']","['brown', 'black', 'blue', 'collar', 'near', 'soccer', 'ball', 'grassi', 'field']",2.2
+"['white', 'dog', 'light', 'brown', 'mark', 'stick', 'mouth', 'paw', 'snow']","['white', 'dog', 'hold', 'stick', 'mouth', 'run', 'snow']",4.0
+"['man', 'wet', 'suit', 'throw', 'babi', 'wear', 'wet', 'suit', 'air']","['man', 'white', 'print', 'shirt', 'woman', 'black', 'dress', 'danc']",0.0
+"['black', 'white', 'dog', 'run', 'grass']","['tan', 'dog', 'walk', 'snow']",2.0
+"['har', 'dog', 'leap', 'log', 'anoth', 'dog', 'follow', 'behind']","['brown', 'white', 'dog', 'leap', 'log', 'field', 'anoth', 'dog', 'follow', 'behind']",3.0
+"['dog', 'run', 'grass']","['two', 'dog', 'run', 'grass']",2.6
+"['mani', 'footbal', 'player', 'sit', 'ground']","['dog', 'roll', 'ground']",0.0
+"['littl', 'boy', 'littl', 'girl', 'play', 'togeth', 'outsid']","['woman', 'wear', 'white', 'shirt', 'stand', 'street']",0.0
+"['surfer', 'flip', 'wave']","['surfer', 'flip', 'wave']",4.8
+"['femal', 'dj', 'hold', 'michael', 'jackson', 'album']","['girl', 'hold', 'pictur', 'michael', 'jackson', 'smile']",3.0
+"['two', 'white', 'standard', 'poodl', 'play', 'toy', 'snow']","['two', 'dog', 'fight', 'snow']",2.2
+"['boy', 'lie', 'stomach', 'grass']","['small', 'boy', 'lie', 'stomach', 'grass']",4.4
+"['white', 'dog', 'run', 'along', 'rocki', 'shorelin']","['dog', 'jump', 'hurdl']",0.8
+"['black', 'white', 'dog', 'jump', 'air', 'catch', 'frisbe']","['black', 'white', 'dog', 'jump', 'yard']",3.4
+"['woman', 'hold', 'har', 'brown', 'white', 'dog', 'wear']","['man', 'woman', 'look', 'artwork', 'easel', 'clip', 'fenc', 'wall']",0.0
+"['girl', 'jump']","['boy', 'rock', 'climb']",0.6000000000000001
+"['young', 'pitcher', 'throw', 'basebal']","['brown', 'dog', 'walk', 'grass', 'besid', 'fenc']",0.0
+"['three', 'child', 'play', 'snow']","['three', 'child', 'play', 'hay']",2.4
+"['two', 'peopl', 'ride', 'bike', 'dirt', 'road']","['two', 'peopl', 'ride', 'bike', 'hill']",3.4
+"['brown', 'dog', 'run', 'field']","['brown', 'dog', 'tongu', 'wag', 'run', 'field']",4.0
+"['dog', 'stand', 'sand']","['tan', 'dog', 'stand', 'front', 'plant']",2.0
+"['four', 'girl', 'swimsuit', 'play', 'volleybal', 'beach']","['four', 'ladi', 'swimsuit', 'play', 'sand', 'volleybal', 'beach']",4.0
+"['blond', 'hair', 'toddler', 'swing', 'tire', 'swing']","['blond', 'hair', 'child', 'swing', 'tire', 'swing']",4.8
+"['child', 'wear', 'blue', 'white', 'short', 'jump', 'surf']","['girl', 'wear', 'green', 'twist', 'someth', 'hand']",0.6000000000000001
+"['two', 'dog', 'run', 'shore']","['white', 'dog', 'run', 'beach']",2.4
+"['yellow', 'car', 'speed', 'along', 'snowi', 'field']","['yellow', 'car', 'drive', 'quickli', 'snow']",4.4
+"['two', 'dog', 'play', 'snow']","['two', 'dog', 'play', 'grass']",2.4
+"['one', 'boy', 'push', 'anoth', 'boy', 'swing']","['boy', 'push', 'anoth', 'boy', 'swing']",4.8
+"['pitcher', 'mound', 'throw', 'basebal']","['boy', 'middl', 'pitch', 'basebal', 'game']",3.4
+"['littl', 'girl', 'ride', 'toy', 'tricycl', 'spring']","['littl', 'girl', 'play', 'toy', 'outdoor']",2.8
+"['woman', 'sit', 'water']","['woman', 'skate', 'park']",0.8
+"['tan', 'girl', 'floral', 'bikini', 'swim', 'dark', 'blue', 'water']","['littl', 'girl', 'flower', 'bathingsuit', 'run', 'sand', 'beach']",2.2
+"['grey', 'dog', 'swim', 'river', 'stick', 'mouth']","['dog', 'swim', 'water', 'carri', 'stick', 'mouth']",3.8
+"['woman', 'blue', 'bath', 'suit', 'jump', 'dock', 'lake']","['boy', 'blue', 'shirt', 'blue', 'jean', 'run', 'across', 'playground']",0.4
+"['two', 'black', 'dog', 'play', 'grass']","['two', 'black', 'dog', 'play', 'grassi', 'plain']",4.6
+"['two', 'puppi', 'play', 'plastic', 'bag']","['two', 'dog', 'play', 'yard']",3.0
+"['man', 'black', 'suit', 'surf', 'along', 'crash', 'wave']","['surfer', 'wear', 'black', 'wet', 'suit', 'ride', 'white', 'wave', 'ocean']",4.6
+"['three', 'littl', 'girl', 'sit', 'grass']","['two', 'poodl', 'run', 'snow']",0.8
+"['brown', 'dog', 'run', 'toward', 'camera', 'dirt', 'trail', 'mountain', 'background']","['brown', 'dog', 'run', 'toward', 'camera', 'rocki', 'trail', 'brush', 'mountain', 'background']",4.0
+"['dog', 'jump', 'ramp']","['girl', 'jump', 'sand']",1.2
+"['dog', 'play', 'park']","['dog', 'leap', 'fenc', 'park']",3.2
+"['four', 'dog', 'stand', 'snow']","['four', 'dog', 'play', 'snow']",3.6
+"['brown', 'black', 'dog', 'snow', 'show', 'teeth', 'bark']","['black', 'dog', 'fight', 'brown', 'dog', 'snow']",3.4
+"['man', 'run', 'track']","['man', 'run', 'track']",5.0
+"['lightcolor', 'dog', 'run', 'grass']","['dog', 'run', 'grass']",4.0
+"['child', 'hold', 'object', 'fire']","['child', 'pink', 'hold', 'object', 'appear', 'fire']",4.0
+"['small', 'white', 'dog', 'climb', 'log']","['small', 'dog', 'step', 'onto', 'log']",2.8
+"['dog', 'play', 'snow', 'hind', 'leg']","['two', 'dog', 'play', 'snow']",3.8
+"['boy', 'skateboard', 'rail', 'graffiti', 'stair']","['skateboard', 'slide', 'handrail', 'foot']",2.6
+"['black', 'white', 'dog', 'run', 'water']","['black', 'brown', 'dog', 'run', 'field']",2.0
+"['girl', 'run', 'desert', 'path']","['young', 'girl', 'talk', 'cell', 'phone']",0.8
+"['man', 'steer', 'blue', 'boat', 'past', 'brightli', 'color', 'hous']","['man', 'drive', 'blue', 'boat', 'pass', 'color', 'hous']",5.0
+"['woman', 'wear', 'larg', 'sunglass', 'hold', 'newspap', 'hand']","['fat', 'woman', 'wear', 'faint', 'blue', 'top', 'blow', 'soap', 'bubbl']",1.0
+"['deer', 'jump', 'fenc']","['deer', 'jump', 'fenc']",5.0
+"['person', 'basebal', 'team']","['person', 'play', 'basketbal', 'team']",2.4
+"['bike', 'next', 'coupl', 'woman']","['child', 'next', 'bike']",2.0
+"['group', 'eat', 'take', 'breathtak', 'view']","['group', 'peopl', 'take', 'look', 'unusu', 'tree']",2.2
+"['boy', 'rais', 'hand']","['man', 'rais', 'hand']",3.4
+"['man', 'gray', 'beard', 'shave', 'front', 'lectur', 'hall']","['man', 'beard', 'sit', 'grass']",0.8
+"['young', 'person', 'deep', 'thought']","['young', 'man', 'deep', 'thought']",4.6
+"['man', 'perform', 'labor']","['man', 'perform', 'today']",2.8
+"['two', 'men', 'wear', 'tradit', 'cloth', 'stand', 'outsid']","['three', 'woman', 'wear', 'black', 'vest', 'gray', 'shirt', 'talk', 'outsid', 'build']",2.0
+"['man', 'wear', 'gray', 'hat', 'fish', 'fish', 'boat']","['man', 'wear', 'straw', 'hat', 'fish', 'vest', 'stream']",2.6
+"['littl', 'girl', 'orang', 'stripe', 'outfit', 'airborn', 'whilst', 'bounc', 'bed']","['dog', 'red', 'shirt', 'chase', 'squirrel', 'glass']",0.2
+"['person', 'watch', 'peopl', 'ski', 'hill']","['woman', 'jump', 'long', 'distanc', 'peopl', 'watch']",1.4
+"['yard', 'dog']","['dog', 'run', 'anoth', 'dog']",1.6
+"['three', 'woman', 'cook']","['two', 'woman', 'cook']",3.2
+"['woman', 'kneel', 'next', 'cat']","['girl', 'stand', 'next', 'man']",0.2
+"['three', 'guy', 'play', 'pro', 'game', 'basketbal']","['two', 'guy', 'play', 'game', 'basebal']",2.4
+"['boy', 'earn', 'next', 'belt', 'karat']","['five', 'girl', 'one', 'boy', 'swimsuit', 'middl', 'jump', 'pool']",0.2
+"['woman', 'dig', 'sand']","['man', 'buri', 'sand']",1.4
+"['woman', 'drive', 'golf', 'cart']","['man', 'ride', 'cart']",1.8
+"['person', 'film', 'outdoor']","['coupl', 'outdoor']",1.6
+"['human', 'ride', 'skateboard']","['child', 'ride', 'skateboard']",3.8
+"['woman', 'plaid', 'outfit', 'look', 'bag', 'produc']","['pictur', 'woman', 'flower', 'dress', 'tote', 'someth', 'bucket']",1.0
+"['tenni', 'player', 'hit', 'ball', 'outer', 'space', 'broke', 'death', 'star']","['femal', 'tenni', 'player', 'leap', 'air', 'hit', 'ball']",1.2
+"['boy', 'climb', 'forest', 'hill']","['boy', 'climb', 'hill']",4.0
+"['blond', 'boy', 'jump', 'onto', 'deck']","['boy', 'jump', 'wet', 'inflat', 'slide']",2.0
+"['man', 'us', 'chainsaw', 'sculpt', 'phallic', 'ice', 'sculptur']","['man', 'use', 'chainsaw', 'carv', 'wooden', 'sculptur']",2.6
+"['group', 'male', 'construct', 'worker', 'repair', 'railroad', 'track', 'cloudi', 'day']","['crew', 'worker', 'work', 'railroad', 'track']",3.8
+"['girl', 'someth', 'head']","['woman', 'someth']",2.6
+"['peopl', 'make', 'structur', 'card']","['two', 'peopl', 'togeth', 'one', 'use', 'piec', 'cloth', 'differ', 'way', 'intend']",0.2
+"['four', 'peopl', 'outsid']","['five', 'peopl', 'outsid']",3.0
+"['girl', 'hold', 'hand', 'blue', 'cloth']","['young', 'peopl', 'wear', 'jean', 'red', 'green', 'shirt']",1.8
+"['man', 'demonstr', 'work', 'clay', 'least', 'two', 'peopl', 'observ']","['least', 'one', 'three', 'woman', 'talk', 'other']",0.6000000000000001
+"['dog', 'sweater']","['man', 'suit', 'jacket', 'sit', 'red', 'couch', 'cat']",0.6000000000000001
+"['sculptor', 'appli', 'concret', 'larg', 'statu', 'human', 'figur', 'stand', 'head']","['person', 'stand', 'front', 'build', 'hold', 'aloft', 'plywood']",0.2
+"['boy', 'dark', 'hair', 'water', 'look']","['man', 'short', 'hair']",0.6000000000000001
+"['pole', 'behind', 'person', 'play', 'peekaboo', 'child']","['child', 'ball']",0.2
+"['woman', 'paint']","['boy', 'take', 'pictur']",1.0
+"['man', 'work', 'steel', 'mill']","['man', 'work', 'foundri']",3.4
+"['young', 'woman', 'flirt', 'young', 'boy']","['girl', 'young', 'cheeri']",1.4
+"['men', 'score', 'water', 'polo', 'tournament']","['two', 'men', 'compet', 'match']",2.0
+"['man', 'eat', 'popcorn', 'watch', 'cartoon', 'late', 'one', 'night']","['man', 'girl', 'watch', 'cartoon', 'home']",2.8
+"['three', 'men', 'sit', 'bench']","['two', 'men', 'sit', 'bench']",3.2
+"['road', 'long']","['noth', 'side', 'road']",0.8
+"['young', 'man', 'wear', 'white', 'tshirt', 'green', 'black', 'short', 'stand', 'stump']","['man', 'wear', 'white', 'shirt', 'red', 'black', 'short', 'run', 'sidewalk']",1.8
+"['dog', 'stair']","['dog', 'rest', 'stair']",2.2
+"['two', 'woman', 'give', 'demonstr', 'renaiss', 'fair']","['two', 'peopl', 'demonstr', 'renaiss', 'fair']",4.2
+"['guy', 'sit', 'couch', 'watch', 'televis']","['guy', 'sit', 'couch', 'watch', 'tv']",5.0
+"['woman', 'pose', 'christma', 'card']","['girl', 'take', 'photo']",1.2
+"['man', 'work', 'farm']","['old', 'guy', 'work', 'farm', 'cow', 'kick']",2.8
+"['girl', 'talk', 'dad', 'cellphon']","['girl', 'talk', 'phone']",4.4
+"['one', 'person', 'wield', 'umbrella']","['one', 'person', 'hold', 'umbrella']",4.4
+"['group', 'teenag', 'jump', 'good', 'time']","['group', 'kid', 'good', 'time']",3.6
+"['man', 'play', 'guitar', 'joe', 'cafe']","['man', 'play', 'drum', 'mom']",1.2
+"['someon', 'blanket']","['person', 'make', 'blanket']",1.4
+"['man', 'orang', 'shirt']","['woman', 'orang', 'shirt']",3.4
+"['two', 'kid', 'look', 'product', 'sold', 'insid', 'subway', 'shop']","['kid', 'steal', 'store']",0.8
+"['babi', 'boy', 'want', 'mother']","['babi', 'boy', 'happi', 'see', 'mother']",2.8
+"['boy', 'close', 'girl']","['girl', 'close', 'boy', 'whose', 'face', 'shown']",3.2
+"['six', 'child', 'clean', 'room']","['two', 'male', 'child', 'clean', 'leaf', 'park', 'lot']",1.6
+"['cook', 'prepar', 'food']","['cook', 'make', 'food']",5.0
+"['two', 'men', 'help', 'boy']","['two', 'men', 'young', 'child']",3.6
+"['two', 'ski', 'peopl', 'cross', 'countri', 'ski']","['peopl', 'ski', 'cross', 'countri']",3.6
+"['dog', 'take', 'poop', 'street']","['man', 'make', 'balloon', 'anim', 'two', 'child', 'street', 'corner']",0.4
+"['kid', 'talk', 'class']","['girl', 'go', 'class']",1.8
+"['woman', 'tri', 'sell', 'someth', 'individu']","['men', 'tri', 'make', 'money']",1.2
+"['peopl', 'wait', 'firework', 'start']","['three', 'peopl', 'wait', 'rain', 'stop']",1.2
+"['dog', 'prepar', 'herd', 'three', 'sheep', 'horn']","['dog', 'sheep', 'run', 'togeth']",2.2
+"['peopl', 'gather', 'room']","['peopl', 'gather', 'togeth', 'room']",5.0
+"['woman', 'overal', 'paint', 'pictur', 'wall']","['woman', 'paint', 'wall', 'white']",2.6
+"['ad', 'aspirin', 'water', 'could', 'kill', 'plant']","['men', 'tri', 'remov', 'oil', 'bodi', 'water']",0.0
+"['woman', 'wear', 'yellow']","['woman', 'wear', 'red']",2.8
+"['man', 'stunt', 'bicycl']","['man', 'wheeli', 'motorcycl']",3.2
+"['ten', 'peopl', 'ride', 'atv']","['num', 'peopl', 'ride', 'bike']",1.6
+"['yellow', 'vest', 'person', 'road', 'work']","['person', 'well', 'skateboard']",0.2
+"['two', 'worker', 'sit', 'next', 'pipe', 'eat', 'lunch']","['construct', 'worker', 'sit', 'eat', 'lunch']",3.8
+"['group', 'peopl', 'live', 'desert']","['group', 'peopl', 'middl', 'desert']",4.0
+"['two', 'kid', 'swim']","['six', 'kid', 'go', 'swim']",2.8
+"['peopl', 'get', 'dirti', 'cloth', 'clean']","['peopl', 'get', 'cloth', 'clean']",5.0
+"['child', 'hold', 'music', 'instrument']","['group', 'child', 'sing', 'play', 'instrument']",3.4
+"['group', 'peopl', 'wear', 'polic', 'uniform', 'conduct', 'arrest']","['group', 'polic', 'offic', 'wear', 'protect']",2.8
+"['man', 'plan', 'shoot', 'wed']","['woman', 'go', 'wed']",1.4
+"['child', 'bike', 'got', 'wet']","['put', 'away', 'bike']",1.2
+"['soldier', 'walk', 'dog']","['man', 'walk', 'dog']",3.2
+"['shirtless', 'woman', 'oper', 'lawn', 'mower']","['girl', 'mow', 'grass', 'lawn', 'mower']",3.0
+"['two', 'offic', 'drive']","['two', 'offic', 'hors']",2.2
+"['ladi', 'look', 'sad', 'one', 'buy', 'ware']","['ladi', 'sell', 'thing']",2.0
+"['flock', 'bird', 'hover', 'sandi', 'beach']","['bird', 'fli', 'beach']",3.8
+"['peopl', 'walk', 'home']","['peopl', 'wait']",1.6
+"['man', 'laugh', 'woman']","['man', 'woman', 'laugh']",4.8
+"['run', 'boat']","['man', 'get', 'boat', 'clean', 'take', 'water']",1.2
+"['num', 'cow', 'field']","['two', 'sheep', 'field']",2.4
+"['wet', 'child', 'enjoy', 'summer']","['woman', 'enjoy', 'summer', 'weather']",1.8
+"['girl', 'driver', 'licens']","['man', 'driver', 'licens']",2.6
+"['peopl', 'motorcycl', 'wear', 'race', 'gear', 'ride', 'around', 'racetrack']","['peopl', 'motorcycl', 'ride', 'around', 'racetrack']",3.8
+"['man', 'stand', 'ground', 'paintbrush']","['man', 'crutch', 'lie', 'ground']",1.2
+"['kid', 'theater', 'watch', 'movi']","['pictur', 'day', 'boy']",0.2
+"['two', 'woman', 'walk', 'sidewalk', 'store']","['two', 'woman', 'walk', 'sidewalk', 'afternoon']",3.8
+"['man', 'son', 'back']","['man', 'spent', 'time', 'son']",2.4
+"['group', 'darkskin', 'peopl', 'walk', 'past', 'barb', 'wire']","['two', 'woman', 'gossip', 'fenc']",0.4
+"['zombi', 'parad', 'around', 'eat', 'brain']","['zombi', 'eat', 'flesh', 'togeth']",3.4
+"['group', 'peopl', 'sit', 'beach', 'towel', 'watch', 'blue', 'angel']","['group', 'peopl', 'sit', 'beach', 'watch', 'blue', 'angel']",4.2
+"['three', 'peopl', 'meet', 'coffe']","['two', 'peopl', 'make', 'coffe']",2.4
+"['young', 'girl', 'dirt', 'face', 'red', 'child', 'bike', 'background']","['old', 'woman', 'short', 'white', 'tshirt', 'stand', 'path', 'watch', 'child', 'play']",0.8
+"['line', 'scooter', 'park', 'middl', 'street']","['line', 'motor', 'bike', 'park', 'middl', 'street']",4.4
+"['man', 'hold', 'cat']","['man', 'hold', 'dog']",3.0
+"['cat', 'run', 'grass']","['dog', 'run', 'park']",2.0
+"['two', 'boy', 'play', 'kick', 'ball', 'back', 'forth']","['player', 'kick', 'attempt', 'kick', 'ball']",3.0
+"['two', 'girl', 'run']","['three', 'boy', 'run']",2.2
+"['littl', 'girl', 'white', 'blous', 'blue', 'pant', 'frolic', 'grass']","['woman', 'green', 'shirt', 'white', 'pant', 'golf', 'green']",1.8
+"['man', 'white', 'shirt', 'hat', 'play', 'guitar']","['man', 'green', 'shirt', 'black', 'hat', 'play', 'guitar', 'stage']",2.8
+"['black', 'hood', 'man', 'use', 'larg', 'magnifi', 'glass', 'look', 'booklet']","['white', 'hood', 'woman', 'use', 'magnifi', 'glass', 'look', 'booklet']",2.8
+"['peopl', 'run', 'marathon']","['peopl', 'run', 'marathon']",5.0
+"['group', 'peopl', 'nervou', 'cross', 'water']","['group', 'peopl', 'water']",2.2
+"['group', 'kid', 'jump', 'contest']","['group', 'kid', 'sleepov']",1.2
+"['person', 'wear', 'fedora']","['man', 'wear', 'uniform']",1.6
+"['woman', 'man', 'embrac', 'watch', 'horror', 'movi']","['man', 'woman', 'watch', 'movi', 'togeth']",2.8
+"['man', 'blue', 'dress', 'shirt']","['man', 'white', 'shirt', 'blue', 'pant', 'talk', 'woman', 'pink', 'shirt']",1.8
+"['coupl', 'play', 'game', 'life']","['famili', 'play', 'game', 'togeth']",2.6
+"['head', 'child', 'dark', 'glass', 'focu']","['woman', 'full', 'head', 'hair']",0.2
+"['mainten', 'guy', 'repair', 'net', 'tenni', 'court']","['man', 'remov', 'tenni', 'net']",2.4
+"['kid', 'sit', 'soccer', 'ball', 'outsid']","['kid', 'sit', 'soccer', 'ball', 'park']",4.2
+"['man', 'brown', 'coat', 'rub', 'nose']","['bald', 'man', 'red', 'beard', 'hold', 'hand', 'near', 'mouth']",2.2
+"['dog', 'chase', 'goos']","['one', 'dog', 'chase']",1.6
+"['small', 'child', 'play', 'letter', 'p']","['num', 'young', 'girl', 'sit', 'front', 'bookcas', 'num', 'read', 'book']",0.8
+"['brown', 'dog', 'jump']","['brown', 'dog', 'jump']",5.0
+"['group', 'teenag', 'red', 'shirt', 'smile']","['group', 'peopl', 'wear', 'orang', 'shirt']",1.2
+"['remain', 'banyan', 'tree', 'exhaust', 'daili', 'ritual', 'dragoon', 'men', 'everi', 'two', 'hour']","['remain', 'banyan', 'tree', 'exhaust', 'daili', 'ritual', 'herd', 'cat', 'everi', 'two', 'hour']",3.0
+"['u', 'depend', 'school']","['realli', 'depend', 'school', 'program']",3.0
+"['there', 'also', 'string', 'made']","['also', 'youtubevers', 'film']",0.0
+"['also', 'impli', 'may', 'paid', 'cannot', 'place', 'client']","['might', 'professor']",0.0
+"['one', 'time', 'well']","['habit', 'well']",2.0
+"['base', 'answer', 'know', 'want']","['may', 'want', 'process', 'given', 'work', 'within']",0.0
+"['need', 'worri']","['dont', 'worri']",5.0
+[],['say'],3.0
+"['ask', 'bo', 'want']","['listen', 'bo', 'your', 'paid', 'tell', 'bo']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['decid', 'much', 'want', 'demand', 'unmet', 'demand', 'live']",0.0
+"['depend', 'want', 'tank']","['think', 'depend', 'want']",2.0
+[],['ye'],5.0
+[],[],1.0
+"['decid', 'want', 'get']","['know', 'want']",4.0
+['suggest'],"['two', 'suggest']",4.0
+"['want', 'start', 'room', 'largest', 'make', 'sure', 'straightest', 'start']","['start', 'clinic', 'mayb', 'move', 'insur', 'compani']",1.0
+"['dont', 'want', 'derail', 'meet', 'key', 'speak']","['key', 'thing', 'need', 'meet', 'listen']",1.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['answer', 'question', 'probabl']",1.0
+"['soon', 'possibl']","['start', 'earli', 'possibl']",4.0
+"['base', 'answer', 'know', 'want']","['depend', 'want', 'next', 'want']",1.0
+"['answer', 'question', 'ye']","['answer', 'question', 'ye']",5.0
+"['give', 'answer']","['ill', 'answer', 'question']",4.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['sorri', 'dont', 'know', 'answer', 'question']",4.0
+"['rule', 'doubt', 'throw']","['alway', 'go', 'rule', 'doubt', 'throw']",4.0
+"['good', 'idea']","['sound', 'like', 'bad', 'idea']",4.0
+"['ye', 'probabl', 'good', 'idea', 'renew', 'passport']","['good', 'idea']",3.0
+"['probabl', 'depend', 'cut', 'meat']","['depend', 'meat', 'cut']",4.0
+"['good', 'idea']","['good', 'question']",0.0
+"['pretti', 'much']","['much', 'better', 'ask']",0.0
+"['ye', 'reason']","['ye', 'exactli', 'mean']",1.0
+"['tri', 'ask', 'employe']","['tri', 'ask']",4.0
+"['guy', 'make', 'waaaaay', 'complic']","['make', 'complic']",5.0
+"['dont', 'know']","['need', 'anyth']",2.0
+"['two', 'thing', 'consid']","['two', 'possibl', 'caus']",4.0
+"['work', 'slowli']","['seem', 'work']",0.0
+"['buy', 'amazon', 'num']","['buy', 'ebay', 'num']",2.0
+"['coffe', 'simpli', 'pick', 'aluminum', 'pot', 'coffe', 'acid']","['one', 'idea', 'clean', 'coffe', 'residu', 'coffe', 'pot']",1.0
+"['two', 'way', 'start', 'plung', 'drip']","['two', 'tradit', 'way', 'bend', 'wood']",0.0
+"['might', 'tri', 'varieti', 'find', 'one', 'click']","['advic', 'would', 'tri', 'varieti', 'coffe', 'afford', 'find', 'one', 'like']",2.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['base', 'answer', 'know', 'want']","['way', 'depend', 'avail']",1.0
+"['ye', 'mention', 'experi']","['ye', 'mention']",3.0
+['understand'],[],2.0
+"['take', 'look']","['take', 'look']",5.0
+"['id', 'say', 'primarili', 'depend', 'two', 'thing']","['id', 'say', 'depend', 'ultim', 'outcom', 'want']",2.0
+[],"['much', 'besid']",1.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['answer', 'far', 'alreadi', 'good', 'id', 'like', 'add', 'map', 'switzerland']","['lot', 'answer', 'alreadi', 'id', 'like', 'add', 'curri', 'anoth', 'solut']",0.0
+"['similar', 'situat']","['similar', 'situat']",5.0
+"['ive', 'problem']",['problem'],5.0
+['maximum'],"['quarantin', 'period']",0.0
+"['sure', 'right', 'site', 'question']","['sure', 'question', 'would', 'made', 'much', 'sens', 'roman']",2.0
+"['depend', 'want', 'next', 'want']","['word', 'depend', 'go']",4.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['ye', 'creat', 'portfolio', 'site', 'showcas', 'youv', 'done']",0.0
+"['disclos', 'key', 'info']",[],2.0
+"['depend', 'want', 'next', 'want']","['guess', 'depend', 'your', 'go']",3.0
+"['base', 'answer', 'know', 'want']","['job', 'see', 'need', 'job']",0.0
+"['depend', 'want', 'next', 'want']","['depend', 'want', 'achiev']",3.0
+"['problem', 'professor', 'deal']","['big', 'problem']",1.0
+"['unusu', 'request']","['sound', 'bit', 'unusu']",3.0
+"['much', 'depend', 'grant', 'question']","['think', 'depend', 'much', 'area']",2.0
+['thing'],['problem'],4.0
+"['affect', 'rate']",[],0.0
+"['answer', 'question', 'probabl']","['think', 'short', 'answer', 'question']",4.0
+"['dont', 'think', 'make', 'tremend', 'differ']","['dont', 'think', 'make', 'much', 'differ']",4.0
+['depend'],"['depend', 'evalu']",2.0
+"['there', 'lot']","['there', 'much', 'sourdough', 'starter']",2.0
+"['answer', 'question']","['answer', 'question']",5.0
+"['base', 'answer', 'know', 'want']","['th', 'answer', 'problem', 'dont', 'actual', 'know', 'your', 'get']",2.0
+"['good', 'idea']","['probabl', 'good', 'idea', 'suggest', 'anyhow']",2.0
+"['best', 'thing', 'know', 'stuff']","['recommend', 'say', 'anyth', 'best']",0.0
+"['id', 'say', 'primarili', 'depend', 'two', 'thing']","['id', 'say', 'depend', 'condit']",2.0
+"['dont', 'know']","['dont', 'anyth', 'season']",0.0
+['thing'],"['situat', 'travel', 'extens']",2.0
+"['good', 'idea']","['think', 'good', 'idea']",4.0
+"['right', 'path']","['right', 'mark']",4.0
+"['doesnt', 'answer', 'question']","['part', 'answer', 'question']",1.0
+['proceed'],[],4.0
+"['page', 'answer', 'question']","['answer', 'question']",4.0
+['use'],"['still', 'use', 'practic']",2.0
+"['realli', 'depend', 'employ', 'document']","['depend', 'your', 'state']",2.0
+"['ive', 'problem']","['ive', 'problem', 'work', 'pub']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['tell', 'good', 'stori', 'sometim', 'tweak', 'realityhistori']",0.0
+"['depend', 'want', 'next', 'want']","['depend', 'want', 'abl']",3.0
+"['ye', 'file', 'tax', 'return', 'canada']","['requir', 'file', 'tax', 'return', 'canada', 'taxabl', 'incom']",1.0
+"['dont', 'see', 'problem', 'whatsoev']","['dont', 'see', 'problem']",5.0
+"['hope', 'look']","['look', 'much', 'higher', 'get', 'pictur']",1.0
+"['best', 'thing', 'know', 'stuff']","['best', 'thing', 'overcom', 'fussi']",0.0
+"['depend', 'dish', 'amen', 'stage', 'make', 'mistak']","['depend', 'sauc', 'result', 'want']",2.0
+"['base', 'answer', 'know', 'want']",['right'],2.0
+"['probabl', 'dont', 'chanc', 'moment']","['say', 'thank', 'dont', 'question', 'moment']",0.0
+"['realli', 'doesnt', 'matter']","['doesnt', 'matter', 'unless', 'realli', 'far']",3.0
+"['dont', 'need', 'know', 'everyth']","['dont', 'know']",3.0
+"['think', 'your', 'look', 'mikey', 'num']","['think', 'your', 'look', 'movi']",3.0
+"['make', 'absolut', 'differ']","['make', 'differ']",5.0
+"['think', 'fine', 'ask', 'question']","['think', 'okay', 'ask', 'question']",5.0
+"['im', 'go', 'direct']","['im', 'go', 'blunt', 'dont']",4.0
+"['base', 'answer', 'know', 'want']","['ye', 'exactli', 'want']",1.0
+[],"['prime', 'first']",0.0
+"['there', 'lot']","['im', 'afraid', 'there', 'realli', 'lot']",5.0
+"['kind', 'insul']","['kind', 'floor']",0.0
+"['depend', 'entir', 'compani', 'contract']","['guess', 'depend', 'natur', 'contract']",4.0
+"['answer', 'question']","['youv', 'answer', 'question', 'alreadi']",5.0
+"['dont', 'think', 'there']","['dont', 'think', 'univers', 'term']",3.0
+['thing'],"['minimallyeffect', 'thing', 'person', 'level']",3.0
+"['tip', 'find', 'use']","['someth', 'like', 'use']",3.0
+"['that', 'believ']","['ye', 'believ', 'good', 'idea']",2.0
+"['sure', 'dont']","['dont', 'spend', 'time', 'someth', 'like']",1.0
+['head'],['adhes'],0.0
+"['sure', 'dont']","['strong', 'scientif', 'reason', 'dont']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['know', 'want']",0.0
+"['would', 'say', 'wouldnt', 'advis']","['person', 'would', 'say', 'unless', 'suit']",2.0
+[],[],5.0
+"['sure', 'ive', 'done', 'trip']","['ive', 'done', 'mani', 'dozen', 'time']",3.0
+['use'],[],3.0
+[],[],5.0
+"['ive', 'locat', 'articl', 'might', 'help', 'httpwwwdsattorneycomqapseudonymsincontract']","['found', 'link', 'might', 'help']",3.0
+"['would', 'say', 'wouldnt', 'advis']","['would', 'say', 'imposs', 'know', 'dont', 'risk']",2.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['answer', 'question', 'realli']",1.0
+"['sure', 'dont']","['dont', 'work']",1.0
+"['also', 'matter', 'tast']","['definit', 'matter', 'prefer']",5.0
+"['good', 'idea']","['good', 'idea']",1.0
+"['answer', 'base', 'experi', 'teach', 'undergradu', 'math', 'u']","['answer', 'base', 'experi', 'research', 'refer']",2.0
+"['thing', 'think']","['quit', 'thing', 'would', 'need']",4.0
+"['want', 'clean', 'area', 'first']","['also', 'want', 'remov', 'seed']",0.0
+"['depend', 'want', 'tank']","['depend', 'want', 'achiev']",2.0
+"['coupl', 'option', 'could', 'consid']","['lot', 'way', 'could', 'go', 'poorli']",1.0
+"['dont', 'worri']","['sinc', 'one', 'ticket', 'dont', 'worri']",3.0
+"['vietnames', 'citizen', 'need', 'visa', 'visit', 'usa']","['nepales', 'citizen', 'requir', 'visa', 'visit', 'uk']",1.0
+"['depend', 'use']","['depend', 'long']",1.0
+"['dont', 'see', 'problem', 'whatsoev']","['dont', 'see', 'could', 'problem']",5.0
+"['there', 'lot']","['realli', 'think', 'much']",5.0
+"['got', 'right']","['ye', 'got']",5.0
+"['base', 'answer', 'know', 'want']","['rememb', 'degre', 'talk', 'want']",0.0
+[],[],4.0
+"['similar', 'situat']","['similar', 'situat']",4.0
+"['lid', 'made']",['paper'],0.0
+"['dont', 'need', 'visa']","['dont', 'need', 'sauc']",0.0
+"['problem', 'supervisor']","['work', 'supervisor', 'team', 'solv', 'problem']",2.0
+"['depend', 'want', 'next', 'want']","['want', 'next']",4.0
+"['two', 'thing', 'consid']","['coupl', 'thing', 'consid']",5.0
+"['depend', 'entir', 'compani', 'contract']","['depend', 'compani']",3.0
+"['wood', 'probabl', 'isnt', 'rotten', 'worn']","['worn', 'safe']",3.0
+"['well', 'wouldnt', 'put', 'cv']","['wouldnt', 'put', 'job', 'resum']",4.0
+"['great', 'one']","['difficult', 'one']",1.0
+"['answer', 'question', 'ye']","['directli', 'answer', 'two', 'question', 'titl']",0.0
+"['ye', 'reason', 'propos']","['valid', 'reason', 'feel', 'way', 'reason', 'resign']",2.0
+"['think', 'depend', 'program']","['depend', 'term', 'use', 'think']",2.0
+[],[],5.0
+"['think', 'isnt', 'gener', 'answer']","['dont', 'think', 'answer']",4.0
+['thing'],"['coupl', 'thing', 'tri']",5.0
+"['key', 'find', 'someth', 'work', 'goal']","['may', 'want', 'process', 'given', 'work', 'within']",1.0
+"['dont', 'know']","['dont', 'equipmentsfacil', 'research', 'b']",0.0
+"['think', 'youv', 'pretti', 'much', 'done', 'review']","['youv', 'pretti', 'much', 'answer', 'question']",2.0
+"['thing', 'think']","['thing', 'dont', 'understand']",0.0
+"['burn', 'calori', 'digest', 'protein', 'carbohydr', 'fat']","['sweat', 'faster', 'burn', 'calori', 'fat']",2.0
+"['depend', 'want', 'next', 'want']","['depend', 'want', 'sayimpli']",1.0
+"['got', 'right']","['youv', 'got', 'right']",5.0
+"['answer', 'question']","['pretti', 'much', 'answer', 'question']",5.0
+['thing'],['problem'],3.0
+"['ye', 'chemic', 'differ']","['ye', 'reason']",0.0
+"['level', 'bit', 'flat', 'import']","['ye', 'although', 'bit', 'sour']",0.0
+"['would', 'look', 'u']","['would', 'look', 'way']",2.0
+"['right', 'path']","['your', 'right', 'path']",5.0
+['havent'],['dont'],1.0
+"['ye', 'common']","['simpl', 'answer', 'ye']",3.0
+"['dont', 'think', 'there']","['dont', 'think', 'benefit']",3.0
+"['look', 'set', 'want']","['whether', 'want']",2.0
+"['problem', 'system', 'doesnt', 'account', 'peopl', 'could', 'care', 'le', 'money', 'titl']","['joker', 'doesnt', 'care', 'money']",1.0
+"['first', 'case', 'think', 'dont', 'need']","['dont', 'think', 'need', 'put', 'cover']",1.0
+"['imposs', 'answer', 'question', 'without', 'form', 'check']","['difficult', 'imposs', 'give', 'complet', 'answer', 'question']",2.0
+"['need', 'add', 'resum', 'posit']","['give', 'opportun', 'make', 'case', 'realli', 'expertis', 'xxx']",2.0
+"['work', 'slowli']","['work', 'slowli']",4.0
+"['need', 'bread', 'machin']","['need', 'worri']",0.0
+"['ye', 'possibl', 'publish', 'paper', 'model', 'analysi']","['ye', 'hard', 'publish', 'peer', 'review', 'journal']",1.0
+"['base', 'answer', 'know', 'want']","['that', 'need', 'realli', 'explicit']",1.0
+"['ye', 'mention', 'experi']","['ye', 'make', 'résumé']",2.0
+"['think', 'great', 'test', 'conduct']","['think', 'that', 'great', 'plan']",2.0
+"['dont', 'know']","['dont', 'tax', 'issu']",0.0
+"['ye', 'rule']","['there', 'rule']",1.0
+['goal'],['goal'],5.0
+"['im', 'go', 'go', 'limb']","['im', 'go', 'direct']",2.0
+"['long', 'stay', 'visa', 'switzerland', 'valid', 'need', 'transit', 'visa']","['need', 'transit', 'visa', 'enter', 'zurich', 'need', 'visa']",2.0
+"['point', 'think']","['thing', 'think']",5.0
+"['dont', 'perfect', 'everi', 'answer']","['dont', 'know']",2.0
+"['im', 'afraid', 'luck', 'one']","['think', 'one', 'thing', 'luck']",5.0
+"['decid', 'get', 'other']","['point', 'know', 'want', 'dont', 'afraid', 'ask']",0.0
+"['vari', 'situat']","['vari', 'institut']",4.0
+['thing'],['problem'],4.0
+['thing'],"['exact', 'problem']",4.0
+"['right', 'path']","['your', 'right', 'sampl', 'definit']",0.0
+"['primerpaint', 'work']","['nope', 'work']",2.0
+"['best', 'thing', 'know', 'stuff']","['best', 'thing', 'find', 'someth', 'els', 'interest', 'wait', 'hold']",2.0
+"['also', 'matter', 'tast']","['mostli', 'matter', 'tast']",5.0
+"['similar', 'situat']","['person', 'similar', 'situat', 'sent', 'coupl', 'card', 'gift']",2.0
+['use'],['ye'],3.0
+"['decid', 'want', 'get']","['find', 'work']",4.0
+['depend'],"['depend', 'use']",1.0
+['problem'],['problem'],5.0
+"['sometim', 'realli', 'want', 'might', 'need', 'pay', 'agenc', 'get', 'place']","['could', 'probabl', 'get', 'tour', 'agenc', 'would', 'cost']",2.0
+"['dont', 'need', 'know', 'everyth']","['dont', 'want', 'know']",1.0
+"['also', 'use', 'keep', 'consist', 'stori']","['import', 'keep', 'stori', 'scope', 'limit']",2.0
+"['think', 'habit']","['think', 'bad', 'idea']",1.0
+"['good', 'idea']","['good', 'thing']",4.0
+"['im', 'think', 'bad', 'idea']","['think', 'bad', 'idea']",5.0
+"['depend', 'want', 'next', 'want']","['need', 'pick', 'want', 'place', 'foot']",1.0
+['problem'],"['big', 'problem']",4.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['convers', 'work', 'know', 'answer', 'question']",2.0
+"['unfortun', 'question', 'cannot', 'answer', 'full', 'gener']","['cannot', 'answer', 'gener']",4.0
+"['would', 'person', 'bewar', 'motley', 'fool']","['would', 'recommend', 'look', 'motley', 'fool']",2.0
+"['think', 'isnt', 'gener', 'answer']","['dont', 'think', 'singl', 'definit']",4.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['dont', 'need', 'visa']","['dont', 'worri']",0.0
+"['decid', 'want', 'get']","['your', 'probabl', 'go', 'read', 'variou', 'blog', 'get', 'inform', 'want']",0.0
+['problem'],"['exactli', 'problem']",5.0
+"['answer', 'question', 'probabl']","['answer', 'question', 'realli']",4.0
+[],['never'],1.0
+['problem'],['issu'],4.0
+"['hope', 'look']","['kind', 'thing', 'your', 'look']",4.0
+"['two', 'thing', 'consid']","['think', 'two', 'import', 'thing', 'consid']",5.0
+"['pretti', 'much']",[],5.0
+['thing'],"['thing', 'need', 'consid']",4.0
+"['answer', 'similar', 'question', 'two', 'stage']","['answer', 'question', 'ye']",1.0
+"['imposs', 'answer', 'question', 'without', 'form', 'check']","['part', 'answer', 'question']",0.0
+['thing'],"['thing', 'think']",3.0
+"['depend', 'want', 'next', 'want']","['depend', 'go']",4.0
+"['possibl', 'reason']","['reason', 'paint', 'wrinkl']",3.0
+"['three', 'option']","['three', 'option']",5.0
+"['think', 'way']","['think', 'way']",5.0
+"['mayb', 'could', 'work']","['mayb', 'work']",5.0
+"['depend', 'want', 'next', 'want']","['way', 'depend', 'avail']",1.0
+"['microwav', 'would', 'best', 'bet']","['best', 'bet', 'research']",0.0
+"['u', 'depend', 'school']","['depend', 'univers']",4.0
+"['good', 'idea']","['good', 'idea', 'excel', 'idea']",1.0
+"['thing', 'think']","['minimallyeffect', 'thing', 'person', 'level']",4.0
+"['ive', 'problem']",['situat'],3.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['realiz', 'alreadi', 'accept', 'answer', 'figur', 'would', 'add', 'num', 'cent']","['know', 'old', 'question', 'feel', 'add', 'num', 'cent']",5.0
+"['ye', 'reason', 'propos']","['ye', 'chemic', 'differ']",0.0
+"['ye', 'least', 'one', 'knowledg']","['knowledg', 'there', 'time', 'requir']",1.0
+"['dont', 'worri']","['dont', 'anyth', 'season']",0.0
+"['test', 'tell', 'seal']","['code', 'tell', 'cannot']",0.0
+"['ye', 'make', 'résumé']","['ye', 'talk', 'professor']",0.0
+"['shouldnt', 'feel', 'oblig']","['dont', 'need', 'sauc']",0.0
+"['ive', 'problem']",['problem'],4.0
+"['may', 'experi', 'find', 'like']","['find', 'work']",5.0
+"['answer', 'question', 'probabl']","['part', 'answer', 'question']",1.0
+"['key', 'thing', 'realiz', 'job', 'make', 'peopl', 'work']","['realli', 'isnt', 'problem', 'go', 'find', 'qualifi', 'person', 'job']",1.0
+"['direct', 'answer', 'question', 'someth', 'consid']","['real', 'answer', 'question', 'mayb', 'help']",4.0
+"['two', 'possibl', 'caus']","['two', 'option']",1.0
+"['agre', 'comment']","['agre', 'previou', 'comment']",5.0
+"['answer', 'question', 'ye']","['answer', 'question', 'ye', 'phd', 'may', 'worthwhil']",3.0
+"['rather', 'depend', 'countri', 'your']","['depend', 'countri']",5.0
+"['terribl', 'idea']","['bad', 'idea']",5.0
+"['vivendi', 'share', 'close', 'num', 'percent', 'num', 'euro', 'pari', 'fall', 'num', 'percent', 'monday']","['new', 'york', 'vivendi', 'share', 'num', 'percent', 'num']",1.4
+"['bremer', 'said', 'one', 'initi', 'launch', 'usnum', 'million', 'nationwid', 'program', 'next', 'two', 'week', 'clean', 'neighborhood', 'build', 'commun', 'project']","['bremer', 'said', 'would', 'launch', 'nummillion', 'program', 'next', 'two', 'week', 'clean', 'neighborhood', 'across', 'iraq', 'build', 'commun', 'project', 'gave', 'detail']",3.6
+"['governor', 'gray', 'davi', 'estim', 'yesterday', 'fire', 'could', 'cost', 'nearli', 'num', 'billion']","['state', 'offici', 'estim', 'cost', 'nearli', 'num', 'billion']",3.5
+"['american', 'express', 'corp', 'pledg', 'least', 'num', 'million', 'num', 'million', 'need']","['citi', 'request', 'feder', 'fund', 'withdrew', 'request', 'american', 'express', 'pledg', 'least', 'num', 'million']",3.2
+"['claudett', 'first', 'hurrican', 'atlant', 'storm', 'season', 'hit', 'midtexa', 'coast', 'juli', 'num', 'nummph', 'wind']","['claudett', 'first', 'hurrican', 'atlant', 'storm', 'season', 'hit', 'midtexa', 'coast', 'juli', 'num', 'classifi', 'categori', 'num', 'hurrican', 'maximum', 'sustain', 'wind', 'num', 'mph']",4.0
+"['result', 'num', 'u', 'soft', 'drink', 'maker', 'pepsico', 'inc', 'nyse', 'pep', 'news', 'peopl', 'like', 'spotlight']","['wall', 'street', 'also', 'wait', 'aluminum', 'maker', 'alcoa', 'inc', 'nyse', 'pep', 'news', 'peopl', 'report', 'earn', 'close']",2.0
+"['taylor', 'aid', 'warn', 'abrupt', 'departur', 'could', 'trigger', 'chao', 'view', 'share', 'mani', 'liberia', 'privat', 'even', 'mediat']","['aid', 'warn', 'abrupt', 'departur', 'could', 'trigger', 'bloodsh', 'view', 'share', 'mani', 'liberia']",3.6
+"['odett', 'first', 'form', 'caribbean', 'sea', 'decemb', 'center', 'said']","['first', 'name', 'storm', 'develop', 'caribbean', 'decemb']",4.2
+"['aflcio', 'wait', 'octob', 'decid', 'endors', 'candid']","['aflcio', 'announc', 'wednesday', 'decid', 'octob', 'whether', 'endors', 'candid', 'primari']",4.0
+"['develop', 'consult', 'num', 'leader', 'academia', 'industri', 'govern', 'public']","['plan', 'call', 'nih', 'roadmap', 'develop', 'num', 'month', 'help', 'num', 'consult', 'industri', 'academia']",3.25
+"['local', 'polic', 'author', 'treat', 'explos', 'crimin', 'matter', 'noth', 'rule']","['act', 'new', 'polic', 'chief', 'francisco', 'ortiz', 'said', 'polic', 'treat', 'explos', 'crimin', 'matter']",3.4
+"['chiron', 'alreadi', 'nearli', 'num', 'percent', 'accept', 'powderject', 'sharehold']","['chiron', 'accept', 'holder', 'nearli', 'num', 'percent', 'powderject', 'share']",3.667
+"['believ', 'fulli', 'prepar', 'roll', 'touchscreen', 'machin', 'num', 'presidenti', 'primari', 'said', 'gill', 'w', 'burger', 'state', 'board', 'elect', 'chairman']","['believ', 'fulli', 'prepar', 'roll', 'revis', 'diebold', 'machin', 'said', 'gill', 'w', 'burger', 'chairman', 'maryland', 'state', 'board', 'elect']",3.75
+"['analyst', 'expect', 'earn', 'num', 'cent', 'share', 'revenu', 'num', 'billion', 'thomson', 'first', 'call', 'say']","['hewlettpackard', 'put', 'secondquart', 'profit', 'num', 'million', 'num', 'cent', 'share', 'revenu', 'num', 'billion']",1.2
+"['anoth', 'seriou', 'condit', 'northwest', 'medic', 'center', 'springdal']","['northwest', 'medic', 'center', 'washington', 'counti', 'springdal', 'one', 'child', 'seriou', 'condit']",3.8
+"['sean', 'harrigan', 'presid', 'california', 'public', 'employe', 'retir', 'system', 'also', 'suggest', 'pare', 'nyse', 'nummemb', 'board', 'chang', 'composit', 'make', 'account']","['sean', 'harrigan', 'presid', 'california', 'public', 'employe', 'retir', 'system', 'also', 'suggest', 'pare', 'nyse', 'nummemb', 'board', 'allot', 'seat', 'investor', 'outsid', 'secur', 'industri']",3.4
+"['swedish', 'central', 'bank', 'also', 'meet', 'wednesday', 'wide', 'expect', 'announc', 'cut', 'thursday']","['swedish', 'central', 'bank', 'also', 'meet', 'wednesday', 'wide', 'expect', 'announc', 'cut', 'thursday', 'much', 'half', 'percentag', 'point']",3.2
+"['num', 'chevrolet', 'taho', 'found', 'abandon', 'virginia', 'beach', 'va', 'park', 'lot', 'june', 'num']","['sport', 'util', 'vehicl', 'found', 'june', 'num', 'abandon', 'without', 'licens', 'plate', 'virginia', 'beach', 'va']",3.6
+"['heatley', 'sixth', 'leagu', 'goal', 'last', 'season', 'num', 'ninth', 'point', 'num']","['heatley', 'led', 'atlanta', 'score', 'last', 'season', 'teamrecord', 'num', 'goal', 'num', 'assist']",3.0
+"['toni', 'feel', 'well', 'spur', 'coach', 'gregg', 'popovich', 'said']","['thrill', 'num', 'coach', 'gregg', 'popovich', 'said', 'wednesday']",1.6
+"['electron', 'data', 'system', 'corp', 'thursday', 'said', 'secur', 'exchang', 'commiss', 'ask', 'compani', 'document', 'relat', 'larg', 'contract', 'u', 'navi']","['regulatori', 'file', 'ed', 'said', 'sec', 'ask', 'inform', 'relat', 'troubl', 'outsourc', 'contract', 'u', 'navi']",3.2
+"['well', 'dolphin', 'scheme', 'chao', 'allow', 'foreign', 'compani', 'engag', 'damag', 'log', 'fish', 'oper', 'without', 'proper', 'monitor', 'export', 'control']","['intern', 'chao', 'allow', 'foreign', 'compani', 'set', 'damag', 'commerci', 'log', 'fish', 'oper', 'without', 'proper', 'monitor', 'export', 'control']",3.8
+"['next', 'court', 'session', 'threejudg', 'tribun', 'announc', 'verdict', 'midfebruari']","['court', 'threejudg', 'tribun', 'expect', 'give', 'verdict', 'next', 'februari']",4.2
+"['consensu', 'among', 'wall', 'street', 'analyst', 'loss', 'num', 'cent', 'share']","['analyst', 'survey', 'first', 'call', 'expect', 'sale', 'num', 'million', 'loss', 'num', 'cent', 'share']",3.0
+"['civilian', 'unemploy', 'rate', 'improv', 'margin', 'last', 'month', 'slip', 'num', 'percent', 'even', 'compani', 'slash', 'payrol', 'num']","['civilian', 'unemploy', 'rate', 'improv', 'margin', 'last', 'month', '_', 'slide', 'num', 'percent', '_', 'compani', 'slash', 'payrol', 'num', 'amid', 'continu', 'mix', 'signal', 'nation', 'econom', 'health']",4.0
+"['moffitt', 'said', 'result', 'need', 'replic', 'anoth', 'studi', 'test', 'individu', 'presenc', 'long', 'short', 'version', 'gene', 'pursu']","['professor', 'moffitt', 'said', 'result', 'need', 'replic', 'pursu', 'test', 'individu', 'presenc', 'long', 'short', 'version', 'gene']",4.75
+"['compens', 'committe', 'prohibit', 'secur', 'industri', 'director', 'sit']","['exchang', 'also', 'said', 'fiveperson', 'compens', 'committe', 'consist', 'director', 'outsid', 'secur', 'industri']",3.533
+"['q', 'buy', 'coverag', 'prescript', 'drug', 'right', 'away']","['congress', 'ad', 'new', 'benefit', 'option', 'buy', 'insur', 'coverag', 'prescript', 'drug']",1.25
+"['share', 'mandalay', 'close', 'eight', 'cent', 'num', 'earn', 'announc']","['share', 'mandalay', 'close', 'num', 'cent', 'num', 'thursday']",4.0
+"['num', 'build', 'owner', 'port', 'author', 'new', 'york', 'new', 'jersey', 'issu', 'guidelin', 'upgrad', 'fireproof', 'thick', 'num', 'inch']","['nist', 'discov', 'num', 'port', 'author', 'issu', 'guidelin', 'upgrad', 'fireproof', 'thick', 'num', 'num', 'inch']",3.0
+"['dollar', 'last', 'num', 'euro', 'close', 'strongest', 'level', 'sinc', 'april', 'num']","['dollar', 'push', 'high', 'num', 'euro', 'earli', 'trade', 'extend', 'tuesday', 'one', 'percent', 'ralli', 'hit', 'strongest', 'level', 'sinc', 'april', 'num']",2.6
+"['singl', 'currenc', 'rose', 'far', 'num', 'yen', 'match', 'record', 'high', 'hit', 'shortli', 'euro', 'launch', 'januari', 'num']","['singl', 'currenc', 'rose', 'far', 'num', 'yen', 'highest', 'level', 'sinc', 'introduct', 'singl', 'currenc', 'januari', 'num']",3.5
+"['new', 'castl', 'counti', 'woman', 'becom', 'first', 'delawar', 'patient', 'contract', 'west', 'nile', 'viru', 'year', 'state', 'depart', 'health', 'report']","['numyearold', 'west', 'babylon', 'man', 'contract', 'west', 'nile', 'viru', 'first', 'human', 'case', 'suffolk', 'counti', 'year', 'accord', 'counti', 'health', 'depart']",1.5
+"['also', 'reaffirm', 'wish', 'resolv', 'north', 'korean', 'nuclear', 'crisi', 'peac']","['north', 'korean', 'nuclear', 'crisi', 'domin', 'time', 'offic']",2.0
+"['rebel', 'captur', 'said', 'num', 'insurg', 'involv', 'attack']","['captur', 'rebel', 'said', 'num', 'combat', 'involv', 'offens']",3.5
+"['kyi', 'un', 'envoy', 'say', 'japan', 'add', 'grow', 'intern', 'pressur', 'say', 'halt', 'hefti', 'econom', 'aid', 'unless', 'suu', 'kyi', 'freed']","['japan', 'ad', 'grow', 'intern', 'pressur', 'burma', 'yesterday', 'threaten', 'halt', 'hefti', 'econom', 'aid', 'unless', 'militari', 'govern', 'releas', 'prodemocraci', 'leader', 'aung', 'san', 'suu', 'kyi']",3.0
+"['walmart', 'kohl', 'corp', 'famili', 'dollar', 'store', 'inc', 'big', 'lot', 'inc', 'among', 'merchant', 'post', 'may', 'sale', 'fell', 'wall', 'street', 'modest', 'expect']","['wal', 'mart', 'kohl', 'corp', 'famili', 'dollar', 'store', 'inc', 'big', 'lot', 'inc', 'post', 'may', 'sale', 'fell', 'wall', 'street', 'modest', 'expect']",4.75
+"['mr', 'eddington', 'warn', 'yesterday', 'futur', 'airlin', 'hand', 'negoti']","['futur', 'ba', 'hand', 'negoti', 'eddington', 'told', 'british', 'broadcast', 'corp', 'televis', 'sunday']",3.4
+"['kid', 'wonder', 'physic', 'condit', 'right', 'said', 'press', 'brief', 'hospit']","['kid', 'wonder', 'physic', 'condit', 'right', 'said', 'goodrich', 'also', 'director', 'pediatr', 'neurosurgeri', 'children', 'hospit', 'montefior']",3.4
+"['cell', 'surfac', 'foreign', 'compon', 'recognis', 'cell', 'realis', 'infect', 'kill']","['foreign', 'bit', 'recogn', 'cell', 'realiz', 'infect', 'kill']",4.25
+"['trade', 'loral', 'halt', 'yesterday', 'share', 'close', 'monday', 'num']","['new', 'york', 'stock', 'exchang', 'suspend', 'trade', 'yesterday', 'loral', 'close', 'num', 'friday']",3.8
+"['knox', 'counti', 'health', 'depart', 'follow', 'nation', 'center', 'diseas', 'control', 'prevent', 'protocol', 'contain', 'infect']","['health', 'depart', 'spokesperson', 'ad', 'depart', 'follow', 'center', 'diseas', 'control', 'protocol']",3.0
+"['school', 'chancellor', 'joel', 'klein', 'said', 'push', 'higher', 'standard', 'account', 'show', 'result']","['school', 'chancellor', 'joel', 'klein', 'said', 'pleas', 'result']",3.0
+"['one', 'wit', 'told', 'anatolian', 'saw', 'plane', 'fire', 'still', 'air']","['one', 'wit', 'told', 'anatolian', 'news', 'agenc', 'saw', 'plane', 'fire', 'midair']",4.6
+"['propos', 'system', 'would', 'take', 'fewer', 'fewer', 'vote', 'overcom', 'filibust']","['frist', 'propos', 'process', 'would', 'take', 'gradual', 'fewer', 'vote', 'overcom', 'filibust', 'prevent', 'final', 'vote', 'judici', 'confirm']",3.0
+"['hormon', 'replac', 'therapi', 'combin', 'estrogen', 'progestin', 'doubl', 'woman', 'risk', 'breast', 'cancer', 'british', 'studi', 'million', 'woman', 'found']","['major', 'british', 'studi', 'ad', 'evid', 'hormon', 'replac', 'therapi', 'increas', 'risk', 'breast', 'cancer', 'especi', 'woman', 'receiv', 'combin', 'estrogen', 'progestin']",4.25
+"['barbini', 'comment', 'came', 'tuesday', 'second', 'day', 'ministeri', 'confer', 'expo', 'agricultur', 'scienc', 'technolog']","['u', 'agricultur', 'secretari', 'ann', 'veneman', 'kick', 'threeday', 'ministeri', 'confer', 'expo', 'agricultur', 'scienc', 'technolog', 'monday']",1.8
+"['yesterday', 'share', 'close', 'num', 'cent', 'num', 'percent', 'num']","['amazon', 'share', 'yesterday', 'close', 'num', 'nasdaq', 'stock', 'market', 'num', 'cent']",2.8
+"['lawtey', 'first', 'faithbas', 'program', 'florida', 'prison', 'system']","['lawtey', 'first', 'entir', 'prison', 'take', 'path']",1.25
+"['transact', 'grant', 'handspr', 'stockhold', 'num', 'share', 'palmand', 'share', 'palmsourcefor', 'share', 'handspr', 'common', 'stock']","['propos', 'term', 'transact', 'follow', 'spinoff', 'palmsourc', 'palm', 'exchang', 'num', 'share', 'share', 'handspr']",3.75
+"['giant', 'rock', 'first', 'observ', 'august', 'num', 'lincoln', 'nearearth', 'asteroid', 'research', 'program', 'base', 'socorro', 'new', 'mexico']","['rock', 'first', 'observ', 'lincoln', 'near', 'earth', 'asteroid', 'research', 'program', 'also', 'known', 'linear']",3.75
+"['need', 'chang', 'old', 'habit', 'serious', 'rethink', 'businessasusu']","['urg', 'employe', 'avoid', 'complac', 'chang', 'old', 'habit', 'serious', 'rethink', 'businessasusu']",3.75
+"['despic', 'act', 'commit', 'killer', 'whose', 'faith', 'hate', 'bush', 'said', 'ad', 'unit', 'state', 'find', 'killer']","['despic', 'act', 'commit', 'killer', 'whose', 'faith', 'hate', 'unit', 'state', 'find', 'killer', 'learn', 'mean', 'american', 'justic']",3.5
+"['total', 'num', 'woman', 'enrol', 'academi', 'report', 'said']","['num', 'woman', 'enrol', 'academi', 'time', 'survey']",4.6
+"['nation', 'concern', 'touch', 'virtual', 'everi', 'american', 'abraham', 'said']","['impact', 'naturalga', 'shortag', 'touch', 'virtual', 'everi', 'american', 'energi', 'secretari', 'spencer', 'abraham', 'warn', 'yesterday']",3.25
+"['unit', 'state', 'num', 'percent', 'woman', 'smoke']","['nevada', 'woman', 'smoke', 'num', 'percent']",1.333
+"['margin', 'error', 'plu', 'minu', 'num', 'percentag', 'point']","['poll', 'num', 'like', 'voter', 'sampl', 'error', 'plu', 'minu', 'num', 'percentag', 'point']",2.5
+"['share', 'moni', 'gain', 'num', 'num', 'num', 'afterhour', 'trade', 'instinet']","['moni', 'share', 'rose', 'num', 'per', 'cent', 'num', 'afterhour', 'trade', 'new', 'york']",3.25
+"['diana', 'lowest', 'ebb', 'wrote', 'letter', 'paul', 'burrel', 'claim', 'plot', 'kill']","['burrel', 'said', 'diana', 'wrote', 'letter', 'octob', 'num', 'claim', 'plot', 'kill', 'smash', 'gave', 'keep', 'insur']",3.0
+"['gillespi', 'sent', 'letter', 'cb', 'presid', 'lesli', 'moonv', 'ask', 'histor', 'review', 'disclaim']","['republican', 'nation', 'committe', 'chairman', 'ed', 'gillespi', 'issu', 'letter', 'friday', 'cb', 'televis', 'presid', 'lesli', 'moonv']",3.6
+"['let', 'show', 'wont', 'let', 'said', 'marc', 'blondel', 'leader', 'forc', 'ouvrier', 'union']","['movement', 'defend', 'pension', 'gain', 'momentum', 'wont', 'give', 'said', 'marc', 'blondel', 'leader', 'forc', 'ouvrier', 'union']",2.2
+"['contrari', 'peoplesoft', 'manag', 'would', 'believ', 'oracl', 'intend', 'fulli', 'support', 'peoplesoft', 'custom', 'product', 'mani', 'year', 'come']","['ellison', 'said', 'contrari', 'content', 'peoplesoft', 'manag', 'oracl', 'intend', 'fulli', 'support', 'peoplesoft', 'custom', 'product', 'mani', 'year', 'come']",4.8
+"['mexican', 'law', 'bounti', 'hunt', 'consid', 'form', 'kidnap']","['bounti', 'hunt', 'illeg', 'mexico', 'bounti', 'hunter', 'charg', 'kidnap']",4.0
+"['announc', 'made', 'intern', 'broadcast', 'convent', 'ibc', 'amsterdam']","['submiss', 'monday', 'announc', 'made', 'friday', 'intern', 'broadcast', 'convent', 'amsterdam']",3.4
+"['keyword', 'support', 'chines', 'languag', 'web', 'portal']","['chines', 'languag', 'web', 'portal', 'also', 'support', 'num', 'keyword', 'web', 'site', 'said']",3.2
+"['consensu', 'estim', 'analyst', 'poll', 'thomson', 'first', 'call', 'call', 'profit', 'num', 'per', 'share']","['analyst', 'poll', 'reuter', 'research', 'unit', 'reuter', 'group', 'plc', 'averag', 'forecast', 'profit', 'num', 'per', 'share']",2.5
+"['initi', 'autopsi', 'report', 'show', 'die', 'dehydr', 'hyperthermia', 'suffoc']","['two', 'die', 'later', 'initi', 'autopsi', 'report', 'show', 'succumb', 'dehydr', 'hypothermia', 'suffoc']",3.25
+"['author', 'appeal', 'public', 'friday', 'come', 'forward', 'provid', 'could', 'key', 'solv', 'sniperstyl', 'shoot', 'kill', 'three', 'peopl', 'outsid', 'area', 'conveni', 'store']","['author', 'look', 'public', 'yesterday', 'help', 'solv', 'deadli', 'sniperstyl', 'shoot', 'three', 'peopl', 'outsid', 'charlestonarea', 'conveni', 'store']",3.8
+"['second', 'come', 'hp', 'num', 'percent', 'num', 'billion', 'num', 'percent']","['hp', 'fell', 'second', 'place', 'server', 'sale', 'grow', 'num', 'percent', 'num', 'billion']",4.4
+"['u', 'forc', 'recent', 'apprehend', 'num', 'suspect', 'foreign', 'milit', 'near', 'syrian', 'border', 'interrog']","['third', 'armor', 'cavalri', 'regiment', 'recent', 'apprehend', 'num', 'suspect', 'fighter', 'near', 'syrian', 'border', 'offici', 'said']",3.5
+"['compar', 'profit', 'num', 'million', 'breakeven', 'num', 'billion', 'revenu', 'period', 'last', 'year']","['total', 'revenu', 'second', 'quarter', 'num', 'billion', 'num', 'num', 'billion', 'period', 'last', 'year']",1.5
+"['bolivia', 'armi', 'fought', 'stop', 'column', 'protest', 'stream', 'foodstarv', 'capit', 'wednesday', 'popular', 'upris', 'presid', 'spread']","['bolivia', 'armi', 'fought', 'stop', 'column', 'dynamitewield', 'miner', 'stream', 'besieg', 'capit', 'wednesday', 'leav', 'two', 'dead', 'popular', 'upris', 'presid', 'spread']",2.8
+"['anum', 'come', 'printer', 'scanner', 'copier', 'num']","['dell', 'person', 'allinon', 'anum', 'entrylevel', 'devic', 'combin', 'printer', 'scanner', 'copier', 'function', 'num']",3.6
+"['first', 'num', 'second', 'young', 'enter', 'ring', 'famili', 'knew', 'uneven', 'match', 'meyer', 'said']","['first', 'num', 'second', 'bout', 'famili', 'member', 'knew', 'uneven', 'match', 'jodi', 'meyer', 'staci', 'young', 'sister', 'said']",4.2
+"['singapor', 'report', 'suspect', 'sar', 'case', 'wednesday', 'offici', 'quarantin', 'num', 'peopl', 'contact', 'taiwanes', 'patient']","['still', 'singapor', 'quarantin', 'num', 'peopl', 'close', 'contact', 'scientist']",3.0
+"['downstream', 'mount', 'vernon', 'skagit', 'river', 'expect', 'crest', 'num', 'foot', 'num', 'foot', 'flood', 'stage', 'tonight', 'burk', 'said']","['skagit', 'expect', 'crest', 'night', 'num', 'foot', 'mount', 'vernon', 'num', 'foot', 'flood', 'stage', 'nation', 'weather', 'servic', 'said']",3.0
+"['monday', 'dow', 'declin', 'num', 'num', 'percent', 'num', 'shed', 'num', 'percent', 'last', 'week']","['earli', 'trade', 'dow', 'jone', 'industri', 'averag', 'num', 'num', 'percent', 'num', 'slip', 'num', 'point', 'monday']",1.6
+"['injur', 'taken', 'hospit', 'jefferson', 'citi', 'columbia', 'colleg', 'town', 'num', 'mile', 'north']","['injur', 'taken', 'hospit', 'jefferson', 'citi', 'columbia', 'numkm', 'north', 'condit', 'immedi', 'avail']",4.0
+"['dollar', 'num', 'yen', 'japanes', 'currenc', 'num', 'percent']","['swiss', 'franc', 'dollar', 'num', 'franc', 'num', 'percent', 'day']",1.333
+"['addit', 'oconnor', 'rehnquist', 'major', 'opinion', 'join', 'justic', 'david', 'souter', 'ruth', 'bader', 'ginsburg', 'stephen', 'breyer']","['join', 'major', 'opinion', 'justic', 'sandra', 'day', 'oconnor', 'david', 'h', 'souter', 'ruth', 'bader', 'ginsburg', 'stephen', 'g', 'breyer']",3.6
+"['martin', 'num', 'freed', 'today', 'serv', 'two', 'third', 'fiveyear', 'sentenc', 'manslaught', 'numyearold', 'fred', 'barra']","['martin', 'serv', 'two', 'third', 'fiveyear', 'sentenc', 'manslaught', 'barra', 'wound', 'fearon']",3.0
+"['idec', 'sharehold', 'would', 'num', 'percent', 'stock', 'combin', 'compani', 'biogen', 'sharehold', 'remain', 'num', 'percent']","['compani', 'said', 'idec', 'holder', 'would', 'num', 'percent', 'stock', 'combin', 'compani']",3.0
+"['nonetheless', 'opensourc', 'guru', 'insist', 'attack', 'wrong', 'danger', 'goal']","['attack', 'wrong', 'danger', 'goal', 'raymond', 'said']",3.5
+"['frank', 'quattron', 'former', 'credit', 'suiss', 'first', 'boston', 'technolog', 'investmentbank', 'guru', 'reportedli', 'plead', 'guilti', 'tuesday', 'charg', 'obstruct', 'justic', 'wit', 'tamper']","['new', 'york', 'dow', 'jone', 'former', 'star', 'invest', 'banker', 'frank', 'quattron', 'plead', 'guilti', 'tuesday', 'crimin', 'charg', 'obstruct', 'justic', 'wit', 'tamper']",4.0
+"['bluechip', 'dow', 'jone', 'industri', 'averag', 'dji', 'fell', 'num', 'point', 'num', 'percent', 'num', 'give', 'num', 'percent', 'earlier']","['dow', 'jone', 'industri', 'averag', 'dji', 'fell', 'num', 'point', 'num', 'percent', 'num', 'friday']",2.2
+"['dow', 'jone', 'industri', 'averag', 'end', 'day', 'num', 'num', 'advanc', 'num', 'wednesday']","['dow', 'jone', 'industri', 'averag', 'fell', 'num', 'point', 'num', 'percent', 'num']",3.4
+"['perri', 'sinc', 'call', 'two', 'special', 'legisl', 'session', 'tri', 'forc', 'redistrict', 'plan']","['sinc', 'texa', 'gov', 'rick', 'perri', 'call', 'two', 'special', 'session', 'tri', 'push', 'measur']",3.5
+"['agenc', 'consid', 'time', 'tax', 'return', 'payment', 'due', 'aug', 'num', 'submit', 'aug', 'num']","['agenc', 'said', 'would', 'consid', 'time', 'tax', 'return', 'payment', 'due', 'friday', 'aug', 'num', 'complet', 'aug', 'num']",4.25
+"['democrat', 'current', 'hold', 'num', 'advantag', 'state', 'congression', 'deleg']","['texa', 'congression', 'deleg', 'num', 'democrat']",2.6
+"['chaudhri', 'releas', 'num', 'day', 'later', 'fiji', 'militari', 'instal', 'allindigen', 'govern', 'led', 'qaras', 'democrat', 'elect', 'septemb', 'num']","['fijian', 'militari', 'instal', 'allindigen', 'govern', 'led', 'mr', 'qaras', 'democrat', 'elect', 'septemb', 'num']",3.0
+"['new', 'legit', 'download', 'servic', 'launch', 'pc', 'user', 'mind']","['buymus', 'first', 'subscriptionfre', 'paid', 'download', 'music', 'servic', 'pc', 'user']",2.4
+"['numyear', 'bond', 'usnumytrr', 'rose', 'num', 'yield', 'num', 'percent', 'versu', 'num', 'percent', 'wednesday', 'close']","['numyear', 'bond', 'usnumytrr', 'grew', 'num', 'yield', 'num', 'percent', 'num', 'percent', 'late', 'wednesday']",3.8
+"['last', 'week', 'lawyer', 'ask', 'gov', 'mark', 'r', 'warner', 'grant', 'clemenc', 'governor', 'declin', 'interven']","['last', 'week', 'lawyer', 'ask', 'warner', 'grant', 'clemenc', 'certain', 'condit', 'would', 'lead', 'new', 'sentenc', 'hear']",3.0
+"['gov', 'linda', 'lingl', 'member', 'staff', 'navi', 'base', 'watch', 'launch']","['gov', 'linda', 'lingl', 'dignitari', 'schedul', 'base', 'watch', 'launch']",3.5
+"['best', 'investig', 'nitpick', 'process', 'substanc', 'isol', 'busi', 'decis', 'question', 'compet', 'manag']","['ebber', 'lawyer', 'reid', 'weingarten', 'said', 'despit', 'thorough', 'investig', 'best', 'investig', 'nitpick', 'process', 'substanc', 'isol', 'busi', 'decis']",3.5
+"['justic', 'depart', 'file', 'suit', 'thursday', 'state', 'mississippi', 'fail', 'end', 'feder', 'offici', 'call', 'disturb', 'abus', 'juvenil', 'unconscion', 'condit', 'two', 'staterun', 'facil']","['justic', 'depart', 'file', 'civil', 'right', 'lawsuit', 'thursday', 'state', 'mississippi', 'alleg', 'abus', 'juvenil', 'offend', 'two', 'staterun', 'facil']",3.75
+"['chelsea', 'defend', 'marcel', 'desailli', 'latest', 'speak']","['marcel', 'desailli', 'franc', 'captain', 'chelsea', 'defend', 'belief', 'latter', 'true']",2.25
+"['woman', 'unit', 'member', 'teamster', 'local', 'num']","['woman', 'employ', 'warehous', 'worker', 'heavi', 'equip', 'oper', 'woman', 'teamster', 'local']",3.25
+"['special', 'polic', 'detain', 'khodorkovski', 'earli', 'saturday', 'siberian', 'citi', 'novosibirsk', 'plane', 'made', 'refuel', 'stop']","['polic', 'detain', 'khodorkovski', 'earli', 'saturday', 'jet', 'made', 'refuel', 'stop', 'siberian', 'citi', 'novosibirsk']",4.8
+"['soni', 'ericsson', 'also', 'said', 'would', 'shut', 'gsmumt', 'rd', 'center', 'munich', 'germani', 'increas', 'profit']","['soni', 'ericsson', 'also', 'said', 'plan', 'close', 'rd', 'site', 'munich', 'germani', 'gsm', 'umt', 'handset']",3.8
+"['countri', 'scrambl', 'prevent', 'spread', 'vast', 'countrysid', 'num', 'billion', 'peopl', 'live']","['china', 'scrambl', 'stop', 'diseas', 'spread', 'countrysid', 'num', 'billion', 'peopl', 'live']",3.4
+"['kansa', 'depart', 'health', 'environ', 'record', 'show', 'num', 'abort', 'perform', 'girl', 'age', 'num', 'younger', 'last', 'year']","['statist', 'kansa', 'depart', 'health', 'environ', 'show', 'num', 'abort', 'perform', 'state', 'last', 'year']",2.0
+"['discoveri', 'map', 'bug', 'present', 'vast', 'major', 'crohn', 'suffer', 'mean', 'almost', 'certainli', 'caus', 'intestin', 'inflamm', 'said', 'statement']","['research', 'say', 'fact', 'map', 'bug', 'present', 'vast', 'major', 'crohn', 'suffer', 'mean', 'almost', 'certainli', 'caus', 'intestin', 'inflamm']",4.6
+"['life', 'expect', 'boy', 'born', 'num', 'num', 'year', 'two', 'year', 'sinc', 'num']","['accord', 'report', 'averag', 'life', 'expect', 'increas', 'nearli', 'two', 'year', 'sinc', 'num']",3.5
+"['full', 'nummonth', 'period', 'highspe', 'cabl', 'modem', 'connect', 'increas', 'num', 'percent']","['full', 'year', 'period', 'end', 'june', 'num', 'num', 'highspe', 'line', 'increas', 'num', 'percent']",3.333
+"['believ', 'report', 'fulli', 'consist', 'court', 'rule', 'depart', 'action', 'fulli', 'within', 'law']","['comstock', 'said', 'sever', 'feder', 'court', 'rule', 'detent', 'fulli', 'within', 'law']",2.667
+"['inde', 'mr', 'weill', 'selfdescrib', 'workahol', 'said', 'plan', 'remain', 'involv', 'compani']","['still', 'mr', 'weill', 'remain', 'much', 'power', 'compani']",3.2
+"['gregori', 'parseghian', 'former', 'invest', 'banker', 'appoint', 'chief', 'execut']","['greg', 'parseghian', 'appoint', 'new', 'chief', 'execut']",3.8
+"['report', 'cite', 'marriag', 'alleg', 'oper', 'command', 'bali', 'bomb', 'mukhla', 'farida', 'highli', 'cosmopolitan', 'welleduc', 'young', 'woman']","['report', 'cite', 'marriag', 'alleg', 'oper', 'command', 'bali', 'bomb', 'mukhla', 'exampl', 'ji', 'us', 'marriag', 'grow']",3.4
+"['cradl', 'liberti', 'council', 'isnt', 'first', 'one', 'buck', 'nation', 'group', 'stanc']","['philadelphia', 'council', 'first', 'defi', 'nation', 'polici']",3.4
+"['absurd', 'funni', 'cide', 'trainer', 'barclay', 'tagg', 'said']","['meanwhil', 'funni', 'cide', 'trainer', 'barclay', 'tagg', 'call', 'alleg', 'ridicul']",3.6
+"['last', 'year', 'cuban', 'offici', 'said', 'none', 'nearli', 'two', 'dozen', 'nomin', 'cuban', 'musician', 'receiv', 'u', 'visa', 'time', 'attend', 'grammi', 'lo', 'angel']","['cuban', 'offici', 'said', 'last', 'year', 'none', 'two', 'dozen', 'nomin', 'cuban', 'musician', 'receiv', 'u', 'visa', 'time', 'attend', 'latin', 'grammi']",3.8
+"['american', 'conserv', 'clearli', 'minor', 'within', 'episcop', 'church']","['letter', 'indic', 'vatican', 'interest', 'bolster', 'conserv', 'within', 'episcop', 'church']",1.8
+"['new', 'york', 'senat', 'new', 'book', 'live', 'histori', 'appear', 'certain', 'bestsel']","['hillari', 'clinton', 'new', 'york', 'senat', 'former', 'first', 'ladi', 'book', 'monday', 'titl', 'live', 'histori']",3.2
+"['canada', 'small', 'countri', 'need', 'compani', 'like', 'deal', 'like']","['passion', 'nationalist', 'mr', 'dalessandro', 'said', 'canada', 'small', 'countri', 'need', 'compani', 'like']",3.0
+"['polic', 'offici', 'sk', 'tonapi', 'told', 'reuter', 'least', 'num', 'peopl', 'kill', 'num', 'wound']","['state', 'interior', 'ministri', 'spokesman', 'vasant', 'pitk', 'told', 'reuter', 'least', 'num', 'peopl', 'kill', 'num', 'injur']",1.8
+"['jeremi', 'good', 'guy', 'barber', 'said', 'ad', 'jeremi', 'live', 'dream', 'life', 'new', 'york', 'athlet']","['also', 'said', 'shockey', 'live', 'dream', 'life', 'new', 'york', 'athlet']",2.75
+"['mitsubishi', 'tokyo', 'financi', 'jpnum', 'news', 'chart', 'profil', 'declin', 'num', 'yen', 'num', 'percent', 'num', 'yen']","['sumitomo', 'mitsui', 'financi', 'jpnum', 'news', 'chart', 'profil', 'num', 'percent', 'num', 'yen']",1.6
+"['num', 'gene', 'chromosom', 'num', 'thought', 'function']","['remain', 'num', 'gene', 'believ', 'function']",2.75
+"['second', 'quarter', 'anadarko', 'expect', 'volum', 'num', 'million', 'boe', 'num', 'million', 'boe']","['product', 'second', 'quarter', 'cut', 'num', 'million', 'barrel', 'num', 'million', 'barrel']",3.25
+"['u', 'troop', 'encount', 'resist', 'fivehour', 'sweep', 'near', 'tikrit', 'saddam', 'hussein', 'hometown', 'center', 'region', 'baath', 'parti', 'support']","['tikrit', 'saddam', 'hussein', 'hometown', 'region', 'around', 'known', 'hotb', 'baath', 'parti', 'support', 'former', 'highrank', 'iraqi', 'militari', 'offici']",2.25
+"['miodrag', 'zivkov', 'liber', 'allianc', 'montenegro', 'num', 'percent', 'vote', 'independ', 'dragan', 'hajdukov', 'got', 'four', 'percent']","['miodrag', 'zivkov', 'leader', 'proindepend', 'opposit', 'liber', 'allianc', 'came', 'second', 'num', 'percent', 'vote']",3.0
+"['yearago', 'period', 'pearson', 'post', 'num', 'million', 'pretax', 'profit']","['year', 'ago', 'firm', 'post', 'profit', 'num', 'million', 'pound']",3.182
+"['thursday', 'oracl', 'said', 'num', 'million', 'peoplesoft', 'share', 'tender']","['num', 'million', 'share', 'tender', 'oracl', 'said', 'statement']",3.75
+"['yucaipa', 'own', 'dominick', 'sell', 'chain', 'safeway', 'num', 'num', 'billion']","['yucaipa', 'bought', 'dominick', 'num', 'num', 'million', 'sold', 'safeway', 'num', 'billion', 'num']",2.6
+"['graf', 'report', 'albuquerqu', 'villafranca', 'austin', 'ratcliff', 'laredo']","['pete', 'slover', 'report', 'laredo', 'gromer', 'jeffer', 'albuquerqu']",1.25
+"['num', 'percent', 'increas', 'would', 'rais', 'undergradu', 'tuition', 'num', 'annual', 'includ', 'miscellan', 'campusbas', 'fee']","['num', 'percent', 'hike', 'take', 'annual', 'uc', 'undergradu', 'tuition', 'num', 'graduat', 'fee', 'num']",2.5
+"['author', 'said', 'scientist', 'properli', 'quarantin', 'home', 'develop', 'sar', 'symptom', 'dec', 'num']","['scientist', 'also', 'quarantin', 'home', 'soon', 'develop', 'sar', 'symptom', 'offici', 'said']",4.2
+"['support', 'come', 'free', 'softwar', 'upgrad', 'call', 'webvpn', 'current', 'custom', 'support', 'contract']","['upgrad', 'avail', 'free', 'download', 'current', 'custom', 'smarnet', 'support', 'januari', 'num']",2.6
+"['hilsenrath', 'klarman', 'indict', 'three', 'count', 'secur', 'fraud']","['klarman', 'charg', 'num', 'count', 'wire', 'fraud']",1.4
+"['new', 'sensor', 'dub', 'canari', 'cellular', 'analysi', 'notif', 'antigen', 'risk', 'yield', 'hijack', 'natur', 'process', 'two', 'import', 'chang']","['team', 'name', 'sensor', 'canari', 'cellular', 'analysi', 'notif', 'antigen', 'risk', 'yield']",3.6
+"['one', 'fort', 'carsonbas', 'sgt', 'ernest', 'bucklew', 'num', 'way', 'home', 'attend', 'mother', 'funer', 'pennsylvania']","['sgt', 'ernest', 'bucklew', 'num', 'come', 'home', 'iraq', 'buri', 'mother', 'pennsylvania']",3.0
+"['waksal', 'plead', 'guilti', 'secur', 'fraud', 'sentenc', 'next', 'week']","['waksal', 'plead', 'guilti', 'insid', 'trade', 'charg', 'last', 'year', 'schedul', 'sentenc', 'june', 'num']",3.5
+"['devic', 'play', 'internet', 'radio', 'stream', 'come', 'numday', 'trial', 'realnetwork', 'rhapsodi', 'music', 'servic']","['product', 'also', 'stream', 'internet', 'radio', 'come', 'numday', 'free', 'trial', 'realnetwork', 'rhapsodi', 'digit', 'music', 'subscript', 'servic']",5.0
+"['dollar', 'fell', 'low', 'num', 'per', 'euro', 'num', 'friday', 'trade', 'num', 'num', 'london']","['dollar', 'drop', 'num', 'per', 'euro', 'num', 'london', 'num', 'friday']",3.0
+"['hear', 'moral', 'express', 'sincer', 'regret', 'remors', 'action']","['moral', 'plead', 'guilti', 'juli', 'express', 'sincer', 'regret', 'remors', 'crime']",3.8
+"['site', 'finder', 'visit', 'num', 'million', 'time', 'sinc', 'introduct', 'galvin', 'said']","['sunday', 'sept', 'num', 'site', 'finder', 'visit', 'num', 'million', 'time', 'internet', 'user']",3.8
+"['accord', 'sunncomm', 'peter', 'jacob', 'mediamax', 'perform', 'exactli', 'advertis', 'compani', 'purchas']","['mediamax', 'perform', 'exactli', 'advertis', 'compani', 'purchas', 'jacob', 'said', 'statement']",4.222
+"['track', 'atlanta', 'arrest', 'tuesday', 'night']","['arrest', 'atlanta', 'georgia', 'monday', 'night', 'polic', 'act', 'tipoff']",2.5
+"['bush', 'administr', 'blame', 'hussein', 'loyalist', 'foreign', 'muslim', 'milit', 'enter', 'iraq', 'fight', 'u', 'troop', 'wave', 'bomb', 'guerrilla', 'attack']","['bush', 'administr', 'blame', 'wave', 'bomb', 'guerrilla', 'attack', 'saddam', 'loyalist', 'foreign', 'muslim', 'milit', 'enter', 'iraq', 'fight', 'u', 'troop']",5.0
+"['later', 'emerg', 'broken', 'right', 'thigh', 'bone', 'right', 'wrist', 'elbow']","['tour', 'doctor', 'later', 'confirm', 'broken', 'right', 'leg', 'near', 'hip', 'also', 'sustain', 'wrist', 'elbow', 'fractur']",4.0
+"['senat', 'agre', 'tuesday', 'lift', 'numyearold', 'ban', 'research', 'develop', 'lowyield', 'nuclear', 'weapon']","['hous', 'senat', 'bill', 'would', 'end', 'ban', 'research', 'develop', 'lowyield', 'nuclear', 'weapon']",3.6
+"['num', 'million', 'american', 'half', 'household', 'invest', 'mutual', 'fund']","['half', 'u', 'household', 'money', 'mutual', 'fund']",4.2
+"['hous', 'pass', 'prescriptiondrug', 'legisl', 'last', 'two', 'session', 'senat', 'fail']","['hous', 'pass', 'bill', 'past', 'two', 'congress', 'senat']",3.4
+"['elderli', 'weaken', 'immun', 'system', 'also', 'urg', 'protect', 'mosquito', 'bite']","['elderli', 'weaken', 'immun', 'system', 'fatal']",2.6
+"['m', 'lafferti', 'lawyer', 'thoma', 'ezzel', 'told', 'kentucki', 'newspap', 'understand', 'lower', 'percentag', 'success', 'impregn', 'frozen']","['understand', 'lower', 'percentag', 'success', 'impregn', 'frozen', 'ezzel', 'said']",3.6
+"['klarman', 'arrest', 'fbi', 'agent', 'hampton', 'exclus', 'summer', 'resort', 'enclav', 'east', 'new', 'york', 'citi']","['klarman', 'arrest', 'fbi', 'agent', 'monday', 'morn', 'home', 'new', 'york']",4.0
+"['bishop', 'told', 'polic', 'thought', 'hit', 'dog', 'cat', 'someon', 'thrown', 'rock', 'vehicl']","['bishop', 'obrien', 'age', 'num', 'told', 'polic', 'thought', 'hit', 'dog', 'cat']",3.5
+"['promot', 'poster', 'complet', 'countdown', 'dial', 'remind', 'reader', 'upcom', 'releas', 'harri', 'potter', 'order', 'phoenix']","['crate', 'full', 'hardback', 'copi', 'harri', 'potter', 'order', 'phoenix']",1.5
+"['test', 'still', 'way', 'stage', 'given', 'earli', 'detect', 'outlook', 'instanc', 'would', 'posit', 'specialist', 'said', 'yesterday']","['stage', 'given', 'earli', 'detect', 'outlook', 'instanc', 'would', 'posit', 'said']",3.5
+"['morn', 'trade', 'dow', 'jone', 'industri', 'averag', 'num', 'num', 'percent', 'num', 'fallen', 'num', 'point', 'monday']","['new', 'york', 'dow', 'jone', 'industri', 'averag', 'gaug', 'num', 'blue', 'chip', 'stock', 'num', 'point', 'num', 'per', 'cent', 'num']",1.75
+"['rich', 'medium', 'doubl', 'share', 'increas', 'num', 'qnum', 'num', 'num', 'qnum', 'num']","['rich', 'medium', 'interact', 'ad', 'format', 'doubl', 'share', 'num', 'second', 'quarter', 'num', 'num', 'second', 'quarter', 'num']",3.75
+"['take', 'time', 'oust', 'diehard', 'remnant', 'saddam', 'hussein', 'depos', 'regim', 'iraq', 'defens', 'secretari', 'donald', 'h', 'rumsfeld', 'said', 'tuesday']","['defens', 'secretari', 'donald', 'h', 'rumsfeld', 'said', 'tuesday', 'take', 'time', 'locat', 'diehard', 'remnant', 'saddam', 'hussein', 'depos', 'regim', 'iraq']",4.8
+"['sayliyah', 'command', 'base', 'iraq', 'war', 'central', 'command', 'sent', 'hundr', 'ran', 'war', 'back', 'home', 'tampa', 'florida']","['sayliyah', 'command', 'base', 'iraq', 'war', 'hundr', 'ran', 'war', 'return', 'unit', 'state']",3.4
+"['sco', 'say', 'price', 'term', 'licens', 'announc', 'week']","['detail', 'price', 'announc', 'within', 'week', 'mcbride', 'said']",2.6
+"['sourc', 'within', 'race', 'industri', 'told', 'daili', 'bulletin', 'fontana', 'get', 'second', 'nascar', 'race', 'labor', 'day', 'weekend', 'start', 'next', 'season']","['sourc', 'race', 'industri', 'said', 'fontana', 'get', 'second', 'nascar', 'race', 'labor', 'day', 'weekend', 'start', 'next', 'season']",4.4
+"['dow', 'jone', 'industri', 'averag', 'dji', 'end', 'num', 'point', 'num', 'percent', 'num', 'highest', 'level', 'sinc', 'januari', 'num']","['dow', 'jone', 'industri', 'averag', 'dj', 'news', 'chart', 'profil', 'rose', 'num', 'point', 'num', 'percent', 'num']",3.6
+"['dennehi', 'transfer', 'baylor', 'last', 'year', 'get', 'kick', 'univers', 'new', 'mexico', 'lobo', 'temper', 'tantrum', 'begun', 'read', 'bibl', 'daili']","['dennehi', 'transfer', 'baylor', 'last', 'year', 'get', 'kick', 'univers', 'new', 'mexico', 'lobo', 'temper', 'tantrum', 'becam', 'bornagain', 'christian', 'june', 'num']",3.6
+"['bashir', 'felt', 'tri', 'opinion', 'fact', 'mahendradatta', 'told', 'reuter']","['bashir', 'also', 'felt', 'tri', 'opinion', 'rather', 'fact', 'law', 'ad']",4.0
+"['schofield', 'got', 'toepfer', 'admit', 'crossexamin', 'ignor', 'mani', 'odonnel', 'suggest', 'project']","['crossexamin', 'odonnel', 'attorney', 'lorna', 'schofield', 'toepfer', 'conced', 'ignor', 'mani', 'odonnel', 'suggest', 'project']",4.5
+"['case', 'court', 'held', 'cincinnati', 'violat', 'first', 'amend', 'ban', 'advertis', 'pamphlet', 'interest', 'aesthet']","['case', 'court', 'held', 'citi', 'cincinnati', 'violat', 'first', 'amend', 'ban', 'interest', 'aesthet', 'advertis', 'pamphlet']",5.0
+"['box', 'cutter', 'use', 'weapon', 'sept', 'num', 'num', 'hijack', 'sinc', 'ban', 'carryon', 'item']","['box', 'cutter', 'weapon', 'use', 'num', 'hijack', 'sept', 'num', 'num', 'attack']",3.4
+"['juli', 'num', 'moor', 'announc', 'would', 'appeal', 'case', 'directli', 'u', 'suprem', 'court']","['moor', 'alabama', 'say', 'appeal', 'case', 'nation', 'highest', 'court']",3.75
+"['southwest', 'said', 'traffic', 'num', 'percent', 'quarter', 'end', 'quarter', 'num', 'billion', 'cash']","['southwest', 'said', 'traffic', 'num', 'percent', 'quarter', 'capac', 'increas', 'num', 'percent']",3.176
+"['four', 'version', 'window', 'oper', 'system', 'target', 'window', 'nt', 'window', 'num', 'window', 'xp', 'window', 'server', 'num']","['new', 'worm', 'affect', 'window', 'system', 'num', 'xp', 'nt', 'num', 'server', 'num']",3.6
+"['share', 'mcdonald', 'corp', 'wendi', 'intern', 'inc', 'continu', 'modest', 'runup', 'new', 'york', 'stock', 'exchang', 'monday']","['share', 'mcdonald', 'wendi', 'continu', 'recent', 'recoveri', 'monday', 'rise', 'num', 'percent', 'new', 'york', 'stock', 'exchang', 'afternoon', 'trade']",3.2
+"['play', 'chide', 'senat', 'littl', 'bitti', 'tax', 'relief', 'plan']","['dont', 'need', 'littl', 'bitti', 'tax', 'relief', 'plan']",3.5
+"['look', 'buy', 'latest', 'harri', 'potter']","['harri', 'potter', 'latest', 'wizard', 'trick']",1.9
+"['mediaq', 'custom', 'includ', 'major', 'handheld', 'maker', 'mitsubishi', 'siemen', 'palm', 'sharp', 'philip', 'dell', 'soni']","['nvidia', 'take', 'advantag', 'mediaq', 'custom', 'includ', 'player', 'siemen', 'ag', 'sharp', 'philip', 'dell', 'mitsubishi', 'soni', 'corp']",3.0
+"['aventi', 'base', 'strasbourg', 'franc', 'one', 'hand', 'compani', 'still', 'make', 'flu', 'vaccin']","['aventi', 'base', 'strasbourg', 'franc', 'one', 'lead', 'produc', 'vaccin', 'one', 'hand', 'compani', 'still', 'make']",3.6
+"['michael', 'bloomberg', 'nyc', 'mayor', 'im', 'gonna', 'tri', 'march', 'number', 'differ', 'group']","['im', 'go', 'tri', 'march', 'number', 'differ', 'group', 'bloomberg', 'said']",3.75
+"['attack', 'seem', 'similar', 'other', 'stage', 'near', 'foreign', 'compound', 'riyadh', 'may', 'num']","['attack', 'seem', 'similar', 'attack', 'stage', 'near', 'foreign', 'compound', 'riyadh', 'may', 'num', 'offici', 'also', 'blame', 'alqaida']",3.6
+"['put', 'lot', 'effort', 'energi', 'improv', 'patch', 'process', 'probabl', 'later', 'gain', 'incred', 'speed']","['weve', 'put', 'lot', 'effort', 'energi', 'improv', 'patch', 'progress', 'probabl', 'later']",3.75
+"['boy', 'also', 'spray', 'room', 'full', 'retard', 'fire', 'extinguish', 'made', 'hard', 'see', 'chief', 'said']","['boy', 'fire', 'wall', 'spray', 'room', 'fire', 'extinguish', 'make', 'hard', 'see', 'chief', 'said']",3.333
+"['hrt', 'use', 'prevent', 'heart', 'diseas', 'chronic', 'condit']","['clear', 'messag', 'use', 'prevent', 'cardiovascular', 'diseas', 'manson', 'said']",2.6
+"['meat', 'poultri', 'butter', 'chees', 'nut', 'impound', 'year', 'ago', 'lagrou', 'cold', 'storag', 'warehous', 'chicago']","['meat', 'poultri', 'butter', 'chees', 'nut', 'store', 'num', 'wholesal', 'chicago']",1.8
+"['bluecorenummultimedia', 'includ', 'numbit', 'stereo', 'audio', 'codec', 'dual', 'adc', 'dac', 'stereo', 'audio']","['bluecorenummultimedia', 'contain', 'open', 'platform', 'dsp', 'coprocessor', 'also', 'includ', 'numbit', 'stereo', 'audio', 'codec', 'dual', 'adc', 'dac', 'stereo', 'audio']",3.6
+"['agenc', 'last', 'three', 'shuttl', 'ground', 'wake', 'columbia', 'disast', 'wait', 'could', 'even', 'longer']","['remain', 'three', 'shuttl', 'ground', 'wake', 'columbia', 'accid', 'rooki', 'wait', 'even', 'longer']",4.4
+"['bremer', 'num', 'onetim', 'assist', 'former', 'secretari', 'state', 'william', 'p', 'roger', 'henri', 'kissing', 'ambassadoratlarg', 'counterterror', 'num', 'num']","['bremer', 'num', 'former', 'assist', 'former', 'secretari', 'state', 'william', 'p', 'roger', 'henri', 'kissing']",3.0
+"['convers', 'taken', 'place', 'tuesday', 'night', 'accord', 'oracl', 'spokeswoman']","['talk', 'taken', 'place', 'accord', 'oracl', 'spokeswoman']",4.0
+"['taiwan', 'attempt', 'gain', 'observ', 'statu', 'unit', 'nationsaffili', 'seven', 'year', 'rebuf', 'march', 'num', 'annual', 'confer', 'geneva']","['sought', 'observ', 'statu', 'seven', 'year', 'rebuf', 'may', 'num', 'annual', 'confer', 'geneva']",3.25
+"['washington', 'counti', 'man', 'may', 'counti', 'first', 'human', 'case', 'west', 'nile', 'viru', 'health', 'depart', 'said', 'friday']","['counti', 'first', 'human', 'case', 'west', 'nile', 'year', 'confirm', 'health', 'offici', 'sept', 'num']",3.0
+"['nation', 'breast', 'cancer', 'centr', 'chief', 'execut', 'professor', 'christin', 'ewan', 'said', 'earli', 'quantifi', 'risk', 'woman']","['nation', 'breast', 'cancer', 'centr', 'head', 'professor', 'christin', 'ewan', 'said', 'need', 'panic']",2.6
+"['brendsel', 'chief', 'financi', 'offic', 'vaughn', 'clark', 'resign', 'june', 'num']","['compani', 'chief', 'execut', 'retir', 'chief', 'financi', 'offic', 'resign']",2.6
+"['health', 'care', 'ndp', 'say', 'privat', 'healthcar', 'premium']","['new', 'democrat', 'also', 'renew', 'commit', 'healthcar', 'privat', 'premium']",4.6
+"['new', 'compani', 'begin', 'trade', 'nasdaq', 'today', 'ticker', 'symbol', 'plmo', 'psrc']","['also', 'part', 'deal', 'palmsourc', 'stock', 'begin', 'trade', 'nasdaq', 'stock', 'market', 'wednesday', 'ticker', 'symbol', 'psrc']",2.75
+"['kid', 'adult', 'booksel', 'postal', 'worker', 'prepar', 'harri', 'potter', 'order', 'phoenix']","['crate', 'full', 'hardback', 'copi', 'harri', 'potter', 'order', 'phoenix']",2.2
+"['govern', 'identifi', 'taikonaut', 'term', 'coin', 'taikong', 'chines', 'word', 'space', 'would', 'travel', 'second', 'mission']","['govern', 'identifi', 'taikonaut', 'term', 'coin', 'taikong', 'chines', 'word', 'space']",3.333
+"['think', 'made', 'right', 'case', 'right', 'thing']","['mr', 'blair', 'went', 'think', 'right', 'thing', 'relat', 'iraq']",2.769
+"['kollarkotelli', 'schedul', 'anoth', 'antitrust', 'settlement', 'complianc', 'hear', 'januari']","['judg', 'schedul', 'anoth', 'oversight', 'hear', 'late', 'januari']",2.8
+"['tomorrow', 'mission', 'inn', 'opportun', 'congratul', 'governorelect', 'great', 'state', 'california']","['opportun', 'congratul', 'governorelect', 'great', 'state', 'california', 'im', 'look', 'forward']",4.0
+"['expect', 'japan', 'keep', 'conduct', 'intervent', 'volum', 'like', 'fall', 'sharpli', 'said', 'junya', 'tanas', 'forex', 'strategist', 'jp', 'morgan', 'chase']","['junya', 'tanas', 'forex', 'strategist', 'jp', 'morgan', 'chase', 'said', 'expect', 'japan', 'keep', 'conduct', 'intervent', 'volum', 'like', 'fall', 'sharpli']",4.733
+"['sunshin', 'group', 'ltd', 'repres', 'develop', 'relat', 'compani', 'apollo', 'real', 'estat', 'advisor', 'lp', 'deal']","['develop', 'relat', 'co', 'apollo', 'real', 'estat', 'advisor', 'hope', 'sale', 'top', 'num', 'billion']",1.6
+"['third', 'owe', 'world', 'told', 'report']","['aint', 'come', 'third', 'owe', 'world']",3.75
+"['techlac', 'nasdaq', 'composit', 'index', 'gain', 'num', 'point', 'num', 'percent', 'num']","['num', 'pm', 'edt', 'canada', 'benchmark', 'sptsx', 'composit', 'index', 'num', 'point', 'num', 'per', 'cent', 'num']",0.5
+"['benchmark', 'numyear', 'treasuri', 'note', 'yield', 'usnumytrr', 'dip', 'num', 'percent', 'tuesday']","['price', 'treasuri', 'secur', 'also', 'rose', 'yield', 'benchmark', 'numyear', 'note', 'fall', 'num', 'percent']",3.25
+"['edi', 'falco', 'critic', 'prais', 'costar', 'franki', 'johnni']","['edi', 'falco', 'nomin', 'franki', 'johnni']",2.4
+"['saddam', 'gone', 'want', 'u', 'occup', 'end', 'said', 'hit', 'resid', 'abu', 'qasim']","['saddam', 'gone', 'want', 'u', 'occup', 'end']",3.2
+"['joe', 'kernan', 'lieuten', 'governor', 'past', 'seven', 'year', 'sworn', 'governor', 'obannon', 'die', 'saturday']","['kernan', 'obannon', 'lieuten', 'governor', 'friend', 'polit', 'partner', 'sworn', 'six', 'hour', 'obannon', 'die', 'saturday']",3.75
+"['advanc', 'micro', 'devic', 'said', 'fujitsu', 'siemen', 'comput', 'offer', 'highend', 'workstat', 'base', 'amd', 'opteron', 'num', 'seri']","['fujitsu', 'siemen', 'comput', 'tuesday', 'made', 'good', 'promis', 'offer', 'workstat', 'base', 'advanc', 'micro', 'devic', 'opteron', 'processor']",3.25
+"['kodak', 'expect', 'earn', 'num', 'cent', 'num', 'cent', 'share', 'quarter']","['analyst', 'survey', 'thomson', 'first', 'call', 'expect', 'kodak', 'earn', 'num', 'cent', 'share', 'quarter']",2.4
+"['share', 'corixa', 'fell', 'num', 'cent', 'num', 'nasdaq', 'stock', 'market']","['corixa', 'stock', 'bare', 'flinch', 'news', 'dip', 'num', 'cent', 'close', 'num']",4.5
+"['refer', 'john', 'reed', 'former', 'citicorp', 'chief', 'execut', 'becam', 'interim', 'chairman', 'chief', 'execut', 'exchang', 'last', 'sunday']","['next', 'week', 'john', 'reed', 'former', 'citicorp', 'chief', 'execut', 'sunday', 'becam', 'interim', 'chairman', 'chief', 'execut', 'exchang', 'take', 'posit']",4.0
+"['refus', 'reveal', 'percentag', 'flight', 'carri', 'sky', 'marshal', 'whether', 'would', 'increas']","['refus', 'say', 'percentag', 'domest', 'flight', 'secur', 'offic', 'board']",3.8
+"['nasdaq', 'composit', 'index', 'rose', 'num', 'num', 'percent', 'num', 'highest', 'sinc', 'june', 'num']","['sp', 'num', 'climb', 'num', 'percent', 'sinc', 'march', 'low', 'yesterday', 'close', 'highest', 'sinc', 'dec', 'num']",0.8
+"['said', 'conclud', 'film', 'fail', 'present', 'balanc', 'portray', 'reagan']","['cb', 'said', 'show', 'present', 'balanc', 'portray', 'reagan', 'cb', 'audienc']",3.0
+"['state', 'health', 'offici', 'said', 'today', 'young', 'northeast', 'kansa', 'woman', 'like', 'state', 'first', 'case', 'monkeypox', 'among', 'human', 'anim']","['health', 'offici', 'confirm', 'today', 'northeast', 'kansa', 'woman', 'state', 'first', 'case', 'monkeypox', 'first', 'case', 'west', 'mississippi', 'river']",3.5
+"['navistar', 'share', 'num', 'cent', 'num', 'percent', 'num', 'new', 'york', 'stock', 'exchang', 'fall', 'low', 'num']","['navistar', 'share', 'rose', 'penni', 'num', 'late', 'afternoon', 'new', 'york', 'stock', 'exchang', 'earlier', 'fall', 'low', 'num']",2.0
+"['intel', 'corp', 'num', 'percent', 'yield', 'lower']","['intel', 'corp', 'lower', 'dividend', 'yield']",2.8
+"['mgm', 'nbc', 'liberti', 'execut', 'immedi', 'avail', 'comment']","['microsoft', 'spokesman', 'immedi', 'avail', 'comment']",2.0
+"['new', 'analysi', 'found', 'num', 'num', 'particip', 'develop', 'ovarian', 'cancer', 'num', 'year', 'followup']","['new', 'analysi', 'found', 'num', 'num', 'particip', 'develop', 'ovarian', 'cancer', 'num', 'num', 'year', 'followup', 'includ', 'num', 'woman', 'take', 'hormon']",3.0
+"['veteran', 'stage', 'screen', 'actor', 'hume', 'cronyn', 'die', 'cancer', 'sunday']","['charact', 'actor', 'hume', 'cronyn', 'num', 'die', 'sunday', 'home', 'connecticut']",3.5
+"['deirdr', 'hisler', 'govern', 'canyon', 'manag', 'said', 'state', 'long', 'eye', 'piec', 'properti', 'eager', 'complet', 'deal', 'obtain']","['deirdr', 'hisler', 'govern', 'canyon', 'manag', 'said', 'state', 'long', 'covet', 'piec', 'properti', 'eager', 'complet', 'deal']",5.0
+"['reuter', 'wit', 'said', 'mani', 'hous', 'flatten', 'citi', 'squar', 'pack', 'cri', 'child', 'homeless', 'huddl', 'blanket', 'protect', 'cold']","['reuter', 'wit', 'said', 'public', 'squar', 'pack', 'cri', 'child', 'peopl', 'left', 'homeless', 'huddl', 'blanket', 'protect', 'cold']",3.25
+"['three', 'groceri', 'chain', 'reli', 'store', 'manag', 'replac', 'worker', 'keep', 'store', 'open']","['supermarket', 'chain', 'use', 'manag', 'replac', 'worker', 'keep', 'store', 'open', 'often', 'reduc', 'hour']",3.4
+"['secur', 'offici', 'backup', 'couldnt', 'fill', 'activ', 'militari', 'duti', 'strutt', 'said']","['secur', 'offici', 'backup', 'activ', 'duti', 'lotteri', 'associ', 'didnt', 'replac', 'new', 'jersey', 'strutt', 'said']",3.4
+"['research', 'found', 'fossil', 'semidesert', 'area', 'venezuela', 'num', 'mile', 'west', 'caraca']","['phoberomi', 'skeleton', 'unearth', 'num', 'mile', 'west', 'caraca', 'venezuela']",3.75
+"['mr', 'mcdonnel', 'lead', 'grant', 'thornton', 'intern', 'inquiri', 'italian', 'busi']","['mr', 'mcdonnel', 'want', 'establish', 'italian', 'busi', 'follow', 'grant', 'thornton', 'audit', 'procedur']",2.75
+"['industri', 'largest', 'associ', 'urg', 'member', 'call', 'num', 'million', 'home', 'cellular', 'number', 'list']","['meantim', 'direct', 'market', 'associ', 'said', 'member', 'call', 'nearli', 'num', 'million', 'number', 'list']",3.2
+"['worker', 'accus', 'gener', 'dynam', 'revers', 'age', 'discrimin', 'chang', 'retir', 'benefit', 'num']","['gener', 'dynam', 'su', 'chang', 'retir', 'benefit', 'num']",2.6
+"['techlac', 'nasdaq', 'composit', 'index', 'ixic', 'eas', 'num', 'point', 'num', 'percent', 'num', 'break', 'sixday', 'string', 'gain']","['techheavi', 'nasdaq', 'composit', 'index', 'ixic', 'num', 'percent', 'num', 'point', 'num']",1.6
+"['space', 'infrar', 'telescop', 'facil', 'mission', 'search', 'begin', 'univers']","['nasa', 'schedul', 'launch', 'space', 'infrar', 'telescop', 'facil', 'monday', 'morn']",2.5
+"['respect', 'medic', 'journal', 'lancet', 'call', 'complet', 'ban', 'tobacco', 'unit', 'kingdom']","['lead', 'uk', 'medic', 'journal', 'call', 'friday', 'complet', 'ban', 'tobacco', 'prompt', 'outrag', 'smoker', 'group']",3.4
+"['driver', 'truck', 'escap', 'sought', 'polic', 'supoyo', 'said']","['polic', 'say', 'driver', 'truck', 'found', 'want', 'question']",4.0
+"['mani', 'differ', 'way', 'artistri', 'black', 'musician', 'convey', 'experi', 'black', 'american', 'throughout', 'histori', 'bush', 'said']","['surround', 'singer', 'harlem', 'bush', 'said', 'artistri', 'black', 'musician', 'convey', 'experi', 'black', 'american', 'throughout', 'histori']",4.25
+"['geraldin', 'andrew', 'pastor', 'daughterinlaw', 'said', 'robinson', 'recent', 'took', 'daughter', 'mental', 'health', 'facil']","['geraldin', 'andrew', 'reynold', 'daughterinlaw', 'friend', 'wilson', 'famili', 'said', 'robinson', 'recent', 'taken', 'wilson', 'mental', 'health', 'facil']",4.0
+"['thursday', 'matine', 'baker', 'call', 'clubhous', 'meet', 'concern', 'controversi', 'distract', 'cub']","['baker', 'call', 'pregam', 'meet', 'believ', 'corkedbat', 'episod', 'distract', 'team']",3.4
+"['taken', 'ambul', 'chare', 'cross', 'hospit', 'hammersmith']","['taken', 'chare', 'cross', 'hospit', 'remain', 'critic', 'ill', 'last', 'night']",2.8
+"['shortli', 'open', 'bell', 'dow', 'jone', 'industri', 'averag', 'num', 'num', 'sp', 'num', 'index', 'gain', 'num', 'num']","['weak', 'start', 'dow', 'jone', 'industri', 'averag', 'end', 'day', 'num', 'num', 'sp', 'num', 'index', 'rose', 'num', 'num']",1.6
+"['addit', 'primari', 'care', 'trust', 'pct', 'given', 'star', 'rate', 'first', 'time', 'year']","['primari', 'care', 'trust', 'mental', 'health', 'trust', 'also', 'formal', 'rate', 'first', 'time', 'year']",3.8
+"['expend', 'avail', 'resourc', 'toward', 'investig', 'said', 'assist', 'u', 'attorney', 'todd', 'greenberg', 'counterterror', 'prosecutor', 'seattl']","['awar', 'situat', 'said', 'assist', 'u', 'attorney', 'todd', 'greenberg', 'counterterror', 'prosecutor', 'seattl']",2.667
+"['technologylac', 'nasdaq', 'composit', 'index', 'ixic', 'shed', 'num', 'point', 'num', 'percent', 'num']","['broader', 'standard', 'poor', 'num', 'index', 'spx', 'edg', 'num', 'point', 'num', 'percent', 'num']",1.2
+"['research', 'firm', 'earlier', 'forecast', 'increas', 'num', 'percent']","['firm', 'predict', 'earlier', 'year', 'num', 'percent', 'increas']",4.8
+"['peoplesoft', 'commit', 'num', 'million', 'cash', 'issu', 'num', 'million', 'new', 'share', 'compani', 'said']","['new', 'deal', 'would', 'valu', 'num', 'billion', 'includ', 'num', 'million', 'cash', 'num', 'million', 'peoplesoft', 'share']",3.0
+"['state', 'union', 'address', 'januari', 'bush', 'declar', 'british', 'govern', 'learn', 'saddam', 'hussein', 'recent', 'sought', 'signific', 'quantiti', 'uranium', 'africa']","['jan', 'num', 'state', 'union', 'messag', 'bush', 'said', 'british', 'govern', 'learn', 'saddam', 'hussein', 'recent', 'sought', 'signific', 'quantiti', 'uranium', 'africa']",4.0
+"['num', 'member', 'split', 'repres', 'secur', 'industri', 'socal', 'public', 'board', 'member']","['num', 'director', 'exchang', 'execut', 'half', 'repres', 'secur', 'industri', 'half', 'design', 'public', 'member']",4.0
+"['episcop', 'dioces', 'central', 'florida', 'becam', 'one', 'first', 'nation', 'saturday', 'offici', 'reject', 'nation', 'denomin', 'polici', 'homosexu']","['episcop', 'dioces', 'central', 'florida', 'vote', 'saturday', 'repudi', 'decis', 'denomin', 'nation', 'convent', 'confirm', 'gay', 'man', 'bishop']",2.75
+"['mcgill', 'also', 'detail', 'hole', 'cut', 'capric', 'trunk']","['mcgill', 'also', 'said', 'dark', 'glove', 'stuf', 'hole', 'cut', 'capric', 'trunk']",2.25
+"['compar', 'yearearli', 'profit', 'num', 'million', 'num', 'cent', 'share']","['doubl', 'num', 'million', 'num', 'cent', 'share', 'yearearli', 'quarter']",3.2
+"['economi', 'nonetheless', 'yet', 'exhibit', 'sustain', 'growth']","['economi', 'hasnt', 'shown', 'sign', 'sustain', 'growth']",4.75
+"['commiss', 'estim', 'california', 'lost', 'num', 'million', 'corpor', 'tax', 'shelter', 'num']","['california', 'lost', 'tax', 'revenu', 'mostli', 'due', 'intern', 'corpor', 'tax', 'shelter']",2.8
+"['market', 'u', 'treasuri', 'start', 'monday', 'weaker', 'stock', 'rose', 'earli']","['market', 'u', 'treasuri', 'inch', 'higher', 'declin', 'stock', 'rais', 'appeal', 'safehaven', 'debt']",1.4
+"['technologylac', 'nasdaq', 'composit', 'index', 'ixic', 'num', 'point', 'num', 'percent', 'num']","['broader', 'standard', 'poor', 'num', 'index', 'spx', 'gave', 'num', 'point', 'num', 'percent', 'num']",0.75
+"['pentagon', 'hope', 'retain', 'control', 'postwar', 'effort', 'decis', 'victori', 'secretari', 'state', 'colin', 'l', 'powel']","['pentagon', 'hope', 'retain', 'control', 'postwar', 'effort', 'decis', 'seen', 'insid', 'victori', 'powel', 'state', 'depart']",3.667
+"['prof', 'salli', 'baldwin', 'num', 'york', 'fell', 'caviti', 'open', 'structur', 'collaps', 'tiburtina', 'station', 'italian', 'railway', 'offici', 'said']","['salli', 'baldwin', 'york', 'kill', 'instantli', 'walkway', 'collaps', 'fell', 'machineri', 'tiburtina', 'station']",3.4
+"['call', 'agenc', 'plan', 'independ', 'safeti', 'engin', 'organ']","['agenc', 'yet', 'fulli', 'formul', 'strategi', 'creation', 'independ', 'engin', 'technic', 'author']",3.4
+"['worldcom', 'account', 'problem', 'came', 'light', 'earli', 'last', 'year', 'compani', 'file', 'bankruptci', 'juli', 'num', 'cite', 'massiv', 'account', 'irregular']","['worldcom', 'financi', 'troubl', 'came', 'light', 'last', 'year', 'compani', 'subsequ', 'file', 'bankruptci', 'juli', 'num']",3.857
+"['studi', 'also', 'found', 'consum', 'good', 'advertis', 'continu', 'spend', 'dollar', 'onlin', 'repres', 'num', 'web', 'advertis']","['second', 'quarter', 'consum', 'advertis', 'continu', 'spend', 'onlin', 'slightli', 'increas', 'share']",3.0
+"['kiernan', 'testifi', 'seifert', 'receiv', 'gunshot', 'wound', 'back']","['seifert', 'testifi', 'gunshot', 'wound', 'back']",3.5
+"['price', 'num', 'unlimit', 'number', 'user', 'tap', 'singl', 'processor', 'num', 'per', 'user', 'minimum', 'five', 'user']","['price', 'num', 'num', 'per', 'user', 'licens', 'plan', 'minimum', 'five', 'user']",3.25
+"['tropic', 'storm', 'head', 'pa', 'along', 'hondura', 'coast']","['tropic', 'storm', 'warn', 'southeast', 'coast']",1.4
+"['suicid', 'bomber', 'kill', 'num', 'nigeria', 'church']","['suicid', 'bomber', 'kill', 'num', 'nw', 'pakistan']",0.75
+"['u', 'say', 'readi', 'help', 'blind', 'chines', 'activist']","['u', 'readi', 'help', 'chines', 'activist', 'offici']",3.4
+"['gazan', 'fire', 'num', 'rocket', 'israel', 'injuri']","['num', 'gaza', 'rocket', 'hit', 'israel', 'injuri']",4.8
+"['berri', 'say', 'readi', 'help', 'launch', 'nation', 'uniti', 'govern']","['percept', 'spain', 'chang', 'dramat', 'govern']",0.4
+"['num', 'dead', 'iraq', 'bomb', 'attack']","['num', 'kill', 'north', 'iraq', 'attack']",1.8
+"['hurrican', 'isaac', 'move', 'inland', 'landfal']","['hurrican', 'isaac', 'batter', 'u', 'coast', 'near', 'new', 'orlean']",2.4
+"['nigeria', 'mourn', 'num', 'peopl', 'kill', 'plane', 'crash']","['nigeria', 'open', 'probe', 'deadli', 'air', 'crash']",1.6
+"['icc', 'jail', 'congoles', 'warlord', 'num', 'year', 'child', 'soldier']","['congoles', 'warlord', 'sentenc', 'num', 'year', 'landmark', 'case', 'video']",3.2
+"['num', 'soldier', 'kill', 'num', 'injur', 'pkk', 'attack', 'eastern', 'turkey']","['num', 'kill', 'num', 'injur', 'attack', 'iraq']",0.4
+"['schiphol', 'airport', 'partli', 'evacu', 'bomb', 'threat']","['schiphol', 'airport', 'evacu', 'due', 'bomb', 'threat']",4.0
+"['mier', 'up', 'num', 'growth', 'forecast', 'numpc']","['cmie', 'cut', 'num', 'growth', 'forecast', 'num']",0.8
+"['activist', 'syrian', 'troop', 'storm', 'damascu', 'suburb']","['activist', 'say', 'syrian', 'citizen', 'cameraman', 'kill', 'hom']",1.4
+"['tehran', 'eu', 'sanction', 'wont', 'forc', 'iran', 'nuclear', 'talk']","['low', 'expect', 'iran', 'nuclear', 'talk']",1.8
+"['portug', 'drown', 'uk', 'girl', 'grandad', 'name']","['british', 'girl', 'grandad', 'drown', 'portug']",2.2
+"['iran', 'power', 'set', 'highstak', 'nuclear', 'talk']","['u', 'iran', 'prepar', 'istanbul', 'nuclear', 'talk']",3.2
+"['syrian', 'forc', 'kill', 'teen', 'aleppo', 'protest']","['syrian', 'forc', 'kill', 'num', 'protest', 'damascusactivist']",1.2
+"['jaguar', 'creat', 'num', 'job', 'uk']","['royal', 'mail', 'creat', 'num', 'job']",1.25
+"['iraq', 'search', 'syria', 'bound', 'iran', 'plane', 'offici']","['iraq', 'search', 'syrianbound', 'iranian', 'plane']",4.2
+"['syria', 'fight', 'rage', 'russia', 'urg', 'western', 'rethink']","['syria', 'fight', 'rage', 'capit', 'russia', 'press']",2.6
+"['erdogan', 'parti', 'submit', 'plan', 'turkish', 'presid']","['erdogan', 'parti', 'aim', 'turkish', 'presid']",3.6
+"['publish', 'acquit', 'privaci', 'case']","['pb', 'publish', 'new', 'guidelin', 'imparti']",0.4
+"['samsung', 'overtak', 'nokia', 'phone']","['charg', 'dog', 'attack', 'polic']",0.0
+"['gu', 'kailai', 'murder', 'trial', 'end', 'china']","['gu', 'kailai', 'murder', 'trial', 'end', 'china']",5.0
+"['hide', 'ball', 'russia', 'obama']","['obama', 'say', 'he', 'hide', 'ball', 'russia']",4.4
+"['england', 'captain', 'andrew', 'strauss', 'retir', 'profession', 'cricket']","['england', 'captain', 'strauss', 'retir', 'cricket']",4.8
+"['china', 'back', 'sri', 'lanka', 'un', 'resolut']","['war', 'crime', 'china', 'back', 'lanka', 'un', 'resolut']",3.6
+"['ton', 'tendulkar', 'reach', 'numth', 'intern', 'hundr']","['sachin', 'tendulkar', 'reach', 'num', 'centuri', 'pictur']",3.8
+"['conspiraci', 'lanc']","['day', 'begin', 'amid', 'panic']",0.2
+"['mursi', 'take', 'oath', 'offic', 'becom', 'egyptian', 'presid']","['morsi', 'take', 'oath', 'first', 'egypt', 'civilian', 'presid']",3.8
+"['syrian', 'opposit', 'plead', 'crimin', 'court', 'action']","['syrian', 'opposit', 'leader', 'critic', 'u']",2.2
+"['sunderland', 'num', 'bolton', 'davi', 'doubl', 'get', 'trotter', 'point', 'stay', 'bottom', 'three']","['sunderland', 'num', 'bolton', 'davi', 'doubl']",4.0
+"['syrian', 'forc', 'shell', 'town', 'clash', 'rebel']","['syrian', 'forc', 'rebel', 'clash', 'coastal', 'provinc']",2.6
+"['bahraini', 'protest', 'polic', 'clash', 'funer']","['greek', 'protest', 'polic', 'clash', 'bailout', 'deal', 'limbo']",0.6000000000000001
+"['appl', 'buy', 'secur', 'firm', 'authentec', 'num', 'million']","['news', 'summari', 'appl', 'buy', 'authentec', 'numm']",4.4
+"['trade', 'newspap', 'varieti', 'sale']","['hollywood', 'trade', 'public', 'varieti', 'put', 'sale']",4.0
+"['australian', 'flee', 'home', 'amid', 'flood']","['australian', 'speaker', 'step', 'asid']",0.8
+"['germani', 'dodg', 'recess', 'growth', 'first', 'quarter']","['eurozon', 'avoid', 'recess', 'qnum', 'thank', 'germani']",2.0
+"['asian', 'stock', 'rise', 'greek', 'vote', 'ea', 'fear']","['oil', 'rise', 'greek', 'elect', 'result']",1.4
+"['british', 'soldier', 'kill', 'southern', 'afghanistan']","['two', 'british', 'soldier', 'kill', 'afghanistan']",3.0
+"['obama', 'silent', 'china', 'dissid']","['obama', 'visit', 'korean', 'dmz']",0.6000000000000001
+"['suicid', 'bomber', 'kill', 'num', 'afghan', 'capit']","['suicid', 'bomber', 'kill', 'num', 'mosqu', 'afghanistan']",2.0
+"['denver', 'shoot', 'polic', 'deton', 'devic', 'suspect', 'home']","['polic', 'deton', 'devic', 'colorado', 'shoot', 'suspect', 'home']",4.6
+"['syria', 'hand', 'bodi', 'journalist']","['syria', 'tv', 'say', 'govt', 'troop', 'free', 'captiv', 'journalist']",1.4
+"['coron', 'whitney', 'houston', 'die', 'bathtub']","['coron', 'confirm', 'whitney', 'houston', 'found', 'bathtub']",4.5
+"['japan', 'suffer', 'sever', 'flood', 'pictur']","['oklahoma', 'wildfir', 'destroy', 'home', 'pictur']",0.8
+"['japan', 'deport', 'chines', 'held', 'island', 'land']","['german', 'court', 'weigh', 'delay', 'euro', 'fund', 'rule']",0.0
+"['syria', 'violenc', 'amount', 'civil', 'war', 'cross']","['syria', 'violenc', 'qualifi', 'civil', 'war', 'red', 'cross']",4.4
+"['romney', 'win', 'nevada', 'caucu']","['romney', 'shift', 'focu', 'santorum', 'ahead', 'caucu']",1.0
+"['appl', 'ipad', 'mini', 'make', 'debut']","['appl', 'ipad', 'mini', 'make', 'debut', 'asia']",3.4
+"['hama', 'hang', 'three', 'gaza', 'prison']","['myanmar', 'announc', 'releas', 'prison']",0.6000000000000001
+"['east', 'timor', 'vote', 'presidenti', 'elect']","['venezuelan', 'urg', 'vote', 'presidenti', 'elect']",1.0
+"['sunday', 'time', 'journalist', 'mari', 'colvin', 'kill', 'syria']","['sunday', 'time', 'journalist', 'french', 'photograph', 'kill', 'syria']",2.8
+"['kl', 'share', 'higher', 'midafternoon']","['kl', 'share', 'lower', 'midmorn']",1.6
+"['chicago', 'teacher', 'strike', 'bitter', 'contract', 'disput']","['chicago', 'teacher', 'union', 'deleg', 'could', 'end', 'strike']",2.4
+"['israel', 'free', 'palestinian', 'hunger', 'striker']","['israel', 'ask', 'u', 'arm', 'could', 'aid', 'iran', 'strike']",0.8
+"['good', 'begin', 'holland', 'plane', 'hit', 'lightn', 'en', 'rout', 'berlin']","['french', 'presid', 'francoi', 'holland', 'plane', 'hit', 'lightn', 'en', 'rout', 'berlin']",4.4
+"['afghan', 'parliament', 'vote', 'oust', 'key', 'minist']","['afghan', 'parliament', 'vote', 'remov', 'key', 'minist']",4.8
+"['attack', 'afghan', 'uniform', 'kill', 'num', 'nato', 'troop']","['man', 'afghan', 'armi', 'uniform', 'kill', 'nato', 'soldier']",3.4
+"['cheap', 'gener', 'panacea', 'india', 'poorest']","['cheap', 'cancer', 'drug', 'cure', 'india', 'poorest']",3.8
+"['arrest', 'warrant', 'maldiv', 'expresid']","['maldiv', 'court', 'issu', 'arrest', 'warrant', 'former', 'presid']",4.5
+"['hrw', 'jordan', 'turn', 'away', 'palestinian', 'refuge', 'syria']","['report', 'jordan', 'bias', 'palestinian', 'syria']",2.2
+"['syrian', 'forc', 'overrun', 'rebel', 'stronghold']","['syria', 'armi', 'take', 'northern', 'rebel', 'stronghold']",4.0
+"['chines', 'stock', 'close', 'higher', 'midday', 'friday']","['chines', 'stock', 'open', 'lower', 'friday']",1.0
+"['sandi', 'slam', 'northeast', 'least', 'num', 'dead', 'numm', 'without', 'power']","['eastern', 'u', 'storm', 'leav', 'num', 'dead', 'va', 'num', 'million', 'without', 'power']",2.6
+"['putin', 'declar', 'victori', 'russia', 'presidenti', 'vote']","['complaint', 'russian', 'elect', 'mount']",1.0
+"['suprem', 'court', 'hear', 'vote', 'right', 'act', 'case']","['suprem', 'court', 'hear', 'corpor', 'human', 'right', 'case']",1.4
+"['libya', 'postpon', 'assembl', 'elect', 'juli', 'num']","['libya', 'postpon', 'landmark', 'elect', 'juli', 'num']",4.0
+"['london', 'num', 'olymp', 'open', 'ceremoni', 'featur', 'green', 'pleasant', 'land']","['london', 'num', 'olymp', 'open', 'ceremoni', 'green', 'pleasant', 'land', 'say', 'danni', 'boyl']",4.2
+"['pakistan', 'block', 'twitter', 'antiislam', 'materi']","['pakistan', 'block', 'twitter', 'blasphemi']",3.8
+"['annan', 'visit', 'syrian', 'refuge', 'turkey', 'tuesday']","['annan', 'visit', 'syrian', 'refuge', 'turkey', 'iran']",3.8
+"['pakistani', 'pm', 'shock', 'avalanch', 'trap', 'armi', 'personnel']","['pakistan', 'avalanch', 'rescuer', 'search', 'buri', 'soldier']",2.4
+"['opposit', 'leader', 'emerg', 'commemor', 'cambodian', 'worker', 'death']","['cambodia', 'opposit', 'leader', 'summon', 'court']",0.4
+"['mali', 'due', 'vote', 'presid']","['mali', 'count', 'vote', 'presidenti', 'runoff']",2.2
+"['pussi', 'riot', 'member', 'alyokhina', 'releas', 'jail', 'russia']","['pussi', 'riot', 'member', 'maria', 'alyokhina', 'freed', 'jail']",4.4
+"['asiana', 'jet', 'crash', 'land', 'san', 'francisco', 'airport']","['plane', 'crash', 'land', 'san', 'francisco', 'airport']",3.6
+"['blizzard', 'hammer', 'u', 'northeast', 'five', 'dead', 'num', 'lose', 'power']","['blizzard', 'wallop', 'u', 'northeast', 'close', 'road']",2.2
+"['num', 'french', 'journalist', 'kill', 'mali']","['two', 'french', 'journalist', 'kill', 'mali']",5.0
+"['vehicl', 'ablaz', 'collaps', 'japan', 'tunnel']","['vehicl', 'left', 'burn', 'smoke', 'emit', 'japan', 'tunnel']",4.2
+"['china', 'stock', 'close', 'lower', 'friday']","['china', 'stock', 'close', 'higher', 'wednesday']",1.8
+"['mayor', 'say', 'num', 'dead', 'texa', 'fertil', 'plant', 'blast']","['rescuer', 'search', 'survivor', 'texa', 'fertilis', 'plant', 'blast']",1.4
+"['cbn', 'reiter', 'plan', 'phase', 'polym', 'note']","['nigeria', 'announc', 'plan', 'chang', 'polym', 'naira', 'note']",2.2
+"['u', 'file', 'espionag', 'charg', 'again', 'nsa', 'leaker']","['u', 'file', 'espionag', 'charg', 'snowden', 'leak']",3.8
+"['chines', 'gener', 'son', 'get', 'num', 'year', 'jail', 'rape']","['chines', 'gener', 'son', 'get', 'num', 'year', 'jail', 'gangrap']",4.2
+"['where', 'rusti', 'red', 'panda', 'vanish', 'nation', 'zoo']","['miss', 'red', 'panda', 'return', 'safe', 'nation', 'zoo']",2.0
+"['queen', 'beatrix', 'netherland', 'abdic', 'son']","['queen', 'beatrix', 'netherland', 'abdic', 'favour', 'son']",5.0
+"['u', 'dump', 'bomb', 'great', 'barrier', 'reef']","['u', 'militari', 'jettison', 'bomb', 'near', 'australia', 'great', 'barrier', 'reef']",3.8
+"['num', 'taliban', 'milit', 'kill', 'afghanistan']","['taliban', 'attack', 'u', 'base', 'afghanistan']",1.2
+"['power', 'typhoon', 'num', 'hit', 'philippin']","['num', 'miss', 'typhoon', 'utor', 'hit', 'philippin']",2.2
+"['call', 'egypt', 'protest']","['death', 'toll', 'egypt', 'protest', 'rise', 'num']",1.4
+"['u', 'govern', 'edg', 'shutdown']","['obama', 'reject', 'gop', 'offer', 'eas', 'shutdown']",2.4
+"['num', 'kill', 'fight', 'northern', 'syria']","['mani', 'kill', 'syrian', 'air', 'strike']",3.0
+"['critic', 'say', 'putin', 'secur', 'restrict', 'violat', 'right']","['putin', 'secur', 'decre', 'sochi', 'draw', 'ire', 'critic']",3.2
+"['egypt', 'brace', 'protest', 'pray', 'calm']","['egypt', 'brace', 'protest', 'morsi', 'pray', 'calm']",3.8
+"['morsi', 'support', 'protest', 'egypt']","['morsi', 'backer', 'defiant', 'face', 'egypt', 'govt', 'threat']",3.0
+"['stock', 'rise', 'earli', 'trade']","['u', 'stock', 'eas', 'choppi', 'trade']",2.0
+"['bangladesh', 'build', 'collaps', 'death', 'toll', 'hit', 'num', 'armi']","['bangladesh', 'buildingcollaps', 'toll', 'top', 'num']",2.8
+"['defiant', 'mugab', 'sworn', 'seventh', 'term', 'blast', 'vile', 'west']","['mugab', 'sworn', 'anoth', 'term']",4.0
+"['nelson', 'mandela', 'hospit', 'test']","['south', 'africa', 'mandela', 'hospit', 'test']",4.6
+"['iran', 'six', 'global', 'power', 'sign', 'landmark', 'nuclear', 'deal']","['iran', 'world', 'power', 'agre', 'nuclear', 'deal']",4.0
+"['algeria', 'mount', 'militari', 'oper', 'rescu', 'al', 'qaeda', 'hostag']","['algeria', 'mull', 'intern', 'forc', 'hostag']",2.2
+"['delhi', 'gang', 'rape', 'victim', 'dy', 'singapor', 'hospit']","['delhi', 'gang', 'rape', 'victim', 'flown', 'singapor', 'hospit']",3.4
+"['birth', 'control', 'link', 'higher', 'glaucoma', 'risk']","['contracept', 'pill', 'doubl', 'glaucoma', 'risk']",3.4
+"['malaysia', 'set', 'may', 'num', 'date', 'close', 'contest', 'elect']","['malaysia', 'set', 'date', 'landmark', 'elect']",3.4
+"['dhawan', 'smash', 'india', 'big', 'win', 'south', 'africa']","['dhawan', 'ton', 'set', 'india', 'trophi', 'win', 'south', 'africa']",4.2
+"['n', 'korea', 'postpon', 'famili', 'reunion']","['north', 'korea', 'postpon', 'wartorn', 'famili', 'union']",3.8
+"['syria', 'reject', 'u', 'uk', 'chemic', 'arm', 'claim']","['u', 'suspect', 'syria', 'use', 'chemic', 'weapon']",2.6
+"['egypt', 'arrest', 'muslim', 'brotherhood', 'suprem', 'guid']","['egypt', 'ban', 'muslim', 'brotherhood', 'group']",2.2
+"['gunman', 'kill', 'nine', 'peopl', 'northwest', 'pakistan']","['gunman', 'kill', 'num', 'policeman', 'iraq']",0.4
+"['news', 'summari', 'march', 'num']","['news', 'summari', 'januari', 'num']",1.8
+"['hawaii', 'pass', 'gay', 'marriag', 'bill']","['u', 'senat', 'pass', 'gay', 'worker', 'bill']",1.0
+"['syrian', 'opposit', 'urg', 'eu', 'send', 'arm', 'rebel']","['syrian', 'opposit', 'meet', 'choos', 'interim', 'pm']",1.6
+"['funer', 'oscar', 'pistoriu', 'girlfriend', 'reeva', 'steenkamp', 'take', 'place']","['oscar', 'pistoriu', 'shot', 'steenkamp', 'bathroom']",1.6
+"['two', 'firefight', 'kill', 'new', 'york', 'ambush']","['two', 'new', 'york', 'firefight', 'guard', 'condit', 'deadli', 'ambush']",2.6
+"['ten', 'rescu', 'waterford', 'dublin', 'coast']","['six', 'rescu', 'boat', 'capsiz', 'dublin', 'bay']",2.6
+"['mar', 'rover', 'collect', 'first', 'bedrock', 'sampl']","['wawrinka', 'reach', 'first', 'grand', 'slam', 'final']",0.0
+"['ankeet', 'chavan', 'grant', 'condit', 'bail', 'marriag']","['ankeet', 'chavan', 'grant', 'bail', 'get', 'marri']",4.4
+"['man', 'battl', 'fukushima', 'disast', 'dy', 'cancer']","['former', 'plant', 'chief', 'battl', 'fukushima', 'disast', 'dy', 'cancer']",3.4
+"['iran', 'say', 'nuclear', 'talk', 'resum', 'next', 'month']","['iran', 'say', 'capabl', 'jam', 'foe', 'commun', 'system']",0.6000000000000001
+"['u', 'author', 'charg', 'man', 'ricin', 'probe']","['south', 'african', 'polic', 'arrest', 'num', 'farm', 'protest']",0.0
+"['num', 'bodi', 'found', 'raid', 'algerian', 'ga', 'plant']","['num', 'bodi', 'found', 'algerian', 'ga', 'plant']",4.4
+"['ferrer', 'cruis', 'australian', 'open', 'quarterfin']","['ferrer', 'beat', 'nishikori', 'advanc', 'australian', 'open', 'quarterfin']",3.6
+"['ub', 'settl', 'u', 'mortgag', 'lawsuit']","['ub', 'settl', 'u', 'mortgag', 'lawsuit', 'take', 'numm', 'charg']",3.0
+"['north', 'south', 'korea', 'agre', 'talk']","['north', 'south', 'korea', 'hold', 'rare', 'talk']",3.8
+"['gunman', 'kill', 'femal', 'politician', 'pakistan']","['gunman', 'kill', 'num', 'femal', 'teacher', 'pakistan']",2.2
+"['kardashian', 'divorc', 'readi', 'trial']","['hardhit', 'hotel', 'readi', 'price', 'war']",0.0
+"['new', 'zealand', 'set', 'legalis', 'gay', 'marriag']","['new', 'zealand', 'vote', 'legalis', 'samesex', 'marriag']",4.6
+"['syria', 'regim', 'claim', 'evacu', 'num', 'near', 'damascu']","['syria', 'armi', 'continu', 'mopup', 'oper', 'near', 'damascu']",1.6
+"['nobel', 'prize', 'win', 'author', 'dori', 'less', 'dy']","['nobel', 'laureat', 'dori', 'less', 'dy', 'num']",4.6
+"['internet', 'phone', 'servic', 'restor', 'syrian', 'capit']","['internet', 'servic', 'resum', 'syria']",4.2
+"['syrian', 'pm', 'surviv', 'bomb', 'attack']","['syrian', 'pm', 'surviv', 'bomb', 'attack', 'capit']",3.8
+"['u', 'stock', 'futur', 'edg', 'ahead', 'job', 'report']","['stock', 'futur', 'edg', 'higher', 'eye', 'fed']",3.0
+"['bomb', 'blast', 'kill', 'num', 'southwest', 'pakistan']","['major', 'quak', 'kill', 'num', 'pakistan']",1.0
+"['david', 'cameron', 'put', 'sri', 'lanka', 'notic', 'war', 'crime', 'alleg']","['sri', 'lanka', 'warn', 'war', 'crime', 'alleg']",3.6
+"['morsi', 'support', 'clash', 'riot', 'polic', 'cairo']","['protest', 'clash', 'riot', 'polic', 'kiev']",0.8
+"['afghan', 'polic', 'kill', 'num', 'taliban', 'fighter']","['num', 'taliban', 'num', 'afghan', 'polic', 'kill', 'ambush']",2.2
+"['gunman', 'kidnap', 'airlin', 'pilot', 'lebanon']","['gunman', 'kidnap', 'num', 'turkish', 'airlin', 'pilot', 'lebanon']",4.2
+"['kurdish', 'rebel', 'withdraw', 'turkey', 'march', 'report']","['kurdish', 'rebel', 'withdraw', 'turkey']",4.2
+"['japan', 'revis', 'gdp', 'growth', 'annual', 'num', 'pct', 'qnum']","['japan', 'gdp', 'growth', 'downgrad', 'annual', 'num']",3.4
+"['foundat', 'south', 'africa', 'built', 'nelson', 'mandela', 'memori']","['australian', 'politician', 'lament', 'nelson', 'mandela', 'death']",1.3
+"['ukrain', 'protest', 'leader', 'name', 'minist', 'russian', 'troop', 'alert']","['ukrain', 'refus', 'act', 'russian', 'provoc']",1.2
+"['malala', 'snowden', 'belarusian', 'shortlist', 'sakharov', 'prize']","['fugit', 'snowden', 'shortlist', 'european', 'right', 'prize']",3.6
+"['elbaradei', 'becom', 'egyptian', 'pm']","['liber', 'elbaradei', 'name', 'egypt', 'pm', 'islamist', 'cri', 'foul']",3.2
+"['taiwan', 'economi', 'grow', 'num', 'apriljun', 'quarter']","['china', 'econom', 'growth', 'rebound', 'num', 'latest', 'quarter']",1.0
+"['tamerlan', 'tsarnaev', 'buri', 'virginia']","['boston', 'bomb', 'suspect', 'buri', 'virginia', 'cemeteri']",3.0
+"['state', 'dept', 'issu', 'wide', 'travel', 'alert', 'say', 'terror', 'attack', 'possibl']","['u', 'issu', 'global', 'travel', 'alert', 'cite', 'alqaida', 'threat']",3.8
+"['singapor', 'stock', 'end', 'num', 'pct']","['singapor', 'stock', 'end', 'num']",1.6
+"['russia', 'warn', 'ukrain', 'eu', 'deal']","['rebel', 'ukrain', 'helicopt']",1.2
+"['hernandez', 'doubl', 'give', 'mexico', 'victori']","['hernandez', 'doubl', 'give', 'mexico', 'victori', 'japan']",3.4
+"['china', 'sack', 'top', 'econom', 'offici']","['china', 'fm', 'host', 'senior', 'asean', 'offici']",0.4
+"['canada', 'approv', 'oil', 'pipelin', 'pacif', 'coast']","['canadian', 'govern', 'approv', 'controversi', 'oil', 'pipelin', 'pacif']",4.8
+"['storm', 'buri', 'northeast', 'num', 'inch', 'snow', 'nj']","['forum', 'urg', 'stabl', 'relat', 'china', 'japan']",0.0
+"['jamaican', 'connect', 'liverpool', 'win']","['japan', 'elect', 'shinzo', 'abe', 'hail', 'landslid', 'win']",0.4
+"['intern', 'weapon', 'expert', 'leav', 'syria', 'obama', 'make', 'statement']","['weapon', 'expert', 'leav', 'syria', 'u', 'prepar', 'attack']",2.8
+"['southwest', 'jet', 'hit', 'nose', 'first']","['southwest', 'jet', 'nose', 'gear', 'land', 'first']",3.6
+"['twelv', 'kill', 'bomb', 'blast', 'pakistani', 'train']","['gunman', 'kill', 'nine', 'southwest', 'pakistan', 'polic']",2.0
+"['power', 'quak', 'strike', 'eastern', 'indonesia']","['nummag', 'quak', 'strike', 'eastern', 'indonesia']",4.0
+"['obama', 'lash', 'north', 'korea', 'pariah', 'state']","['obama', 'lash', 'north', 'korea', 'weak', 'äėpariah', 'stateäô']",3.8
+"['colombia', 'strike', 'three', 'time']","['colombia', 'slick', 'greec']",1.8
+"['lord', 'palumbo', 'offer', 'hope', 'relationship', 'son', 'jame']","['oscar', 'pistoriu', 'sent', 'mental', 'evalu', 'mean']",0.2
+"['deputi', 'speaker', 'face', 'new', 'sex', 'claim']","['deputi', 'speaker', 'nigel', 'evan', 'rearrest']",2.0
+"['cia', 'chief', 'visit', 'israel', 'syria', 'talk']","['cia', 'chief', 'israel', 'discu', 'situat', 'syria']",5.0
+"['suicid', 'bomb', 'kill', 'num', 'injur', 'num', 'pakistan']","['twitter', 'block', 'content', 'pakistan']",0.0
+"['ukrain', 'rebel', 'flee', 'eastern', 'stronghold']","['ukrain', 'claim', 'rebel', 'flush', 'main', 'stronghold']",3.6
+"['num', 'foreign', 'among', 'num', 'kill', 'kabul', 'hotel', 'attack']","['foreign', 'among', 'dead', 'kabul', 'hotel', 'attack']",3.6
+"['firefight', 'battl', 'forest', 'fire', 'sw', 'china']","['firefight', 'battl', 'scrub', 'fire', 'hokianga']",3.4
+"['hassan', 'rouhani', 'win', 'iran', 'presidenti', 'elect']","['maduro', 'win', 'venezuelan', 'presidenti', 'vote']",0.2
+"['woman', 'remand', 'child', 'death', 'woman', 'remand', 'custodi', 'charg', 'murder', 'eightyearold', 'girl', 'found', 'dead', 'block', 'flat']","['mother', 'held', 'daughter', 'death', 'mother', 'remand', 'custodi', 'charg', 'murder', 'eightyearold', 'daughter', 'found', 'dead', 'block', 'flat']",4.4
+"['redshirt', 'leader', 'call', 'oppos', 'armi']","['oil', 'rig', 'spat', 'beij', 'send', 'armi']",0.6000000000000001
+"['russia', 'prais', 'idea', 'render', 'right', 'assist', 'ukrain']","['russia', 'detain', 'suspect', 'islamist', 'milit', 'moscow', 'raid']",0.4
+"['georgian', 'pm', 'alli', 'becom', 'presid', 'exit', 'poll']","['alli', 'georgia', 'billionair', 'pm', 'presid', 'exit', 'poll']",4.6
+"['car', 'bomb', 'kill', 'least', 'num', 'iraqi', 'capit']","['car', 'bomb', 'kill', 'least', 'num', 'baghdad', 'area']",2.6
+"['saudi', 'arabia', 'get', 'seat', 'un', 'secur', 'council']","['saudi', 'arabia', 'reject', 'seat', 'un', 'secur', 'council']",2.8
+"['u', 'drone', 'strike', 'kill', 'num', 'pakistan']","['u', 'drone', 'kill', 'num', 'pakistan']",3.2
+"['num', 'kill', 'bomb', 'attack', 'pakistani', 'base']","['num', 'soldier', 'kill', 'bomb', 'attack', 'nw', 'pakistan']",2.0
+"['shenzhen', 'stock', 'index', 'close', 'higher', 'monday']","['shenzhen', 'stock', 'index', 'close', 'lower', 'oct', 'num']",1.8
+"['princ', 'harri', 'pay', 'tribut', 'u', 'war', 'dead']","['u', 'presid', 'pay', 'tribut', 'mandela']",0.4
+"['num', 'dead', 'iraq', 'attack', 'bomb', 'footbal', 'pitch']","['num', 'dead', 'iraq', 'attack', 'blitz']",1.4
+"['myanmar', 'arrest', 'num', 'sectarian', 'violenc']","['ban', 'warn', 'syria', 'strike', 'could', 'worsen', 'sectarian', 'violenc']",1.2
+"['iran', 'offici', 'u', 'visa', 'denial', 'iranian', 'envoy', 'affect', 'nuke', 'talk']","['iranian', 'negoti', 'upbeat', 'latest', 'nuclear', 'talk']",2.6
+"['govt', 'group', 'pledg', 'million', 'typhoon', 'relief']","['canada', 'promis', 'nummillion', 'typhoon', 'relief']",2.4
+"['greec', 'suspend', 'state', 'broadcast']","['greec', 'close', 'state', 'broadcast', 'save', 'money']",4.2
+"['guatemalan', 'court', 'find', 'former', 'dictat', 'guilti', 'genocid']","['guatemala', 'former', 'leader', 'found', 'guilti', 'genocid']",5.0
+"['beaten', 'florida', 'teen', 'releas', 'israel']","['palestinian', 'teen', 'dy', 'wound', 'sustain', 'isra', 'shoot']",0.4
+"['iran', 'sextet', 'resum', 'expert', 'talk']","['iran', 'upbeat', 'use', 'expertlevel', 'nuke', 'talk']",1.6
+"['bangladesh', 'collaps', 'search', 'death', 'toll', 'num']","['bangladesh', 'collaps', 'death', 'top', 'num']",3.2
+"['neymar', 'power', 'brazil', 'last', 'num']","['neymar', 'power', 'brazil', 'world', 'cup', 'last', 'num']",4.4
+"['ukrain', 'implement', 'unilater', 'ceasefir']","['ukrain', 'offer', 'unilater', 'ceasefir']",4.8
+"['stone', 'add', 'second', 'hyde', 'park', 'concert']","['roll', 'stone', 'add', 'second', 'hyde', 'park', 'date']",5.0
+"['paper', 'say', 'aug', 'num', 'num']","['paper', 'say', 'dec', 'num', 'num']",2.67
+"['num', 'nation', 'meet', 'haze']","['putin', 'marriag', 'end']",0.0
+"['car', 'bomb', 'swedish', 'consul', 'libya', 'benghazi', 'casualti']","['car', 'bomb', 'hit', 'swedish', 'consul', 'benghazi', 'none', 'hurt']",5.0
+"['bomber', 'strike', 'near', 'pakistan', 'armi', 'hq']","['bomb', 'outsid', 'restaur', 'pakistan', 'wound', 'num']",3.0
+"['croatia', 'begin', 'countdown', 'histor', 'eu', 'entri']","['croatia', 'countdown', 'join', 'eu']",4.8
+"['suicid', 'attack', 'kill', 'eight', 'baghdad']","['suicid', 'attack', 'kill', 'num', 'peopl', 'baghdad']",2.4
+"['war', 'crimin', 'hero', 'whitewash', 'ariel', 'sharon', 'ŕä']","['war', 'crimin', 'hero', 'whitewash', 'ariel', 'sharon']",5.0
+"['roger', 'videotron', 'extend', 'reach', 'networkshar', 'deal']","['roger', 'videotron', 'reach', 'networkshar', 'spectrum', 'deal']",4.8
+"['promin', 'aid', 'research', 'kill', 'malaysian', 'plane', 'crash']","['top', 'aid', 'research', 'kill', 'malaysia', 'plane', 'crash']",5.0
+"['israel', 'forc', 'kill', 'num', 'palestinian', 'milit']","['isra', 'armi', 'kill', 'palestinian', 'milit', 'raid']",3.2
+"['death', 'toll', 'rise', 'num', 'typhoon', 'strike', 'japan']","['death', 'toll', 'rise', 'num', 'pakistan', 'flood']",1.2
+"['protest', 'continu', 'tens', 'ukrain', 'capit']","['protest', 'continu', 'ukrain', 'capit']",5.0
+"['two', 'french', 'journalist', 'kill', 'mali', 'kidnap']","['two', 'french', 'journalist', 'abduct', 'kill', 'northern', 'mali']",4.6
+"['headlin', 'major', 'iranian', 'newspap', 'dec', 'num']","['headlin', 'major', 'iranian', 'newspap', 'juli', 'num']",2.0
+"['iran', 'warn', 'spillov', 'possibl', 'war', 'syria']","['iranian', 'deleg', 'head', 'lebanon', 'syria']",1.8
+"['former', 'pakistan', 'presid', 'pervez', 'musharraf', 'arrest']","['former', 'pakistan', 'militari', 'ruler', 'pervez', 'musharraf', 'grant', 'bail']",3.0
+"['u', 'drone', 'strike', 'kill', 'num', 'milit', 'pakistan']","['u', 'drone', 'strike', 'kill', 'num', 'pakistan']",3.8
+"['uk', 'expremi', 'margaret', 'thatcher', 'dy', 'num']","['former', 'british', 'pm', 'margaret', 'thatcher', 'dy']",4.0
+"['polar', 'bear', 'dna', 'may', 'help', 'fight', 'obes']","['polar', 'bear', 'studi', 'may', 'boost', 'fight', 'obes']",4.8
+"['fast', 'amp', 'furiou', 'star', 'paul', 'walker', 'dy', 'car', 'crash']","['paul', 'walker', 'dead', 'fast', 'furiou', 'star', 'num', 'kill', 'car', 'crash']",4.8
+"['air', 'strike', 'kill', 'one', 'man', 'syria', 'hama']","['u', 'drone', 'strike', 'kill', 'eleven', 'pakistan']",2.8
+"['turkish', 'pm', 'presid', 'clash', 'repli', 'protest']","['turkish', 'presid', 'call', 'calm', 'amid', 'nationwid', 'protest']",2.6
+"['strong', 'new', 'quak', 'hit', 'shatter', 'pak', 'region']","['num', 'quak', 'shatter', 'pakistan', 'region']",4.4
+"['flood', 'central', 'europ', 'continu', 'creat', 'havoc']","['europ', 'flood', 'continu', 'creat', 'havoc']",4.6
+"['luxembourg', 'pm', 'quit', 'amid', 'spi', 'scandal']","['luxembourg', 'vote', 'spi', 'row']",2.2
+"['num', 'dead', 'num', 'miss', 'central', 'china', 'construct', 'accid']","['one', 'dead', 'num', 'miss', 'vietnam', 'boat', 'accid']",0.4
+"['u', 'china', 'fail', 'paper', 'crack', 'tie']","['china', 'relief', 'focu', 'hope', 'miss', 'fade']",0.4
+"['world', 'cup', 'live', 'franc', 'num', 'germani']","['world', 'cup', 'live', 'germani', 'num', 'ghana']",1.4
+"['tokyo', 'host', 'num', 'game']","['tokyo', 'win', 'race', 'host', 'num', 'olymp', 'game']",4.8
+"['franc', 'warn', 'extremist', 'benefit', 'egypt', 'violenc']","['franc', 'fear', 'extremist', 'benefit', 'egypt', 'violenc']",4.4
+"['british', 'teenag', 'kill', 'fall', 'magaluf', 'hotel']","['british', 'teenag', 'kill', 'magaluf', 'hotel', 'fall']",5.0
+"['u', 'drone', 'strike', 'kill', 'eight', 'waziristan']","['u', 'drone', 'strike', 'kill', 'num', 'pakistan']",2.0
+"['russian', 'opposit', 'leader', 'hous', 'arrest']","['russian', 'opposit', 'leader', 'place', 'hous', 'arrest']",5.0
+"['senat', 'confirm', 'janet', 'yellen', 'chair', 'u', 'feder', 'reserv']","['senat', 'confirm', 'janet', 'yellen', 'next', 'feder', 'reserv', 'chair']",5.0
+"['israel', 'confirm', 'strike', 'syria', 'target', 'weapon']","['israel', 'offici', 'strike', 'syria', 'target', 'weapon']",5.0
+"['juror', 'find', 'jodi', 'aria', 'elig', 'death', 'penalti']","['jodi', 'aria', 'elig', 'death', 'penalti', 'juri', 'say']",5.0
+"['twitter', 'report', 'block', 'venezuela']","['twitter', 'say', 'imag', 'block', 'venezuela']",4.0
+"['goa', 'build', 'collaps', 'death', 'toll', 'touch', 'num']","['indian', 'build', 'collaps', 'death', 'rise', 'num']",3.0
+"['pak', 'religi', 'bodi', 'endors', 'underag', 'marriag']","['cii', 'endors', 'underag', 'marriag']",3.0
+"['mt', 'gox', 'reveal', 'num', 'forgotten', 'bitcoin', 'haul']","['mt', 'gox', 'find', 'num', 'forgotten', 'bitcoin']",5.0
+"['num', 'injur', 'texa', 'plant', 'blast']","['hundr', 'believ', 'injur', 'texa', 'fertilis', 'plant', 'blast']",4.0
+"['redford', 'tout', 'alberta', 'economi', 'ahead', 'vote', 'leadership']","['redford', 'address', 'pc', 'convent', 'ahead', 'leadership', 'review']",2.0
+"['obama', 'hold', 'syria', 'strike']","['uk', 'urg', 'countri', 'syria', 'aid']",1.0
+"['south', 'korean', 'soldier', 'reportedli', 'flee', 'kill', 'num', 'comrad', 'border', 'north', 'korea']","['south', 'korean', 'soldier', 'kill', 'comrad', 'flee']",4.0
+"['tycoon', 'claim', 'win', 'ukrain', 'promis', 'seek', 'futur', 'eu']","['poll', 'station', 'open', 'ukrainian', 'presidenti', 'elect']",0.0
+"['syria', 'agre', 'surrend', 'chemic', 'weapon']","['uk', 'cameron', 'syria', 'russia', 'must', 'show', 'chemic', 'arm', 'propos', 'genuin']",2.0
+"['abbvi', 'sour', 'numb', 'shire', 'deal', 'tax', 'chang']","['abbvi', 'cool', 'numbn', 'shire', 'deal', 'u', 'tax', 'chang']",5.0
+"['milit', 'attack', 'afghanistan', 'kill', 'four', 'upper', 'dir']","['milit', 'attack', 'afghanistan', 'kill', 'fc', 'soldier', 'balochistan']",3.0
+"['num', 'kill', 'afgan', 'terror', 'attack']","['num', 'kill', 'afghan', 'capit', 'mosqu', 'attack']",2.0
+"['rev', 'earli', 'read', 'march', 'num']","['rev', 'earli', 'read', 'sept', 'numrd', 'num']",2.0
+"['pope', 'canon', 'num', 'palestinian']","['sweden', 'recogn', 'palestinian', 'state']",0.0
+"['funer', 'ian', 'paisley', 'take', 'place', 'belfast']","['funer', 'mhnum', 'victim', 'liam', 'sweeney', 'take', 'place', 'newcastl']",0.0
+"['waba', 'emerg', 'new', 'nlc', 'presid']","['wait', 'next', 'presid']",1.0
+"['num', 'u', 'airstrik', 'target', 'islam', 'state', 'fighter']","['kurd', 'see', 'turkey', 'imped', 'islam', 'state', 'fight']",1.0
+"['u', 'senat', 'vote', 'advanc', 'iran', 'nuclear', 'review', 'bill']","['u', 'scientist', 'prais', 'iran', 'nuclear', 'deal']",1.0
+"['editor', 'around', 'world', 'urg', 'turkey', 'protect', 'medium']","['medium', 'freedom', 'stake', 'turkey', 'fight', 'rebel']",2.0
+"['philippin', 'canada', 'pledg', 'boost', 'relat']","['philippin', 'save', 'num', 'ferri', 'sink']",0.0
+"['israel', 'bar', 'palestinian', 'jerusalem', 'old', 'citi']","['twostat', 'solut', 'palestinian', 'israel', 'pie', 'sky']",1.0
+"['much', 'know', 'secret', 'servic']","['lawmak', 'side', 'express', 'outrag', 'secret', 'servic']",1.0
+"['obama', 'struggl', 'sooth', 'saudi', 'fear', 'iran', 'talk', 'resum']","['myanmar', 'struggl', 'final', 'voter', 'list', 'sunday', 'poll']",0.0
+"['south', 'korea', 'declar', 'end', 'mer', 'outbreak']","['north', 'korea', 'deleg', 'meet', 'south', 'korean', 'offici']",0.0

@@ -1,0 +1,1380 @@
+sentence1,sentence2,similarity_score
+"['girl', 'style', 'hair']","['chica', 'arreglando', 'pelo']",2.5
+"['group', 'men', 'play', 'soccer', 'beach']","['grupo', 'hombr', 'juega', 'fútbol', 'playa']",3.6
+"['one', 'woman', 'measur', 'anoth', 'woman', 'ankl']","['mujer', 'midiendo', 'tobillo', 'mujer']",5.0
+"['man', 'cut', 'cucumb']","['hombr', 'cortando', 'pepino']",4.2
+"['man', 'play', 'harp']","['hombr', 'tocando', 'arpa']",1.5
+"['woman', 'cut', 'onion']","['mujer', 'cortando', 'cebolla']",1.8
+"['man', 'ride', 'electr', 'bicycl']","['hombr', 'montando', 'bicicleta', 'eléctrica']",3.5
+"['man', 'play', 'drum']","['hombr', 'tocando', 'batería']",2.2
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",2.2
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",1.714
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",1.714
+"['man', 'cut', 'onion']","['hombr', 'cortando', 'cebolla']",5.0
+"['man', 'cycl']","['hombr', 'montando', 'bicicleta']",0.6
+"['man', 'slice', 'open', 'fish']","['hombr', 'abriendo', 'pescado', 'rodaja']",4.4
+"['man', 'slice', 'tomato']","['hombr', 'cortando', 'tomat']",2.0
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",1.8
+"['babi', 'panda', 'go', 'slide']","['bebé', 'panda', 'desliza', 'tobogán']",4.4
+"['man', 'sing', 'play', 'guitar']","['hombr', 'cantando', 'tocando', 'guitarra']",3.6
+"['man', 'attack', 'woman']","['hombr', 'ataca', 'mujer']",3.6
+"['man', 'drive', 'car']","['hombr', 'conduciendo', 'coch']",1.2
+"['woman', 'cut', 'tofu']","['mujer', 'cortando', 'tofu']",2.4
+"['woman', 'style', 'hair']","['mujer', 'arreglando', 'pelo']",0.2
+"['two', 'zebra', 'play', 'open', 'field']","['do', 'cebra', 'juegan', 'campo', 'abierto']",4.2
+"['man', 'cut', 'potato']","['hombr', 'cortando', 'patata']",4.4
+"['man', 'slice', 'onion']","['hombr', 'cortando', 'cebolla']",2.25
+"['man', 'danc']","['hombr', 'bailando']",2.0
+"['man', 'ride', 'motorcycl']","['hombr', 'montando', 'motocicleta']",0.75
+"['woman', 'slice', 'garlic']","['mujer', 'cortando', 'ajo']",2.2
+"['man', 'speak']","['hombr', 'hablando']",0.8
+"['littl', 'boy', 'sing', 'play', 'guitar']","['niño', 'pequeño', 'cantando', 'tocando', 'guitarra']",2.2
+"['turtl', 'swim', 'water']","['tortuga', 'nadando', 'agua']",3.2
+"['young', 'woman', 'put', 'sticker', 'face']","['joven', 'poniendo', 'pegatina', 'toda', 'cara']",4.8
+"['woman', 'wrap', 'tofu']","['mujer', 'envolviendo', 'tofu']",1.4
+"['cat', 'eat', 'corn']","['gato', 'comiendo', 'maíz']",4.25
+"['man', 'eat', 'food']","['hombr', 'comiendo', 'comida']",3.4
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",0.533
+"['man', 'kick', 'pot', 'water']","['hombr', 'pateando', 'olla', 'agua']",0.4
+"['man', 'cut', 'pipe', 'scissor']","['hombr', 'cortando', 'tubo', 'una', 'tijera']",1.2
+"['woman', 'danc', 'rain']","['mujer', 'bailando', 'bajo', 'lluvia']",5.0
+"['woman', 'take', 'bath']","['mujer', 'tomando', 'baño']",0.538
+"['man', 'mix', 'veget', 'pot']","['hombr', 'mezcla', 'verdura', 'olla']",3.75
+"['woman', 'talk', 'cell', 'phone']","['mujer', 'hablando', 'teléfono', 'celular']",3.0
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",3.6
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",0.5
+"['man', 'cut', 'appl', 'hand']","['hombr', 'cortando', 'manzana', 'mano']",1.5
+"['man', 'open', 'door']","['hombr', 'abriendo', 'puerta']",0.8
+"['man', 'slice', 'tomato']","['hombr', 'cortando', 'tomat']",0.8
+"['man', 'cut', 'paper', 'sword']","['hombr', 'cortando', 'papel', 'espada']",0.6
+"['boy', 'studi', 'calendar']","['chico', 'estudia', 'calendario']",4.4
+"['ballerina', 'danc']","['bailarina', 'bailando']",1.75
+"['woman', 'danc']","['mujer', 'bailando']",0.4
+"['woman', 'slice', 'tomato']","['mujer', 'cortando', 'tomat']",1.4
+"['woman', 'water', 'ski']","['mujer', 'haciendo', 'esquí', 'acuático']",0.4
+"['man', 'play', 'flute']","['hombr', 'tocando', 'flauta']",0.8
+"['man', 'play', 'piano']","['hombr', 'tocando', 'piano']",2.0
+"['woman', 'pick']","['mujer', 'eligiendo', 'lata']",0.133
+"['man', 'put', 'three', 'piec', 'meat', 'pan']","['hombr', 'pone', 'tre', 'trozo', 'carn', 'sartén']",4.0
+"['woman', 'cut', 'onion']","['mujer', 'cortando', 'cebolla']",0.267
+"['men', 'saw']","['hombr', 'aserrando']",3.4
+"['car', 'driven', 'road']","['conduc', 'coch', 'carretera']",1.2
+"['man', 'kiss', 'hug', 'woman']","['hombr', 'besando', 'abrazando', 'mujer']",5.0
+"['train', 'move']","['tren', 'moviendo']",0.0
+"['someon', 'slice', 'onion']","['alguien', 'cortando', 'cebolla']",3.8
+"['woman', 'play', 'ocean']","['mujer', 'jugando', 'océano']",0.75
+"['person', 'play', 'electron', 'keyboard']","['persona', 'tocando', 'teclado', 'electrónico']",3.4
+"['man', 'hold', 'leaf']","['hombr', 'sosteniendo', 'hoja']",0.0
+"['woman', 'peel', 'shrimp']","['mujer', 'pelando', 'camaron']",0.2
+"['man', 'sit', 'smoke']","['hombr', 'sentado', 'fumando']",4.0
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",0.5
+"['man', 'stand', 'front', 'window', 'look', 'outsid']","['hombr', 'parado', 'frent', 'ventana', 'mirando', 'hacia', 'afuera']",3.8
+"['skunk', 'look']","['mofeta', 'buscando', 'aquí', 'allá']",2.4
+"['man', 'play', 'guitar', 'sing']","['hombr', 'tocando', 'guitarra', 'cantando']",4.75
+"['woman', 'open', 'window']","['mujer', 'abr', 'ventana']",0.0
+"['peopl', 'danc', 'outsid']","['gent', 'bailando', 'afuera']",3.75
+"['man', 'use', 'camera', 'hammer', 'nail']","['hombr', 'usando', 'cámara', 'martillar', 'clavo']",2.6
+"['woman', 'file', 'nail']","['mujer', 'limando', 'uña']",0.0
+"['boy', 'crawl', 'dog', 'hous']","['chico', 'arrastrando', 'casa', 'perro']",0.75
+"['woman', 'swim', 'underwat']","['mujer', 'nadando', 'bajo', 'agua']",0.0
+"['machin', 'sharpen', 'pencil']","['máquina', 'afilando', 'lápiz']",3.8
+"['monkey', 'play', 'drum']","['mono', 'tocando', 'batería']",2.8
+"['man', 'open', 'box', 'take', 'paper']","['hombr', 'abriendo', 'caja', 'sacando', 'papel']",0.0
+"['woman', 'danc']","['mujer', 'bailando']",0.8
+"['person', 'draw', 'larg', 'touchscreen']","['persona', 'dibujando', 'gran', 'pantalla', 'táctil']",3.0
+"['men', 'play', 'follow', 'leader', 'grass']","['hombr', 'jugaron', 'siguen', 'líder', 'hierba']",1.0
+"['woman', 'crack', 'egg']","['mujer', 'rompiendo', 'huevo']",0.0
+"['woman', 'peel', 'garlic', 'hand']","['mujer', 'pela', 'ajo', 'mano']",1.0
+"['polar', 'bear', 'fought', 'kill']","['oso', 'polar', 'pelearon', 'muert']",3.4
+"['man', 'trick', 'play', 'card']","['hombr', 'haciendo', 'truco', 'carta']",5.0
+"['cat', 'lick', 'bottl']","['gato', 'lamiendo', 'botella']",2.333
+"['person', 'slice', 'onion']","['persona', 'cortando', 'cebolla']",1.4
+"['person', 'peel', 'potato', 'potato', 'peeler']","['persona', 'pelando', 'patata', 'pelador', 'patata']",0.75
+"['two', 'woman', 'danc', 'sing', 'front', 'crowd']","['do', 'mujer', 'bailando', 'cantando', 'frent', 'multitud']",3.538
+"['man', 'season', 'carrot']","['hombr', 'condimentando', 'una', 'zanahoria']",0.8
+"['two', 'men', 'push', 'cart', 'wood']","['do', 'hombr', 'empujaron', 'carro', 'travé', 'bosqu']",3.5
+"['man', 'play', 'footbal']","['hombr', 'jugando', 'fútbol']",2.0
+"['ladi', 'peel', 'potato']","['señora', 'peló', 'patata']",4.75
+"['woman', 'slice', 'tofu']","['mujer', 'cortando', 'tofu']",4.0
+"['someon', 'type', 'keyboard']","['alguien', 'escribió', 'teclado']",4.5
+"['three', 'young', 'men', 'run', 'jump', 'kick', 'coke', 'machin']","['tre', 'jóvene', 'corren', 'saltan', 'lanzan', 'máquina', 'cocacola']",1.5
+"['young', 'asian', 'girl', 'appli', 'eyelin']","['joven', 'asiática', 'aplicando', 'delineador', 'ojo']",2.4
+"['cat', 'walk', 'around', 'hous']","['gato', 'caminando', 'casa']",0.0
+"['woman', 'talk', 'pet', 'bunni', 'fondl']","['mujer', 'habla', 'conejo', 'mascota', 'mientra', 'acaricia']",0.4
+"['monkey', 'play', 'drum']","['mono', 'tocando', 'batería']",2.5
+"['man', 'ride', 'white', 'hors', 'enclos', 'ground']","['hombr', 'montando', 'caballo', 'blanco', 'terreno', 'cerrado']",2.6
+"['orient', 'ladi', 'cut', 'carrot', 'thin', 'piec']","['dama', 'orient', 'cortando', 'zanahoria', 'trozo', 'fino']",3.6
+"['group', 'peopl', 'danc']","['grupo', 'gent', 'bailando']",3.0
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",0.0
+"['woman', 'mix', 'veget']","['mujer', 'mezcla', 'verdura']",1.6
+"['woman', 'pour', 'mixtur', 'bowl', 'mix']","['mujer', 'viert', 'mezcla', 'tazón', 'mezcla']",1.25
+"['man', 'cut', 'piec', 'butter', 'mix', 'bowl']","['hombr', 'cortando', 'trozo', 'mantequilla', 'tazón', 'mezclar']",3.6
+"['man', 'put', 'garlic', 'bread', 'slice']","['hombr', 'poniendo', 'ajo', 'una', 'rebanada', 'pan']",2.0
+"['panda', 'bear', 'lay', 'log']","['oso', 'panda', 'tronco']",3.6
+"['five', 'men', 'jump', 'swim', 'pool']","['cinco', 'hombr', 'saltan', 'piscina']",2.8
+"['cheetah', 'run', 'behind', 'prey']","['guepardo', 'corr', 'detrá', 'presa']",4.4
+"['cat', 'play', 'floor']","['gato', 'jugando', 'suelo']",0.0
+"['boy', 'play', 'violin', 'stage']","['niño', 'tocando', 'violín', 'escenario']",0.0
+"['dog', 'bark', 'toy']","['perro', 'ladrando', 'juguet']",3.75
+"['man', 'cycl']","['hombr', 'montando', 'bicicleta']",2.5
+"['woman', 'slice', 'ginger']","['mujer', 'cortando', 'jengibr']",0.0
+"['man', 'drag', 'dead', 'deer']","['hombr', 'arrastrando', 'ciervo', 'muerto']",0.8
+"['man', 'prepar', 'snake', 'cook']","['hombr', 'preparando', 'serpient', 'cocinar']",1.0
+"['woman', 'spread', 'mustard', 'bread', 'roll']","['mujer', 'untando', 'mostaza', 'panecillo']",0.0
+"['someon', 'touch', 'kitten', 'chew', 'string']","['alguien', 'tocó', 'gatito', 'masticando', 'cuerda']",0.25
+"['meat', 'put', 'skillet']","['carn', 'poniendo', 'sartén']",0.4
+"['babi', 'eleph', 'eat', 'small', 'tree']","['elefant', 'bebé', 'comiendo', 'pequeño', 'árbol']",0.0
+"['woman', 'man', 'danc', 'rain']","['mujer', 'hombr', 'bailando', 'bajo', 'lluvia']",5.0
+"['someon', 'draw']","['alguien', 'dibujando']",0.3
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",2.75
+"['two', 'men', 'fistfight', 'ring']","['do', 'hombr', 'peleando', 'ring']",5.0
+"['person', 'wipe', 'butter', 'tray']","['persona', 'limpia', 'mantequilla', 'bandeja']",4.25
+"['two', 'men', 'play', 'footbal']","['do', 'hombr', 'jugando', 'fútbol']",3.4
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",1.6
+"['man', 'peel', 'potato']","['hombr', 'pelando', 'patata']",2.6
+"['woman', 'stab', 'potato', 'fork']","['mujer', 'apuñalando', 'patata', 'tenedor']",5.0
+"['child', 'wake']","['niño', 'despertando']",3.2
+"['boy', 'play', 'keyboard']","['niño', 'jugando', 'teclado']",4.8
+"['woman', 'play', 'flute']","['mujer', 'toca', 'flauta']",5.0
+"['woman', 'play', 'electr', 'guitar']","['mujer', 'tocando', 'guitarra', 'eléctrica']",2.4
+"['man', 'play', 'flute']","['hombr', 'tocando', 'flauta']",2.0
+"['group', 'peopl', 'sweep', 'water', 'hous']","['grupo', 'persona', 'barriendo', 'agua', 'casa']",5.0
+"['man', 'play', 'guitar']","['hombr', 'toca', 'guitarra']",5.0
+"['man', 'woman', 'kiss']","['hombr', 'mujer', 'besando']",3.4
+"['woman', 'climb', 'cliff']","['mujer', 'escalando', 'acantilado']",4.5
+"['polar', 'bear', 'run', 'toward', 'group', 'walru']","['oso', 'polar', 'corriendo', 'hacia', 'grupo', 'morsa']",4.2
+"['woman', 'cut', 'fish']","['mujer', 'cortando', 'pescado']",2.2
+"['someon', 'play', 'piano']","['alguien', 'tocando', 'piano']",2.4
+"['man', 'pour', 'rice', 'roni', 'pan']","['hombr', 'echando', 'arroz', 'roni', 'cacerola']",3.8
+"['man', 'break', 'wooden', 'board', 'hand']","['hombr', 'rompiendo', 'tabla', 'madera', 'mano']",2.5
+"['girl', 'play', 'guitar']","['chica', 'tocando', 'guitarra']",2.0
+"['man', 'pray']","['hombr', 'rezando']",0.75
+"['man', 'play', 'piano']","['hombr', 'tocando', 'piano']",2.0
+"['woman', 'slice', 'onion']","['mujer', 'cortando', 'cebolla']",2.2
+"['man', 'ride', 'hors', 'creek']","['hombr', 'montando', 'caballo', 'arroyo']",4.0
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",3.2
+"['man', 'pick', 'tree']","['hombr', 'recogiendo', 'árbol']",3.8
+"['person', 'peel', 'potato']","['persona', 'pelando', 'patata']",3.75
+"['person', 'play', 'piano']","['persona', 'tocando', 'piano']",0.5
+"['man', 'spit']","['hombr', 'escupiendo']",0.8
+"['man', 'play', 'music', 'keyboard']","['hombr', 'tocando', 'teclado', 'music']",5.0
+"['man', 'danc']","['hombr', 'bailando']",1.2
+"['man', 'play', 'trumpet']","['hombr', 'toca', 'trompeta']",5.0
+"['woman', 'ride', 'hors']","['mujer', 'montando', 'caballo']",2.8
+"['band', 'play', 'stage']","['banda', 'tocando', 'escenario']",1.2
+"['woman', 'play', 'guitar', 'sing']","['mujer', 'tocando', 'guitarra', 'cantando']",3.2
+"['man', 'eat']","['hombr', 'comiendo']",4.6
+"['littl', 'boy', 'hit', 'golf', 'ball']","['niño', 'pequeño', 'golpea', 'pelota', 'golf']",4.0
+"['guy', 'take', 'sunglass']","['tipo', 'quitando', 'gafa', 'sol']",3.8
+"['someon', 'read', 'email']","['alguien', 'leyendo', 'correo', 'electrónico']",3.4
+"['person', 'slice', 'onion']","['persona', 'cortando', 'cebolla']",4.6
+"['girl', 'come', 'car']","['chica', 'acercando', 'coch']",2.6
+"['man', 'play', 'drum']","['hombr', 'tocando', 'batería']",1.8
+"['someon', 'slice', 'onion']","['alguien', 'cortando', 'cebolla']",0.75
+"['woman', 'dice', 'peel', 'potato', 'cut', 'thick', 'strip']","['mujer', 'cortando', 'cubito', 'una', 'patata', 'pelada', 'tira', 'gruesa']",4.0
+"['littl', 'girl', 'peddl', 'scooter']","['niña', 'pequeña', 'vendiendo', 'scooter']",2.75
+"['cat', 'clean']","['gato', 'limpia', 'mismo']",3.8
+"['man', 'kick', 'soccer', 'ball']","['hombr', 'pateando', 'pelota', 'fútbol']",2.6
+"['woman', 'open', 'window']","['mujer', 'abr', 'ventana']",2.0
+"['three', 'men', 'danc', 'street']","['tre', 'hombr', 'haciendo', 'mismo', 'bail', 'call']",3.8
+"['man', 'play', 'guitar']","['hombr', 'tocando', 'guitarra']",0.583
+"['man', 'danc']","['hombr', 'bailando']",0.4
+"['woman', 'exercis']","['mujer', 'haciendo', 'ejercicio']",0.25
+"['boy', 'play', 'violin', 'onstag']","['chico', 'tocando', 'violín', 'escenario']",2.8
+"['woman', 'measur', 'woman']","['mujer', 'midiendo', 'mujer']",3.2
+"['man', 'exercis']","['hombr', 'haciendo', 'ejercicio']",0.5
+"['dog', 'play', 'toy']","['perro', 'jugando', 'juguet']",2.25
+"['man', 'play', 'piano']","['hombr', 'tocando', 'piano']",0.0
+"['man', 'bowl']","['hombr', 'jugando', 'bolo']",0.0
+"['woman', 'danc', 'near', 'fire']","['mujer', 'bailando', 'cerca', 'fuego']",0.308
+"['man', 'make', 'bed']","['hombr', 'haciendo', 'cama']",0.75
+"['person', 'ride', 'motorcyl']","['persona', 'conduciendo', 'motocicleta']",0.4
+"['man', 'pour', 'rice', 'pot']","['hombr', 'viert', 'arroz', 'olla']",4.2
+"['person', 'slice', 'garlic']","['persona', 'cortando', 'ajo']",3.75
+"['woman', 'slice', 'ginger']","['mujer', 'cortando', 'jengibr']",1.6
+"['men', 'play', 'soccer']","['hombr', 'jugando', 'fútbol']",3.0
+"['person', 'scrub', 'zucchini']","['persona', 'fregando', 'calabacín']",4.0
+"['panda', 'bear', 'chew', 'stick']","['oso', 'panda', 'masticando', 'palo']",3.0
+"['peopl', 'lift', 'bag']","['gent', 'levantando', 'bolsa']",3.75
+"['man', 'talk', 'phone']","['hombr', 'hablando', 'teléfono']",0.4
+"['woman', 'braid', 'hair']","['mujer', 'trenzando', 'cabello']",0.0
+"['man', 'throw', 'knife', 'tree']","['hombr', 'lanzando', 'cuchillo', 'árbol']",3.0
+"['woman', 'slice', 'tofu']","['mujer', 'cortando', 'tofu']",0.4
+"['woman', 'fold', 'paper']","['mujer', 'doblando', 'papel']",0.4
+"['someon', 'fold', 'piec', 'paper']","['alguien', 'doblando', 'pedazo', 'papel']",0.25
+"['man', 'lift', 'weight']","['hombr', 'levantando', 'pesa']",0.25
+"['man', 'play', 'cello']","['hombr', 'tocando', 'violonchelo']",0.4
+"['man', 'talk']","['hombr', 'hablando']",0.4
+"['man', 'tri', 'feed', 'mous', 'snake']","['hombr', 'intenta', 'alimentar', 'serpient', 'ratón']",3.2
+"['man', 'play', 'drum']","['hombr', 'tocando', 'batería']",0.0
+"['man', 'play', 'ukulel']","['hombr', 'tocando', 'ukelel']",2.2
+"['kitten', 'drink', 'milk', 'bowl']","['gatito', 'bebiendo', 'lech', 'tazón']",0.8
+"['man', 'break', 'cinder', 'block', 'anoth', 'man']","['hombr', 'romp', 'bloqu', 'cemento', 'hombr']",0.8
+"['man', 'hit', 'boy', 'flower', 'vase']","['hombr', 'golpeando', 'niño', 'florero']",0.3
+"['man', 'mix', 'whip', 'cream']","['hombr', 'mezclando', 'crema', 'batida']",0.0
+"['man', 'stir', 'juic']","['hombr', 'agitando', 'jugo']",0.75
+"['someon', 'slice', 'two', 'uncook', 'rack', 'rib', 'apart']","['alguien', 'cortando', 'do', 'costilla', 'cocer']",2.333
+"['man', 'kick', 'pot', 'water']","['hombr', 'pateando', 'olla', 'agua']",1.333
+"['two', 'littl', 'girl', 'talk', 'telephon']","['do', 'niña', 'pequeña', 'hablan', 'teléfono']",1.2
+"['cat', 'get', 'stuck', 'move', 'ceil', 'fan']","['gato', 'atasca', 'ventilador', 'techo', 'movimiento']",4.2
+"['cat', 'drink', 'milk']","['gato', 'bebiendo', 'lech']",3.8
+"['rocki', 'apollo', 'creed', 'run', 'beach']","['rocki', 'apollo', 'creed', 'corriendo', 'playa']",3.0
+"['man', 'sing', 'play', 'guitar']","['hombr', 'cantando', 'mientra', 'toca', 'guitarra']",0.5
+"['boat', 'sail', 'along', 'water']","['barco', 'navega', 'agua']",0.0
+"['okapi', 'eat', 'tree']","['okapi', 'comiendo', 'árbol']",0.333
+"['sever', 'kid', 'jump', 'trampolin']","['vario', 'niño', 'saltan', 'arriba', 'abajo', 'trampolín']",1.5
+"['woman', 'pour', 'egg', 'fri', 'pan']","['mujer', 'echando', 'huevo', 'sartén']",0.167
+"['woman', 'fri', 'ground', 'meat']","['mujer', 'friendo', 'carn', 'molida']",0.5
+"['three', 'boy', 'karat', 'costum', 'fight']","['tre', 'chico', 'traje', 'karat', 'luchando']",1.25
+"['swimmer', 'race', 'lake']","['nadador', 'corriendo', 'lago']",1.6
+"['person', 'boil', 'noodl']","['persona', 'hirviendo', 'fideo']",0.0
+"['person', 'slice', 'onion']","['persona', 'cortando', 'cebolla']",1.0
+"['man', 'reel', 'fish']","['hombr', 'enrolla', 'pez']",0.0
+"['woman', 'cut', 'onion']","['mujer', 'cortando', 'cebolla']",0.0
+"['ladi', 'mix', 'meat', 'mixtur', 'bowl']","['señora', 'mezcló', 'mezcla', 'carn', 'tazón']",4.0
+"['girl', 'appli', 'makeup', 'face']","['chica', 'maquillando', 'cara']",2.75
+"['woman', 'put', 'makeup']","['mujer', 'maquilla']",3.333
+"['cat', 'play', 'water']","['gato', 'juega', 'agua']",3.5
+"['person', 'ad', 'food', 'pan']","['persona', 'añadiendo', 'comida', 'sartén']",0.188
+"['man', 'smoke']","['hombr', 'fumando']",0.0
+"['person', 'put', 'shred', 'chees', 'pot']","['persona', 'poniendo', 'queso', 'rallado', 'olla']",0.25
+"['man', 'eras', 'chalk', 'board']","['hombr', 'borrando', 'pizarra']",0.364
+"['man', 'exercis']","['hombr', 'haciendo', 'ejercicio']",3.2
+"['chimp', 'kick', 'target']","['chimpancé', 'pateando', 'objetivo']",0.0
+"['man', 'exercis']","['hombr', 'haciendo', 'ejercicio']",0.0
+"['girl', 'carri', 'babi']","['chica', 'lleva', 'bebé']",0.0
+"['sever', 'swimmer', 'jump', 'water']","['vario', 'nadador', 'saltan', 'agua']",1.75
+"['man', 'spin', 'surf', 'board']","['hombr', 'gira', 'tabla', 'surf']",0.0
+"['young', 'man', 'ride', 'skateboard', 'jump', 'onto', 'sidewalk', 'anoth', 'curb']","['joven', 'montando', 'monopatín', 'salta', 'acera', 'luego', 'bordillo']",2.75
+"['person', 'dice', 'orang', 'pepper']","['persona', 'corta', 'dado', 'pimiento', 'naranja']",1.8
+"['two', 'men', 'danc', 'togeth']","['do', 'hombr', 'bailando', 'junto']",0.0
+"['man', 'read', 'email']","['hombr', 'leyendo', 'correo', 'electrónico']",0.0
+"['curiou', 'boy', 'look', 'shed']","['chico', 'curioso', 'miran', 'cobertizo']",2.8
+"['mope', 'front', 'step', 'ruin']","['ciclomotor', 'frent', 'escalon', 'ruina']",4.4
+"['man', 'sleep', 'babi', 'lap']","['hombr', 'duerm', 'bebé', 'regazo']",4.0
+"['two', 'cat', 'look', 'window']","['do', 'gato', 'mirando', 'ventana']",2.6
+"['person', 'wear', 'helmet', 'ride', 'bike', 'near', 'white', 'structur']","['persona', 'lleva', 'casco', 'monta', 'bicicleta', 'cerca', 'estructura', 'blanca']",1.2
+"['man', 'bicycl', 'coffe', 'hous']","['hombr', 'bicicleta', 'cafetería']",3.2
+"['black', 'white', 'cat', 'high', 'tree', 'branch']","['gato', 'blanco', 'negro', 'alto', 'rama', 'árbole']",0.8
+"['young', 'blond', 'girl', 'wear', 'helmet', 'sit', 'red', 'bicycl', 'behind']","['joven', 'rubia', 'casco', 'sienta', 'bicicleta', 'roja', 'detrá']",3.4
+"['blue', 'couch', 'twin', 'bed', 'live', 'room']","['sofá', 'azul', 'cama', 'dobl', 'sala']",2.0
+"['flock', 'sheep', 'spread', 'field']","['rebaño', 'oveja', 'extiend', 'campo']",0.0
+"['two', 'dog', 'one', 'cat', 'sit', 'couch']","['do', 'perro', 'gato', 'sentado', 'sofá']",4.6
+"['bicycl', 'park', 'shop']","['bicicleta', 'aparcada', 'tienda']",4.0
+"['orang', 'white', 'cat', 'lay', 'blanket', 'black', 'leather', 'chair']","['gato', 'naranja', 'blanco', 'tendido', 'manta', 'silla', 'cuero', 'negro']",3.8
+"['young', 'coupl', 'sit', 'black', 'couch']","['joven', 'pareja', 'sentada', 'sofá', 'negro']",4.0
+"['group', 'black', 'peopl', 'front', 'build', 'mope']","['grupo', 'negro', 'frent', 'edificio', 'ciclomotor']",2.8
+"['elderli', 'woman', 'sit', 'red', 'pattern', 'couch', 'arm', 'around', 'younger', 'woman']","['anciana', 'sentada', 'sofá', 'color', 'rojo', 'brazo', 'alrededor', 'mujer', 'joven']",3.6
+"['man', 'ride', 'back', 'orang', 'suv']","['hombr', 'montado', 'part', 'trasera', 'todoterreno', 'naranja']",1.8
+"['red', 'white', 'bu', 'drive', 'road']","['autobú', 'rojo', 'blanco', 'va', 'carretera']",3.6
+"['cat', 'lay', 'red', 'cushion', 'look', 'camera']","['gato', 'acostado', 'cojín', 'rojo', 'mirando', 'cámara']",1.2
+"['two', 'green', 'white', 'train', 'sit', 'track']","['do', 'trene', 'verd', 'blanco', 'sentado', 'vía']",5.0
+"['grey', 'cat', 'lie', 'wooden', 'tabl']","['gato', 'gri', 'acostado', 'mesa', 'madera']",4.0
+"['man', 'sit', 'back', 'yard', 'play', 'guitar']","['hombr', 'sentado', 'patio', 'trasero', 'tocando', 'guitarra']",0.0
+"['father', 'nap', 'chair', 'babi', 'lap']","['padr', 'durmiendo', 'silla', 'bebé', 'regazo']",3.4
+"['close', 'head', 'ostrich']","['cabeza', 'avestruz', 'cerca']",4.4
+"['green', 'white', 'bird', 'perch', 'tree', 'branch']","['pájaro', 'verd', 'blanco', 'posado', 'rama', 'árbol']",4.2
+"['man', 'top', 'hat', 'ride', 'white', 'hors']","['hombr', 'sombrero', 'copa', 'monta', 'caballo', 'blanco']",5.0
+"['woman', 'ride', 'brown', 'hors']","['mujer', 'montando', 'caballo', 'marrón']",0.2
+"['two', 'men', 'stand', 'grass', 'stare', 'car']","['do', 'hombr', 'parado', 'pasto', 'mirando', 'auto']",0.2
+"['two', 'indian', 'woman', 'two', 'indian', 'girl', 'near', 'water']","['do', 'mujer', 'india', 'do', 'niña', 'india', 'cerca', 'agua']",4.0
+"['tabl', 'set', 'wine', 'dish', 'two', 'peopl']","['pone', 'mesa', 'vino', 'plato', 'do', 'persona']",2.6
+"['mope', 'front', 'ruin']","['ciclomotor', 'frent', 'ruina']",0.6
+"['person', 'drive', 'cart', 'pull', 'bicycl']","['persona', 'conduc', 'carro', 'tirado', 'bicicleta']",1.2
+"['dog', 'snif', 'bottom', 'door']","['perro', 'oliendo', 'fondo', 'puerta']",3.8
+"['small', 'bird', 'sit', 'branch', 'winter']","['pequeño', 'pájaro', 'sentado', 'rama', 'invierno']",4.2
+"['yellow', 'bird', 'eat', 'fruit', 'wire', 'grate']","['pájaro', 'amarillo', 'comiendo', 'fruta', 'rejilla', 'alambr']",2.8
+"['brown', 'duck', 'white', 'duck', 'stand', 'grass']","['pato', 'marrón', 'pato', 'blanco', 'paran', 'hierba']",4.2
+"['black', 'white', 'cat', 'dog', 'stripe', 'couch']","['gato', 'perro', 'blanco', 'negro', 'sofá', 'raya']",2.4
+"['man', 'wear', 'black', 'formal', 'wear', 'black', 'top', 'hat', 'ride', 'white', 'show', 'hors']","['hombr', 'ropa', 'formal', 'negra', 'sombrero', 'copa', 'negro', 'montando', 'caballo', 'blanco', 'exhibición']",3.6
+"['small', 'brown', 'bird', 'eat', 'bird', 'feeder', 'hang', 'tree']","['pequeño', 'pájaro', 'marrón', 'comiendo', 'comedero', 'pájaro', 'cuelga', 'árbol']",3.8
+"['pictur', 'countrysid', 'larg', 'citi', 'background']","['imagen', 'campo', 'gran', 'ciudad', 'fondo']",0.6
+"['blue', 'red', 'plane', 'midair', 'flight']","['avión', 'azul', 'rojo', 'vuelo', 'pleno', 'vuelo']",4.8
+"['three', 'men', 'pose', 'tent']","['tre', 'hombr', 'posando', 'tienda', 'campaña']",1.2
+"['closeup', 'gray', 'cat', 'green', 'eye']","['primer', 'plano', 'gato', 'gri', 'ojo', 'verd']",2.4
+"['train', 'train', 'station']","['tren', 'estación', 'tren']",4.2
+"['train', 'head', 'track', 'along', 'hedg']","['tren', 'dirig', 'vía', 'largo', 'seto']",0.0
+"['littl', 'girl', 'laugh', 'camera']","['niña', 'pequeña', 'riendo', 'cámara']",0.2
+"['three', 'young', 'woman', 'stand', 'room', 'togeth']","['tre', 'mujer', 'jóvene', 'pie', 'habitación', 'junta']",3.4
+"['white', 'bird', 'long', 'orang', 'leg', 'stand', 'lake']","['pájaro', 'blanco', 'larga', 'pata', 'anaranjada', 'pie', 'junto', 'lago']",3.0
+"['red', 'train', 'drive', 'snow', 'cover', 'citi']","['tren', 'rojo', 'atraviesa', 'ciudad', 'cubierta', 'niev']",3.2
+"['three', 'bicyclist', 'cross', 'bridg', 'citi']","['tre', 'ciclista', 'cruzando', 'puent', 'ciudad']",3.0
+"['red', 'white', 'bu', 'drive', 'england', 'street']","['autobú', 'rojo', 'blanco', 'pasa', 'call', 'inglaterra']",4.4
+"['bird', 'swim', 'water']","['pájaro', 'nadando', 'agua']",1.8
+"['black', 'dog', 'look', 'camera']","['perro', 'negro', 'mirando', 'cámara']",2.0
+"['group', 'hors', 'graze', 'field']","['grupo', 'caballo', 'pastando', 'campo']",4.8
+"['sever', 'peopl', 'motorcycl', 'market', 'squar']","['varia', 'persona', 'motocicleta', 'plaza', 'mercado']",4.0
+"['three', 'sheep', 'dirt', 'road', 'view', 'passeng', 'vehicl']","['tre', 'oveja', 'camino', 'tierra', 'visto', 'vehículo', 'pasajero']",2.2
+"['group', 'peopl', 'pose', 'two', 'men', 'dress', 'elvi']","['grupo', 'persona', 'posando', 'do', 'hombr', 'vestido', 'elvi']",4.2
+"['parrot', 'push', 'small', 'shop', 'cart']","['loro', 'empujando', 'pequeño', 'carrito', 'compra']",3.4
+"['man', 'yellow', 'cano', 'paddl', 'water']","['hombr', 'canoa', 'amarilla', 'remando', 'agua']",4.2
+"['beer', 'bottl', 'lrb', 'harp', 'lager', 'rrb', 'line', 'floor']","['botella', 'cerveza', 'lrb', 'harp', 'lager', 'rrb', 'alineada', 'suelo']",3.4
+"['two', 'woman', 'sit', 'outsid', 'laugh']","['do', 'mujer', 'sentada', 'afuera', 'riéndos']",2.4
+"['steam', 'engin', 'train', 'move', 'toward', 'camera']","['máquina', 'vapor', 'tren', 'moviéndos', 'hacia', 'cámara']",1.0
+"['brown', 'white', 'cow', 'field', 'look', 'camera']","['vaca', 'marrón', 'blanca', 'campo', 'mirando', 'cámara']",1.6
+"['black', 'white', 'cow', 'stand', 'near', 'pile', 'snow']","['vaca', 'blanca', 'negra', 'pie', 'cerca', 'montón', 'niev']",3.2
+"['home', 'offic', 'space', 'bright', 'green', 'wall', 'artwork']","['espacio', 'oficina', 'casa', 'pared', 'color', 'verd', 'brillant', 'obra', 'art']",3.4
+"['black', 'white', 'photo', 'man', 'drive', 'car', 'someon', 'motorcycl']","['foto', 'blanco', 'negro', 'hombr', 'conduciendo', 'coch', 'alguien', 'moto']",4.0
+"['three', 'peopl', 'water', 'yellow', 'cano']","['tre', 'persona', 'junto', 'agua', 'canoa', 'amarilla']",3.0
+"['girl', 'ride', 'hat', 'hors']","['chica', 'sombrero', 'montar', 'caballo']",3.8
+"['man', 'dress', 'pale', 'scarf', 'stick']","['hombr', 'vestido', 'pañuelo', 'pálido', 'palo']",0.0
+"['retro', 'live', 'room', 'televis']","['sala', 'retro', 'televisor']",0.0
+"['girl', 'ride', 'hat', 'hors']","['chica', 'sombrero', 'montar', 'caballo']",2.6
+"['car', 'pull', 'side', 'road', 'onto', 'street']","['coch', 'saliendo', 'carretera', 'hacia', 'call']",2.6
+"['man', 'sit', 'cross', 'leg', 'wear', 'cloak', 'hold', 'stick']","['hombr', 'sentado', 'pierna', 'cruzada', 'usando', 'capa', 'sosteniendo', 'palo']",3.8
+"['two', 'black', 'white', 'dog', 'bottom', 'stair']","['do', 'perro', 'blanco', 'negro', 'final', 'escalera']",2.6
+"['old', 'fashion', 'wooden', 'sail', 'ship', 'ocean']","['antiguo', 'barco', 'madera', 'océano']",2.8
+"['man', 'sit', 'cross', 'leg', 'grass', 'tree', 'background']","['hombr', 'sentado', 'pierna', 'cruzada', 'hierba', 'árbol', 'fondo']",0.0
+"['two', 'cat', 'sit', 'couch', 'look', 'window']","['do', 'gato', 'sentado', 'sofá', 'mirando', 'ventana']",2.6
+"['three', 'goat', 'round', 'dog']","['tre', 'cabra', 'siendo', 'acorralada', 'perro']",4.6
+"['tan', 'puppi', 'carpet', 'floor']","['cachorro', 'bronceado', 'suelo', 'alfombrado']",3.8
+"['black', 'dog', 'stand', 'grassi', 'area']","['perro', 'negro', 'parado', 'área', 'pasto']",3.4
+"['train', 'station']","['tren', 'estación']",5.0
+"['blue', 'bird', 'stand', 'lawn']","['pájaro', 'azul', 'pie', 'césped']",4.6
+"['empti', 'offic', 'cubicl']","['cubículo', 'oficina', 'vacío']",3.0
+"['man', 'woman', 'sit', 'tabl', 'restaur']","['hombr', 'mujer', 'sientan', 'mesa', 'restaurant']",2.2
+"['young', 'man', 'wear', 'stripe', 'shirt', 'hold', 'two', 'bicycl']","['joven', 'camisa', 'raya', 'sostien', 'do', 'bicicleta']",3.8
+"['televis', 'upholst', 'chair', 'coffe', 'stabl', 'bright', 'room']","['televisor', 'silla', 'tapizada', 'establo', 'café', 'habitación', 'luminosa']",2.2
+"['two', 'cat', 'sit', 'couch', 'look', 'window']","['do', 'gato', 'sentado', 'sofá', 'mirando', 'ventana']",3.6
+"['small', 'dog', 'wear', 'sweater', 'look', 'camera']","['pequeño', 'perro', 'lleva', 'suéter', 'mira', 'cámara']",4.0
+"['two', 'men', 'stand', 'grass', 'stare', 'car']","['do', 'hombr', 'parado', 'pasto', 'mirando', 'auto']",0.4
+"['woman', 'stand', 'front', 'build', 'snow']","['mujer', 'pie', 'frent', 'edificio', 'niev']",0.0
+"['home', 'offic', 'space', 'bright', 'green', 'wall', 'artwork']","['espacio', 'oficina', 'casa', 'pared', 'color', 'verd', 'brillant', 'obra', 'art']",3.8
+"['green', 'car', 'park', 'saloon']","['coch', 'verd', 'aparcado', 'taberna']",5.0
+"['group', 'peopl', 'sit', 'around', 'restaur', 'dine', 'tabl']","['grupo', 'persona', 'sentada', 'alrededor', 'mesa', 'restaurant']",4.8
+"['two', 'duck', 'stand', 'water']","['do', 'pato', 'pie', 'junto', 'agua']",2.4
+"['black', 'white', 'cow', 'pen', 'hay']","['vaca', 'blanca', 'negra', 'corral', 'heno']",2.8
+"['man', 'woman', 'pose', 'camera']","['hombr', 'mujer', 'posando', 'cámara']",1.4
+"['green', 'white', 'cargo', 'plane', 'take', 'airport']","['avión', 'carga', 'verd', 'blanco', 'despegando', 'aeropuerto']",3.6
+"['yellow', 'school', 'bu', 'park', 'field']","['autobú', 'escolar', 'amarillo', 'estacionado', 'campo']",0.0
+"['elderli', 'man', 'work', 'laptop', 'home']","['hombr', 'mayor', 'trabaja', 'portátil', 'casa']",4.2
+"['cat', 'sit', 'bag', 'cat', 'food']","['gato', 'sentado', 'bolsa', 'comida', 'gato']",0.4
+"['larg', 'pile', 'wooden', 'item', 'pile', 'high']","['gran', 'pila', 'artículo', 'madera', 'apilado', 'alto']",3.8
+"['woman', 'ride', 'brown', 'hors']","['mujer', 'montando', 'caballo', 'marrón']",4.0
+"['black', 'white', 'photo', 'girl', 'sofa']","['foto', 'blanco', 'negro', 'chica', 'sofá']",1.2
+"['black', 'dog', 'stand', 'next', 'materi', 'construct', 'site']","['perro', 'negro', 'pie', 'junto', 'material', 'obra', 'construcción']",4.0
+"['two', 'woman', 'sit', 'chair', 'shop']","['do', 'mujer', 'sentada', 'silla', 'tienda']",3.0
+"['woman', 'paint', 'chair', 'dine', 'room', 'background']","['mujer', 'pintando', 'silla', 'comedor', 'fondo']",0.0
+"['cat', 'sleep', 'coach', 'pillow', 'behind']","['gato', 'durmiendo', 'coch', 'almohada', 'detrá']",2.4
+"['two', 'motorbik', 'race', 'dirt', 'cours']","['do', 'moto', 'corriendo', 'circuito', 'tierra']",3.4
+"['young', 'woman', 'ride', 'bay', 'hose', 'dirt', 'ridingr']","['joven', 'montando', 'manguera', 'bahía', 'aro', 'montar', 'tierra']",0.8
+"['gray', 'cat', 'lay', 'brown', 'tabl']","['gato', 'gri', 'acostado', 'mesa', 'marrón']",4.2
+"['motorcycl', 'park', 'next', 'car', 'outsid']","['motocicleta', 'estacionada', 'lado', 'auto', 'afuera']",4.4
+"['pile', 'use', 'wooden', 'build', 'materi', 'chair', 'top']","['pila', 'material', 'construcción', 'madera', 'usado', 'silla', 'encima']",4.0
+"['passeng', 'train', 'wait', 'citi', 'train', 'station']","['tren', 'pasajero', 'esperando', 'estación', 'tren', 'ciudad']",1.8
+"['black', 'train', 'move', 'track']","['tren', 'negro', 'muev', 'vía']",2.8
+"['philip', 'flatscreen', 'tv', 'shown', 'two', 'remot', 'control']","['televisor', 'pantalla', 'plana', 'philip', 'muestra', 'do', 'mando', 'distancia']",5.0
+"['cruis', 'ship', 'front', 'dock', 'area']","['crucero', 'frent', 'área', 'acoplamiento']",0.0
+"['black', 'white', 'cow', 'stand', 'hay', 'look', 'back', 'camera']","['vaca', 'blanca', 'negra', 'parada', 'heno', 'mira', 'hacia', 'cámara']",0.2
+"['four', 'peopl', 'row', 'river']","['cuatro', 'persona', 'remando', 'río']",4.0
+"['dark', 'brown', 'hors', 'stand', 'field']","['caballo', 'marrón', 'oscuro', 'pie', 'campo']",3.8
+"['two', 'men', 'talk', 'front', 'plane']","['do', 'hombr', 'hablando', 'frent', 'avión']",4.4
+"['two', 'cat', 'one', 'brown', 'one', 'white', 'lay', 'bed', 'blue', 'blanket']","['do', 'gato', 'marrón', 'blanco', 'acostado', 'cama', 'manta', 'azul']",3.2
+"['train', 'sit', 'train', 'station']","['tren', 'sienta', 'estación', 'tren']",4.6
+"['two', 'anim', 'sit', 'rock']","['do', 'animal', 'sentado', 'roca']",0.0
+"['black', 'white', 'cow', 'look', 'fenc']","['vaca', 'blanca', 'negra', 'mirando', 'travé', 'valla']",1.0
+"['two', 'woman', 'cloth', 'store']","['do', 'mujer', 'tienda', 'ropa']",0.8
+"['older', 'gentleman', 'look', 'red', 'motorcycl']","['caballero', 'mayor', 'mirando', 'motocicleta', 'roja']",4.0
+"['black', 'white', 'cow', 'graze', 'pen']","['vaca', 'blanca', 'negra', 'pastando', 'corral']",1.6
+"['small', 'camouflag', 'airplan', 'park', 'grass']","['pequeño', 'avión', 'camuflado', 'aparcado', 'hierba']",0.0
+"['black', 'white', 'photo', 'love', 'seat']","['foto', 'blanco', 'negro', 'loveseat']",3.4
+"['black', 'bird', 'stand', 'concret']","['pájaro', 'negro', 'pie', 'hormigón']",1.0
+"['crowd', 'peopl', 'walk', 'past', 'giant', 'mushroom']","['multitud', 'persona', 'caminando', 'junto', 'hongo', 'gigant']",4.0
+"['sheep', 'besid', 'road', 'lake']","['oveja', 'junto', 'camino', 'lago']",3.0
+"['group', 'peopl', 'sit', 'tabl', 'italian', 'restaur']","['grupo', 'persona', 'sienta', 'mesa', 'restaurant', 'italiano']",3.0
+"['tan', 'cow', 'look', 'close', 'camera']","['vaca', 'bronceada', 'miran', 'cerca', 'cámara']",0.75
+"['older', 'woman', 'hold', 'newborn', 'babi']","['mujer', 'mayor', 'sosteniendo', 'bebé', 'recién', 'nacido']",3.4
+"['two', 'dog', 'play', 'grass']","['do', 'perro', 'juegan', 'hierba']",2.8
+"['three', 'peopl', 'sit', 'picnic', 'tabl', 'outsid', 'build', 'paint', 'like', 'union', 'jack']","['tre', 'persona', 'sientan', 'mesa', 'picnic', 'edificio', 'pintado', 'gato', 'unión']",4.8
+"['dog', 'swim', 'water']","['perro', 'agua']",1.4
+"['young', 'laugh', 'girl', 'boy', 'play', 'big', 'drum']","['joven', 'risueña', 'chico', 'tocando', 'gran', 'tambor']",2.4
+"['brown', 'dog', 'run', 'snow', 'white', 'ball', 'mouth']","['perro', 'marrón', 'corr', 'niev', 'bola', 'blanca', 'boca']",1.8
+"['bird', 'fli', 'across', 'water']","['pájaro', 'vuela', 'travé', 'agua']",4.8
+"['dog', 'run', 'pond']","['perro', 'corriendo', 'estanqu']",1.4
+"['man', 'woman', 'watch', 'two', 'dog']","['hombr', 'mujer', 'vigilan', 'do', 'perro']",0.4
+"['man', 'sit', 'dock', 'look', 'water']","['hombr', 'sienta', 'muell', 'mirando', 'agua']",1.33
+"['brown', 'white', 'dog', 'run', 'snow']","['perro', 'marrón', 'blanco', 'corriendo', 'niev']",2.4
+"['man', 'woman', 'stand', 'front', 'build']","['hombr', 'mujer', 'pie', 'frent', 'edificio']",0.4
+"['three', 'dolphin', 'jump', 'pool', 'front', 'crowd', 'peopl']","['tre', 'delfin', 'saltando', 'piscina', 'frent', 'multitud', 'gent']",0.6
+"['dog', 'run', 'field']","['perro', 'corriendo', 'campo']",4.8
+"['black', 'white', 'dog', 'jump', 'water']","['perro', 'blanco', 'negro', 'saltando', 'agua']",2.8
+"['tan', 'white', 'dog', 'retriev', 'ball', 'gravel', 'path']","['perro', 'blanco', 'moreno', 'recuperando', 'pelota', 'camino', 'grava']",2.0
+"['brown', 'white', 'dog', 'walk', 'snowi', 'step']","['perro', 'marrón', 'blanco', 'caminando', 'escalon', 'niev']",2.6
+"['woman', 'black', 'orang', 'jacket', 'throw', 'stick', 'brown', 'black', 'dog', 'fetch']","['mujer', 'chaqueta', 'negra', 'naranja', 'lanza', 'palo', 'perro', 'marrón', 'negro', 'vaya', 'buscarlo']",0.0
+"['dog', 'run', 'across', 'snow', 'snowbal', 'mouth']","['perro', 'corriendo', 'niev', 'bola', 'niev', 'boca']",2.4
+"['small', 'boy', 'build', 'wooden', 'block']","['niño', 'pequeño', 'construyendo', 'bloqu', 'madera']",4.0
+"['man', 'woman', 'walk', 'white', 'dog', 'leash']","['hombr', 'mujer', 'caminan', 'perro', 'blanco', 'correa']",4.0
+"['young', 'boy', 'wear', 'red', 'winter', 'coat', 'eat', 'hold', 'candi', 'bar']","['joven', 'abrigo', 'invierno', 'rojo', 'comiendo', 'sosteniendo', 'barra', 'caramelo']",4.0
+"['two', 'race', 'dog', 'run', 'mud']","['do', 'perro', 'carrera', 'corren', 'barro']",0.0
+"['young', 'boy', 'jump', 'pool', 'say', 'dive']","['joven', 'saltando', 'piscina', 'dice', 'bucear']",3.2
+"['three', 'dog', 'run', 'dirt']","['tre', 'perro', 'corriendo', 'tierra']",1.4
+"['four', 'child', 'stool', 'diner']","['cuatro', 'niño', 'banquito', 'restaurant']",3.6
+"['boy', 'white', 'dog', 'run', 'grassi', 'field']","['chico', 'perro', 'blanco', 'corriendo', 'campo', 'hierba']",4.4
+"['two', 'boy', 'play', 'game', 'flag', 'footbal']","['do', 'chico', 'jugando', 'partido', 'fútbol', 'bandera']",5.0
+"['black', 'white', 'dog', 'mouth', 'wide', 'open']","['perro', 'blanco', 'negro', 'boca', 'abierta']",1.8
+"['one', 'white', 'boy', 'one', 'black', 'boy', 'stand', 'arm', 'around']","['chico', 'blanco', 'chico', 'negro', 'pie', 'brazo', 'alrededor']",4.8
+"['girl', 'play', 'puddl', 'bare', 'foot']","['chica', 'jugando', 'charco', 'pie', 'descalzo']",0.6
+"['two', 'child', 'splash', 'water']","['do', 'niño', 'chapoteando', 'agua']",1.4
+"['man', 'suit', 'danc', 'young', 'girl', 'front', 'audienc']","['hombr', 'traje', 'baila', 'joven', 'frent', 'público']",0.2
+"['three', 'child', 'play', 'floor', 'toy']","['tre', 'niño', 'jugando', 'suelo', 'juguet']",4.2
+"['two', 'dog', 'play', 'yard']","['do', 'perro', 'jugando', 'patio']",4.6
+"['num', 'greyhound', 'dog', 'run', 'around', 'track']","['galgo', 'número', 'num', 'corriendo', 'alrededor', 'pista']",4.0
+"['four', 'child', 'play', 'trampolin']","['cuatro', 'niño', 'jugando', 'trampolín']",4.6
+"['black', 'tan', 'dog', 'stand', 'field', 'near', 'tree']","['perro', 'negro', 'moreno', 'pie', 'campo', 'cerca', 'árbole']",1.8
+"['black', 'dog', 'run', 'water']","['perro', 'negro', 'corriendo', 'hacia', 'agua']",4.6
+"['man', 'woman', 'walk', 'past', 'record', 'shop']","['hombr', 'mujer', 'pasan', 'delant', 'tienda', 'disco']",0.2
+"['two', 'dog', 'play', 'grass']","['do', 'perro', 'juegan', 'hierba']",2.6
+"['three', 'child', 'wrestl', 'floral', 'carpet']","['tre', 'niño', 'luchan', 'alfombra', 'floral']",3.8
+"['boy', 'red', 'jump', 'sandbox']","['chico', 'rojo', 'saltando', 'arenero']",0.0
+"['dog', 'jump', 'water']","['perro', 'salta', 'agua']",5.0
+"['wet', 'blond', 'dog', 'carri', 'stick', 'shore']","['perro', 'mojado', 'rubio', 'lleva', 'palo', 'orilla']",3.6
+"['man', 'dog', 'rock', 'beach']","['hombr', 'perro', 'roca', 'playa']",4.6
+"['larg', 'group', 'peopl', 'stand', 'outsid', 'build']","['gran', 'grupo', 'persona', 'pie', 'edificio']",2.0
+"['two', 'dog', 'run', 'field']","['do', 'perro', 'corriendo', 'campo']",5.0
+"['two', 'peopl', 'bed']","['do', 'persona', 'cama']",0.0
+"['light', 'brown', 'dog', 'run', 'path', 'happili']","['perro', 'marrón', 'claro', 'corr', 'felizment', 'camino']",3.4
+"['red', 'hair', 'woman', 'black', 'pose', 'man', 'rest', 'tree']","['mujer', 'pelirroja', 'vestida', 'negro', 'posando', 'hombr', 'mientra', 'descansa', 'árbol']",0.0
+"['two', 'black', 'dog', 'jump', 'play', 'yellow', 'tenni', 'ball', 'snow']","['do', 'perro', 'negro', 'saltando', 'jugando', 'pelota', 'teni', 'amarilla', 'niev']",2.0
+"['black', 'white', 'dog', 'jump', 'hurdl']","['perro', 'blanco', 'negro', 'saltando', 'obstáculo']",2.0
+"['two', 'brown', 'dog', 'run', 'water']","['do', 'perro', 'marron', 'corren', 'agua']",4.6
+"['black', 'dog', 'jump', 'water']","['perro', 'negro', 'saltando', 'agua']",3.0
+"['man', 'climb', 'rockfac']","['hombr', 'escalando', 'cara', 'roca']",4.6
+"['woman', 'play', 'tenni', 'hit', 'ball']","['mujer', 'jugando', 'teni', 'golpeando', 'pelota']",2.0
+"['young', 'boy', 'hair', 'stand', 'slide', 'blue', 'slide']","['joven', 'pelo', 'erguido', 'desliza', 'tobogán', 'azul']",2.6
+"['dog', 'stand', 'water']","['perro', 'parado', 'agua']",0.4
+"['surfer', 'ride', 'break', 'wave']","['surfista', 'montando', 'ola', 'rompient']",2.6
+"['two', 'dog', 'run', 'grass', 'near', 'hous', 'tree']","['do', 'perro', 'corriendo', 'hierba', 'cerca', 'casa', 'árbole']",4.2
+"['brown', 'white', 'dog', 'run', 'across', 'brown', 'field']","['perro', 'marrón', 'blanco', 'corriendo', 'campo', 'marrón']",0.0
+"['black', 'dog', 'stand', 'grass', 'near', 'volleybal']","['perro', 'negro', 'parado', 'pasto', 'cerca', 'pelota', 'voleibol']",2.2
+"['white', 'dog', 'light', 'brown', 'mark', 'stick', 'mouth', 'paw', 'snow']","['perro', 'blanco', 'marca', 'marrón', 'claro', 'palo', 'boca', 'pata', 'niev']",4.0
+"['man', 'wet', 'suit', 'throw', 'babi', 'wear', 'wet', 'suit', 'air']","['hombr', 'traje', 'buceo', 'lanzando', 'air', 'bebé', 'traje', 'buceo']",0.0
+"['black', 'white', 'dog', 'run', 'grass']","['perro', 'blanco', 'negro', 'corriendo', 'hierba']",2.0
+"['har', 'dog', 'leap', 'log', 'anoth', 'dog', 'follow', 'behind']","['perro', 'arné', 'salta', 'tronco', 'mientra', 'perro', 'sigu']",3.0
+"['dog', 'run', 'grass']","['perro', 'corriendo', 'hierba']",2.6
+"['mani', 'footbal', 'player', 'sit', 'ground']","['jugador', 'fútbol', 'sentado', 'suelo']",0.0
+"['littl', 'boy', 'littl', 'girl', 'play', 'togeth', 'outsid']","['niño', 'niña', 'jugando', 'junto', 'afuera']",0.0
+"['surfer', 'flip', 'wave']","['surfista', 'hace', 'giro', 'ola']",4.8
+"['femal', 'dj', 'hold', 'michael', 'jackson', 'album']","['dj', 'femenina', 'sostien', 'álbum', 'michael', 'jackson']",3.0
+"['two', 'white', 'standard', 'poodl', 'play', 'toy', 'snow']","['do', 'canich', 'blanco', 'estándar', 'juegan', 'juguet', 'niev']",2.2
+"['boy', 'lie', 'stomach', 'grass']","['chico', 'acuesta', 'boca', 'abajo', 'hierba']",4.4
+"['white', 'dog', 'run', 'along', 'rocki', 'shorelin']","['perro', 'blanco', 'corr', 'largo', 'costa', 'rocosa']",0.8
+"['black', 'white', 'dog', 'jump', 'air', 'catch', 'frisbe']","['perro', 'blanco', 'negro', 'saltando', 'air', 'atrapar', 'frisbe']",3.4
+"['woman', 'hold', 'har', 'brown', 'white', 'dog', 'wear']","['mujer', 'sosteniendo', 'arné', 'lleva', 'perro', 'marrón', 'blanco']",0.0
+"['girl', 'jump']","['chica', 'saltando']",0.6
+"['young', 'pitcher', 'throw', 'basebal']","['joven', 'lanzador', 'lanzando', 'pelota', 'béisbol']",0.0
+"['three', 'child', 'play', 'snow']","['tre', 'niño', 'jugando', 'niev']",2.4
+"['two', 'peopl', 'ride', 'bike', 'dirt', 'road']","['do', 'persona', 'van', 'bicicleta', 'camino', 'tierra']",3.4
+"['brown', 'dog', 'run', 'field']","['perro', 'marrón', 'corriendo', 'campo']",4.0
+"['dog', 'stand', 'sand']","['perro', 'parado', 'arena']",2.0
+"['four', 'girl', 'swimsuit', 'play', 'volleybal', 'beach']","['cuatro', 'chica', 'traje', 'baño', 'jugando', 'voleibol', 'playa']",4.0
+"['blond', 'hair', 'toddler', 'swing', 'tire', 'swing']","['niño', 'rubio', 'balancea', 'columpio', 'neumático']",4.8
+"['child', 'wear', 'blue', 'white', 'short', 'jump', 'surf']","['niño', 'pantalon', 'corto', 'azul', 'blanco', 'saltando', 'ola']",0.6
+"['two', 'dog', 'run', 'shore']","['do', 'perro', 'corriendo', 'orilla']",2.4
+"['yellow', 'car', 'speed', 'along', 'snowi', 'field']","['coch', 'amarillo', 'acelera', 'largo', 'campo', 'nevado']",4.4
+"['two', 'dog', 'play', 'snow']","['do', 'perro', 'jugando', 'niev']",2.4
+"['one', 'boy', 'push', 'anoth', 'boy', 'swing']","['chico', 'empujando', 'chico', 'columpio']",4.8
+"['pitcher', 'mound', 'throw', 'basebal']","['lanzador', 'montículo', 'lanza', 'pelota', 'béisbol']",3.4
+"['littl', 'girl', 'ride', 'toy', 'tricycl', 'spring']","['niña', 'pequeña', 'montando', 'triciclo', 'juguet', 'muell']",2.8
+"['woman', 'sit', 'water']","['mujer', 'sentada', 'agua']",0.8
+"['tan', 'girl', 'floral', 'bikini', 'swim', 'dark', 'blue', 'water']","['chica', 'bronceada', 'bikini', 'floral', 'nadando', 'agua', 'azul', 'oscuro']",2.2
+"['grey', 'dog', 'swim', 'river', 'stick', 'mouth']","['perro', 'gri', 'nadando', 'travé', 'río', 'palo', 'boca']",3.8
+"['woman', 'blue', 'bath', 'suit', 'jump', 'dock', 'lake']","['mujer', 'traje', 'baño', 'azul', 'saltando', 'muell', 'lago']",0.4
+"['two', 'black', 'dog', 'play', 'grass']","['do', 'perro', 'negro', 'jugando', 'hierba']",4.6
+"['two', 'puppi', 'play', 'plastic', 'bag']","['do', 'cachorro', 'jugando', 'bolsa', 'plástico']",3.0
+"['man', 'black', 'suit', 'surf', 'along', 'crash', 'wave']","['hombr', 'traje', 'negro', 'surfeando', 'largo', 'ola', 'estrella']",4.6
+"['three', 'littl', 'girl', 'sit', 'grass']","['tre', 'niña', 'pequeña', 'sentada', 'césped']",0.8
+"['brown', 'dog', 'run', 'toward', 'camera', 'dirt', 'trail', 'mountain', 'background']","['perro', 'marrón', 'corr', 'hacia', 'cámara', 'sendero', 'tierra', 'montaña', 'fondo']",4.0
+"['dog', 'jump', 'ramp']","['perro', 'saltando', 'rampa']",1.2
+"['dog', 'play', 'park']","['perro', 'juega', 'parqu']",3.2
+"['four', 'dog', 'stand', 'snow']","['cuatro', 'perro', 'paran', 'niev']",3.6
+"['brown', 'black', 'dog', 'snow', 'show', 'teeth', 'bark']","['perro', 'marron', 'negro', 'niev', 'mostrando', 'dient', 'ladrándos']",3.4
+"['man', 'run', 'track']","['hombr', 'corriendo', 'pista']",5.0
+"['lightcolor', 'dog', 'run', 'grass']","['perro', 'color', 'claro', 'corr', 'hierba']",4.0
+"['child', 'hold', 'object', 'fire']","['niño', 'sosteniendo', 'objeto', 'llama']",4.0
+"['small', 'white', 'dog', 'climb', 'log']","['pequeño', 'perro', 'blanco', 'trepa', 'tronco']",2.8
+"['dog', 'play', 'snow', 'hind', 'leg']","['perro', 'juegan', 'niev', 'pata', 'trasera']",3.8
+"['boy', 'skateboard', 'rail', 'graffiti', 'stair']","['chico', 'patina', 'barandilla', 'una', 'escalera', 'graffiti']",2.6
+"['black', 'white', 'dog', 'run', 'water']","['perro', 'blanco', 'negro', 'corr', 'agua']",2.0
+"['girl', 'run', 'desert', 'path']","['chica', 'corriendo', 'camino', 'desierto']",0.8
+"['man', 'steer', 'blue', 'boat', 'past', 'brightli', 'color', 'hous']","['hombr', 'conduc', 'barco', 'azul', 'pasando', 'casa', 'color', 'brillant']",5.0
+"['woman', 'wear', 'larg', 'sunglass', 'hold', 'newspap', 'hand']","['mujer', 'grand', 'gafa', 'sol', 'sostien', 'periódico', 'amba', 'mano']",1.0
+"['deer', 'jump', 'fenc']","['ciervo', 'salta', 'valla']",5.0
+"['person', 'basebal', 'team']","['persona', 'equipo', 'béisbol']",2.4
+"['bike', 'next', 'coupl', 'woman']","['bicicleta', 'lado', 'par', 'mujer']",2.0
+"['group', 'eat', 'take', 'breathtak', 'view']","['grupo', 'comiendo', 'mientra', 'disfruta', 'vista', 'impresionant']",2.2
+"['boy', 'rais', 'hand']","['chico', 'levantando', 'mano']",3.4
+"['man', 'gray', 'beard', 'shave', 'front', 'lectur', 'hall']","['hombr', 'barba', 'gri', 'siendo', 'afeitado', 'frent', 'sala', 'conferencia']",0.8
+"['young', 'person', 'deep', 'thought']","['persona', 'joven', 'pensamiento', 'profundo']",4.6
+"['man', 'perform', 'labor']","['hombr', 'realizando', 'trabajo', 'parto']",2.8
+"['two', 'men', 'wear', 'tradit', 'cloth', 'stand', 'outsid']","['do', 'hombr', 'vestido', 'ropa', 'tradicion', 'parado', 'afuera']",2.0
+"['man', 'wear', 'gray', 'hat', 'fish', 'fish', 'boat']","['hombr', 'sombrero', 'gri', 'pescando', 'barco', 'pesca']",2.6
+"['littl', 'girl', 'orang', 'stripe', 'outfit', 'airborn', 'whilst', 'bounc', 'bed']","['niña', 'traje', 'raya', 'naranja', 'eleva', 'air', 'mientra', 'rebota', 'cama']",0.2
+"['person', 'watch', 'peopl', 'ski', 'hill']","['persona', 'viendo', 'gent', 'esquiar', 'colina']",1.4
+"['yard', 'dog']","['patio', 'perro']",1.6
+"['three', 'woman', 'cook']","['tre', 'mujer', 'cocinan']",3.2
+"['woman', 'kneel', 'next', 'cat']","['mujer', 'arrodillada', 'junto', 'gato']",0.2
+"['three', 'guy', 'play', 'pro', 'game', 'basketbal']","['tre', 'tipo', 'jugando', 'partido', 'baloncesto', 'profesion']",2.4
+"['boy', 'earn', 'next', 'belt', 'karat']","['chico', 'ganando', 'próximo', 'cinturón', 'karat']",0.2
+"['woman', 'dig', 'sand']","['mujer', 'cavando', 'arena']",1.4
+"['woman', 'drive', 'golf', 'cart']","['mujer', 'conduc', 'carrito', 'golf']",1.8
+"['person', 'film', 'outdoor']","['persona', 'filma', 'exterior']",1.6
+"['human', 'ride', 'skateboard']","['humano', 'montado', 'monopatín']",3.8
+"['woman', 'plaid', 'outfit', 'look', 'bag', 'produc']","['mujer', 'traje', 'cuadro', 'mirando', 'travé', 'bolsa', 'producto']",1.0
+"['tenni', 'player', 'hit', 'ball', 'outer', 'space', 'broke', 'death', 'star']","['tenista', 'golpeó', 'pelota', 'espacio', 'exterior', 'rompió', 'estrella', 'muert']",1.2
+"['boy', 'climb', 'forest', 'hill']","['niño', 'sube', 'colina', 'bosqu']",4.0
+"['blond', 'boy', 'jump', 'onto', 'deck']","['chico', 'rubio', 'saltando', 'cubierta']",2.0
+"['man', 'us', 'chainsaw', 'sculpt', 'phallic', 'ice', 'sculptur']","['hombr', 'usa', 'motosierra', 'esculpir', 'escultura', 'hielo', 'fálico']",2.6
+"['group', 'male', 'construct', 'worker', 'repair', 'railroad', 'track', 'cloudi', 'day']","['grupo', 'hombr', 'trabajador', 'construcción', 'reparan', 'vía', 'tren', 'día', 'nublado']",3.8
+"['girl', 'someth', 'head']","['chica', 'cabeza']",2.6
+"['peopl', 'make', 'structur', 'card']","['gent', 'hace', 'estructura', 'carta']",0.2
+"['four', 'peopl', 'outsid']","['cuatro', 'persona', 'afuera']",3.0
+"['girl', 'hold', 'hand', 'blue', 'cloth']","['chica', 'toman', 'mano', 'ropa', 'azul']",1.8
+"['man', 'demonstr', 'work', 'clay', 'least', 'two', 'peopl', 'observ']","['hombr', 'demostrando', 'cómo', 'trabajar', 'arcilla', 'mientra', 'meno', 'do', 'persona', 'observan']",0.6
+"['dog', 'sweater']","['perro', 'suéter']",0.6
+"['sculptor', 'appli', 'concret', 'larg', 'statu', 'human', 'figur', 'stand', 'head']","['escultor', 'aplicando', 'hormigón', 'gran', 'estatua', 'figura', 'humana', 'pie', 'cabeza']",0.2
+"['boy', 'dark', 'hair', 'water', 'look']","['chico', 'pelo', 'oscuro', 'agua', 'mirando', 'hacia', 'arriba']",0.6
+"['pole', 'behind', 'person', 'play', 'peekaboo', 'child']","['post', 'detrá', 'persona', 'jugando', 'escondit', 'niño']",0.2
+"['woman', 'paint']","['mujer', 'punto', 'pintar']",1.0
+"['man', 'work', 'steel', 'mill']","['hombr', 'trabaja', 'fábrica', 'acero']",3.4
+"['young', 'woman', 'flirt', 'young', 'boy']","['joven', 'coqueteando', 'muchacho']",1.4
+"['men', 'score', 'water', 'polo', 'tournament']","['hombr', 'punto', 'anotar', 'torneo', 'waterpolo']",2.0
+"['man', 'eat', 'popcorn', 'watch', 'cartoon', 'late', 'one', 'night']","['hombr', 'come', 'palomita', 'maíz', 'mientra', 've', 'dibujo', 'animado', 'tard', 'noch']",2.8
+"['three', 'men', 'sit', 'bench']","['tre', 'hombr', 'sientan', 'banco']",3.2
+"['road', 'long']","['camino', 'largo']",0.8
+"['young', 'man', 'wear', 'white', 'tshirt', 'green', 'black', 'short', 'stand', 'stump']","['joven', 'camiseta', 'blanca', 'pantalon', 'corto', 'verd', 'negro', 'pie', 'muñón']",1.8
+"['dog', 'stair']","['perro', 'bajo', 'escalera']",2.2
+"['two', 'woman', 'give', 'demonstr', 'renaiss', 'fair']","['do', 'mujer', 'hacen', 'demostración', 'feria', 'renacimiento']",4.2
+"['guy', 'sit', 'couch', 'watch', 'televis']","['tipo', 'sentado', 'sofá', 'viendo', 'televisión']",5.0
+"['woman', 'pose', 'christma', 'card']","['mujer', 'posando', 'tarjeta', 'navidad']",1.2
+"['man', 'work', 'farm']","['hombr', 'trabajando', 'granja']",2.8
+"['girl', 'talk', 'dad', 'cellphon']","['chica', 'hablando', 'padr', 'teléfono', 'móvil']",4.4
+"['one', 'person', 'wield', 'umbrella']","['persona', 'lleva', 'paragua']",4.4
+"['group', 'teenag', 'jump', 'good', 'time']","['grupo', 'adolescent', 'saltando', 'pasándolo', 'bien']",3.6
+"['man', 'play', 'guitar', 'joe', 'cafe']","['hombr', 'tocando', 'guitarra', 'joe', 'cafe']",1.2
+"['someon', 'blanket']","['alguien', 'manta']",1.4
+"['man', 'orang', 'shirt']","['hombr', 'camisa', 'naranja']",3.4
+"['two', 'kid', 'look', 'product', 'sold', 'insid', 'subway', 'shop']","['do', 'niño', 'miran', 'producto', 'venden', 'dentro', 'tienda', 'metro']",0.8
+"['babi', 'boy', 'want', 'mother']","['niño', 'quier', 'madr']",2.8
+"['boy', 'close', 'girl']","['chico', 'cerca', 'chica']",3.2
+"['six', 'child', 'clean', 'room']","['sei', 'niño', 'limpiando', 'habitación']",1.6
+"['cook', 'prepar', 'food']","['cocinero', 'preparando', 'comida']",5.0
+"['two', 'men', 'help', 'boy']","['do', 'hombr', 'ayudando', 'niño']",3.6
+"['two', 'ski', 'peopl', 'cross', 'countri', 'ski']","['do', 'esquiador', 'haciendo', 'esquí', 'fondo']",3.6
+"['dog', 'take', 'poop', 'street']","['perro', 'haciendo', 'caca', 'call']",0.4
+"['kid', 'talk', 'class']","['niño', 'hablando', 'clase']",1.8
+"['woman', 'tri', 'sell', 'someth', 'individu']","['mujer', 'tratando', 'vender', 'individuo']",1.2
+"['peopl', 'wait', 'firework', 'start']","['gent', 'esperando', 'empiecen', 'fuego', 'artificial']",1.2
+"['dog', 'prepar', 'herd', 'three', 'sheep', 'horn']","['perro', 'prepara', 'arrear', 'tre', 'oveja', 'cuerno']",2.2
+"['peopl', 'gather', 'room']","['gent', 'reunió', 'habitación']",5.0
+"['woman', 'overal', 'paint', 'pictur', 'wall']","['mujer', 'overol', 'pinta', 'cuadro', 'pare']",2.6
+"['ad', 'aspirin', 'water', 'could', 'kill', 'plant']","['añadir', 'aspirina', 'agua', 'podría', 'matar', 'planta']",0.0
+"['woman', 'wear', 'yellow']","['mujer', 'va', 'vestida', 'amarillo']",2.8
+"['man', 'stunt', 'bicycl']","['hombr', 'haciendo', 'truco', 'bicicleta']",3.2
+"['ten', 'peopl', 'ride', 'atv']","['diez', 'persona', 'montada', 'atv']",1.6
+"['yellow', 'vest', 'person', 'road', 'work']","['persona', 'chaleco', 'amarillo', 'haciendo', 'trabajo', 'carretera']",0.2
+"['two', 'worker', 'sit', 'next', 'pipe', 'eat', 'lunch']","['do', 'trabajador', 'sentado', 'junto', 'tubería', 'almorzando']",3.8
+"['group', 'peopl', 'live', 'desert']","['grupo', 'persona', 'viven', 'desierto']",4.0
+"['two', 'kid', 'swim']","['do', 'niño', 'nadando']",2.8
+"['peopl', 'get', 'dirti', 'cloth', 'clean']","['gent', 'limpia', 'ropa', 'sucia']",5.0
+"['child', 'hold', 'music', 'instrument']","['niño', 'sosteniendo', 'instrumento', 'musical']",3.4
+"['group', 'peopl', 'wear', 'polic', 'uniform', 'conduct', 'arrest']","['grupo', 'persona', 'uniform', 'policía', 'llevando', 'cabo', 'arresto']",2.8
+"['man', 'plan', 'shoot', 'wed']","['hombr', 'planeando', 'filmar', 'boda']",1.4
+"['child', 'bike', 'got', 'wet']","['bicicleta', 'niño', 'mojó']",1.2
+"['soldier', 'walk', 'dog']","['soldado', 'pasea', 'perro']",3.2
+"['shirtless', 'woman', 'oper', 'lawn', 'mower']","['mujer', 'camisa', 'operando', 'cortadora', 'césped']",3.0
+"['two', 'offic', 'drive']","['do', 'oficial', 'conduciendo']",2.2
+"['ladi', 'look', 'sad', 'one', 'buy', 'ware']","['señora', 'parec', 'trist', 'nadi', 'compra', 'producto']",2.0
+"['flock', 'bird', 'hover', 'sandi', 'beach']","['bandada', 'pájaro', 'cernía', 'playa', 'arena']",3.8
+"['peopl', 'walk', 'home']","['gent', 'camina', 'casa']",1.6
+"['man', 'laugh', 'woman']","['hombr', 'ríe', 'mujer']",4.8
+"['run', 'boat']","['punto', 'chocar', 'barco']",1.2
+"['num', 'cow', 'field']","['num', 'vaca', 'campo']",2.4
+"['wet', 'child', 'enjoy', 'summer']","['niño', 'mojado', 'disfruta', 'verano']",1.8
+"['girl', 'driver', 'licens']","['chica', 'licencia', 'conducir']",2.6
+"['peopl', 'motorcycl', 'wear', 'race', 'gear', 'ride', 'around', 'racetrack']","['gent', 'motocicleta', 'llevan', 'equipo', 'carrera', 'recorren', 'pista', 'carrera']",3.8
+"['man', 'stand', 'ground', 'paintbrush']","['hombr', 'pie', 'suelo', 'pincel']",1.2
+"['kid', 'theater', 'watch', 'movi']","['niño', 'cine', 'viendo', 'película']",0.2
+"['two', 'woman', 'walk', 'sidewalk', 'store']","['do', 'mujer', 'caminan', 'acera', 'tienda']",3.8
+"['man', 'son', 'back']","['hombr', 'hijo', 'espalda']",2.4
+"['group', 'darkskin', 'peopl', 'walk', 'past', 'barb', 'wire']","['grupo', 'persona', 'piel', 'oscura', 'caminando', 'junto', 'alambr', 'púa']",0.4
+"['zombi', 'parad', 'around', 'eat', 'brain']","['zombi', 'desfilando', 'ahí', 'comiendo', 'cerebro']",3.4
+"['group', 'peopl', 'sit', 'beach', 'towel', 'watch', 'blue', 'angel']","['grupo', 'persona', 'sentada', 'playa', 'toalla', 'mirando', 'ángele', 'azul']",4.2
+"['three', 'peopl', 'meet', 'coffe']","['tre', 'persona', 'reúnen', 'tomar', 'café']",2.4
+"['young', 'girl', 'dirt', 'face', 'red', 'child', 'bike', 'background']","['joven', 'cara', 'sucia', 'bicicleta', 'roja', 'niño', 'fondo']",0.8
+"['line', 'scooter', 'park', 'middl', 'street']","['filum', 'scooter', 'estacionan', 'medio', 'call']",4.4
+"['man', 'hold', 'cat']","['hombr', 'sosteniendo', 'gato']",3.0
+"['cat', 'run', 'grass']","['gato', 'corriendo', 'hierba']",2.0
+"['two', 'boy', 'play', 'kick', 'ball', 'back', 'forth']","['do', 'chico', 'jugando', 'patear', 'pelota', 'lado']",3.0
+"['two', 'girl', 'run']","['do', 'chica', 'corriendo']",2.2
+"['littl', 'girl', 'white', 'blous', 'blue', 'pant', 'frolic', 'grass']","['niña', 'blusa', 'blanca', 'pantalon', 'azul', 'diviert', 'hierba']",1.8
+"['man', 'white', 'shirt', 'hat', 'play', 'guitar']","['hombr', 'camisa', 'blanca', 'sombrero', 'tocando', 'guitarra']",2.8
+"['black', 'hood', 'man', 'use', 'larg', 'magnifi', 'glass', 'look', 'booklet']","['hombr', 'capucha', 'negra', 'usando', 'gran', 'lupa', 'mirar', 'folleto']",2.8
+"['peopl', 'run', 'marathon']","['gent', 'corriendo', 'maratón']",5.0
+"['group', 'peopl', 'nervou', 'cross', 'water']","['grupo', 'persona', 'nerviosa', 'cruzar', 'agua']",2.2
+"['group', 'kid', 'jump', 'contest']","['grupo', 'niño', 'haciendo', 'concurso', 'salto']",1.2
+"['person', 'wear', 'fedora']","['persona', 'lleva', 'sombrero', 'fieltro']",1.6
+"['woman', 'man', 'embrac', 'watch', 'horror', 'movi']","['mujer', 'hombr', 'abrazan', 'mientra', 'ven', 'película', 'terror']",2.8
+"['man', 'blue', 'dress', 'shirt']","['hombr', 'camisa', 'vestir', 'azul']",1.8
+"['coupl', 'play', 'game', 'life']","['pareja', 'jugando', 'juego', 'vida']",2.6
+"['head', 'child', 'dark', 'glass', 'focu']","['cabeza', 'niño', 'gafa', 'oscura', 'enfocada']",0.2
+"['mainten', 'guy', 'repair', 'net', 'tenni', 'court']","['tipo', 'mantenimiento', 'reparando', 'red', 'cancha', 'teni']",2.4
+"['kid', 'sit', 'soccer', 'ball', 'outsid']","['niño', 'sienta', 'balón', 'fútbol', 'afuera']",4.2
+"['man', 'brown', 'coat', 'rub', 'nose']","['hombr', 'abrigo', 'marrón', 'frota', 'nariz']",2.2
+"['dog', 'chase', 'goos']","['perro', 'persiguiendo', 'ganso']",1.6
+"['small', 'child', 'play', 'letter', 'p']","['niño', 'pequeño', 'jugando', 'letra', 'p']",0.8
+"['brown', 'dog', 'jump']","['perro', 'marrón', 'saltando']",5.0
+"['group', 'teenag', 'red', 'shirt', 'smile']","['grupo', 'adolescent', 'camisa', 'roja', 'sonriendo']",1.2
+"['remain', 'banyan', 'tree', 'exhaust', 'daili', 'ritual', 'dragoon', 'men', 'everi', 'two', 'hour']","['permanecí', 'bajo', 'árbol', 'baniano', 'exhausto', 'ritual', 'diario', 'arrastrar', 'hombr', 'cada', 'do', 'hora']",3.0
+"['u', 'depend', 'school']","['eeuu', 'dependerá', 'escuela']",3.0
+"['there', 'also', 'string', 'made']","['cuerda', 'hecha']",0.0
+"['also', 'impli', 'may', 'paid', 'place', 'client']","['insinúa', 'pued', 'pagar', 'si', 'pueden', 'colocarl', 'client']",0.0
+"['one', 'time', 'well']","['hice', 'vez']",2.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",0.0
+"['need', 'worri']",['preocupart'],5.0
+[],"['debería', 'hacerlo']",3.0
+"['ask', 'bo', 'want']","['debería', 'preguntarl', 'jefe', 'quier', 'haga']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['necesita', 'leer', 'saber', 'gusta']",0.0
+"['depend', 'want', 'tank']","['depend', 'quiera', 'tener', 'tanqu']",2.0
+[],"['pued', 'hacerlo']",5.0
+[],"['debería', 'hacerlo']",1.0
+"['decid', 'want', 'get']","['decidir', 'quier', 'sacar']",4.0
+['suggest'],"['sugerencia', 'ust']",4.0
+"['want', 'start', 'room', 'largest', 'make', 'sure', 'straightest', 'start']","['quier', 'empezar', 'habitación', 'grand', 'asegurart', 'comienzo', 'recto']",1.0
+"['dont', 'want', 'derail', 'meet', 'key', 'speak']","['si', 'quier', 'descarrilar', 'reunión', 'clave', 'hablar']",1.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['desafortunadament', 'respuesta', 'pregunta', 'simplement', 'sabemo']",1.0
+"['soon', 'possibl']","['tan', 'pronto', 'posibl']",4.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",1.0
+"['answer', 'question', 'ye']","['respuesta', 'amba', 'pregunta']",5.0
+"['give', 'answer']","['dar', 'respuesta']",4.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['desafortunadament', 'respuesta', 'pregunta', 'simplement', 'sabemo']",4.0
+"['rule', 'doubt', 'throw']","['regla', 'caso', 'duda', 'tírala']",4.0
+"['good', 'idea']","['buena', 'idea']",4.0
+"['ye', 'probabl', 'good', 'idea', 'renew', 'passport']","['probablement', 'buena', 'idea', 'renovar', 'pasaport']",3.0
+"['probabl', 'depend', 'cut', 'meat']","['probablement', 'depend', 'cort', 'carn']",4.0
+"['good', 'idea']","['buena', 'idea']",0.0
+"['pretti', 'much']","['depend', 'bastant']",0.0
+"['ye', 'reason']","['razón', 'ello']",1.0
+"['tri', 'ask', 'employe']","['intentado', 'preguntarl', 'empleado']",4.0
+"['guy', 'make', 'waaaaay', 'complic']","['usted', 'haciendo', 'demasiado', 'complicado']",5.0
+"['dont', 'know']",['saberlo'],2.0
+"['two', 'thing', 'consid']","['do', 'cosa', 'considerar']",4.0
+"['work', 'slowli']","['trabaja', 'ello', 'lentament']",0.0
+"['buy', 'amazon', 'num']","['pued', 'comprarlo', 'amazona', 'num', 'dólare']",2.0
+"['coffe', 'simpli', 'pick', 'aluminum', 'pot', 'coffe', 'acid']","['café', 'simplement', 'recog', 'aluminio', 'cafetera', 'café', 'ácido']",1.0
+"['two', 'way', 'start', 'plung', 'drip']","['do', 'forma', 'empezar', 'hundiéndos', 'goteando']",0.0
+"['might', 'tri', 'varieti', 'find', 'one', 'click']","['probar', 'variedad', 'encontrar', 'encaj']",2.0
+"['good', 'idea']","['buena', 'idea']",5.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",1.0
+"['ye', 'mention', 'experi']","['debería', 'mencionar', 'experiencia']",3.0
+['understand'],"['entiendo', 'pued', 'hacer']",2.0
+"['take', 'look']","['echa', 'vistazo']",5.0
+"['id', 'say', 'primarili', 'depend', 'two', 'thing']","['diría', 'depend', 'principalment', 'do', 'cosa']",2.0
+[],"['pued', 'hacer']",1.0
+"['good', 'idea']","['buena', 'idea']",5.0
+"['answer', 'far', 'alreadi', 'good', 'id', 'like', 'add', 'map', 'switzerland']","['respuesta', 'ahora', 'buena', 'gustaría', 'añadir', 'mapa', 'suiza']",0.0
+"['similar', 'situat']","['situación', 'similar']",5.0
+"['ive', 'problem']","['mismo', 'problema']",5.0
+['maximum'],['máximo'],0.0
+"['sure', 'right', 'site', 'question']","['seguro', 'sitio', 'correcto', 'pregunta']",2.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",4.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['necesita', 'leer', 'saber', 'gusta']",0.0
+"['disclos', 'key', 'info']","['revelando', 'información', 'clave']",2.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",3.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",0.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",3.0
+"['problem', 'professor', 'deal']","['problema', 'profesor', 'lidiar']",1.0
+"['unusu', 'request']","['petición', 'inusu']",3.0
+"['much', 'depend', 'grant', 'question']","['depend', 'subvención', 'cuestión']",2.0
+['thing'],['mismo'],4.0
+"['affect', 'rate']","['afecta', 'calificacion']",0.0
+"['answer', 'question', 'probabl']","['respuesta', 'pregunta', 'probablement']",4.0
+"['dont', 'think', 'make', 'tremend', 'differ']","['creo', 'gran', 'diferencia']",4.0
+['depend'],['depend'],2.0
+"['there', 'lot']","['pueda', 'hacer', 'respecto']",2.0
+"['answer', 'question']","['respondido', 'propia', 'pregunta']",5.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",2.0
+"['good', 'idea']","['buena', 'idea']",2.0
+"['best', 'thing', 'know', 'stuff']","['mejor', 'pued', 'hacer', 'conoc', 'cosa']",0.0
+"['id', 'say', 'primarili', 'depend', 'two', 'thing']","['diría', 'depend', 'principalment', 'do', 'cosa']",2.0
+"['dont', 'know']",['saberlo'],0.0
+['thing'],['mismo'],2.0
+"['good', 'idea']","['buena', 'idea']",4.0
+"['right', 'path']","['camino', 'correcto']",4.0
+"['doesnt', 'answer', 'question']","['respond', 'pregunta']",1.0
+['proceed'],"['cómo', 'debo', 'proced']",4.0
+"['page', 'answer', 'question']","['página', 'respond', 'pregunta']",4.0
+['use'],"['pued', 'usarlo']",2.0
+"['realli', 'depend', 'employ', 'document']","['realment', 'depend', 'cómo', 'document', 'empleador']",2.0
+"['ive', 'problem']","['mismo', 'problema']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['necesita', 'leer', 'saber', 'gusta']",0.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",3.0
+"['ye', 'file', 'tax', 'return', 'canada']","['presentar', 'declaración', 'impuesto', 'canadá']",1.0
+"['dont', 'see', 'problem', 'whatsoev']","['veo', 'debería', 'haber', 'ningún', 'problema', 'absoluto']",5.0
+"['hope', 'look']","['espero', 'buscando']",1.0
+"['best', 'thing', 'know', 'stuff']","['mejor', 'pued', 'hacer', 'conoc', 'cosa']",0.0
+"['depend', 'dish', 'amen', 'stage', 'make', 'mistak']","['depend', 'plato', 'cuán', 'dócil', 'momento', 'comet', 'error']",2.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",2.0
+"['probabl', 'dont', 'chanc', 'moment']","['probablement', 'ninguna', 'oportunidad', 'momento']",0.0
+"['realli', 'doesnt', 'matter']","['realment', 'importa']",3.0
+"['dont', 'need', 'know', 'everyth']","['necesita', 'saberlo']",3.0
+"['think', 'your', 'look', 'mikey', 'num']","['creo', 'buscando', 'mikey', 'num']",3.0
+"['make', 'absolut', 'differ']","['ninguna', 'diferencia']",5.0
+"['think', 'fine', 'ask', 'question']","['creo', 'bien', 'hacer', 'pregunta']",5.0
+"['im', 'go', 'direct']","['voy', 'ser', 'directo', 'aquí']",4.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",1.0
+[],"['debería', 'hacerlo']",0.0
+"['there', 'lot']","['pueda', 'hacer', 'respecto']",5.0
+"['kind', 'insul']","['tipo', 'aislamiento']",0.0
+"['depend', 'entir', 'compani', 'contract']","['depend', 'totalment', 'empresa', 'contrato']",4.0
+"['answer', 'question']","['respondido', 'propia', 'pregunta']",5.0
+"['dont', 'think', 'there']","['creo', 'ninguno']",3.0
+['thing'],"['cosa', 'pued', 'hacer']",3.0
+"['tip', 'find', 'use']","['consejo', 'encuentro', 'útil']",3.0
+"['that', 'believ']",['creo'],2.0
+"['sure', 'dont']","['si', 'seguro', 'cómo', 'hacerlo', 'haga', 'absoluto']",1.0
+['head'],['cabeza'],0.0
+"['sure', 'dont']","['si', 'seguro', 'cómo', 'hacerlo', 'haga', 'absoluto']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['necesita', 'leer', 'saber', 'gusta']",0.0
+"['would', 'say', 'wouldnt', 'advis']","['diría', 'pued', 'hacerlo', 'aconsej']",2.0
+[],"['pued', 'hacer']",5.0
+"['sure', 'ive', 'done', 'trip']","['claro', 'hecho', 'mismo', 'viaj']",3.0
+['use'],"['pued', 'usarlo']",3.0
+[],"['cómo', 'hace']",5.0
+"['ive', 'locat', 'articl', 'might', 'help', 'httpwwwdsattorneycomqapseudonymsincontract']","['localizado', 'artículo', 'pued', 'ser', 'ayuda', 'httpwwwdsattorneycomqapseudonymsincontract']",3.0
+"['would', 'say', 'wouldnt', 'advis']","['diría', 'pued', 'hacerlo', 'aconsej']",2.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['desafortunadament', 'respuesta', 'pregunta', 'simplement', 'sabemo']",1.0
+"['sure', 'dont']","['si', 'seguro', 'cómo', 'hacerlo', 'haga', 'absoluto']",1.0
+"['also', 'matter', 'tast']","['cuestión', 'gusto']",5.0
+"['good', 'idea']","['buena', 'idea']",1.0
+"['answer', 'base', 'experi', 'teach', 'undergradu', 'math', 'u']","['respuesta', 'basa', 'experiencia', 'enseñando', 'matemática', 'estudiant', 'universitario', 'unido']",2.0
+"['thing', 'think']","['cosa', 'creo', 'debería', 'hacer']",4.0
+"['want', 'clean', 'area', 'first']","['querrá', 'limpiar', 'zona', 'primero']",0.0
+"['depend', 'want', 'tank']","['depend', 'quiera', 'tener', 'tanqu']",2.0
+"['coupl', 'option', 'could', 'consid']","['par', 'opcion', 'podría', 'considerar']",1.0
+"['dont', 'worri']",['preocupart'],3.0
+"['vietnames', 'citizen', 'need', 'visa', 'visit', 'usa']","['ciudadano', 'vietnamita', 'necesitan', 'visado', 'visitar', 'unido']",1.0
+"['depend', 'use']","['depend', 'cómo', 'use']",1.0
+"['dont', 'see', 'problem', 'whatsoev']","['veo', 'debería', 'haber', 'ningún', 'problema', 'absoluto']",5.0
+"['there', 'lot']","['pueda', 'hacer', 'respecto']",5.0
+"['got', 'right']","['entendido', 'bien']",5.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",0.0
+[],"['cómo', 'hace']",4.0
+"['similar', 'situat']","['situación', 'similar']",4.0
+"['lid', 'made']","['hecha', 'tapa']",0.0
+"['dont', 'need', 'visa']","['necesita', 'ningún', 'visado']",0.0
+"['problem', 'supervisor']","['problema', 'supervisor']",2.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",4.0
+"['two', 'thing', 'consid']","['do', 'cosa', 'considerar']",5.0
+"['depend', 'entir', 'compani', 'contract']","['depend', 'totalment', 'empresa', 'contrato']",3.0
+"['wood', 'probabl', 'isnt', 'rotten', 'worn']","['madera', 'probablement', 'podrida', 'sólo', 'desgastada']",3.0
+"['well', 'wouldnt', 'put', 'cv']","['bueno', 'pondría', 'currículum']",4.0
+"['great', 'one']",['gran'],1.0
+"['answer', 'question', 'ye']","['respuesta', 'amba', 'pregunta']",0.0
+"['ye', 'reason', 'propos']","['razón', 'hacer', 'propon']",2.0
+"['think', 'depend', 'program']","['creo', 'depend', 'programa']",2.0
+[],"['pued', 'hacer']",5.0
+"['think', 'isnt', 'gener', 'answer']","['creo', 'respuesta', 'gener']",4.0
+['thing'],"['cosa', 'pued', 'hacer']",5.0
+"['key', 'find', 'someth', 'work', 'goal']","['clave', 'encontrar', 'funcion', 'objetivo']",1.0
+"['dont', 'know']",['saberlo'],0.0
+"['think', 'youv', 'pretti', 'much', 'done', 'review']","['creo', 'hecho', 'revisión']",2.0
+"['thing', 'think']","['cosa', 'creo', 'debería', 'hacer']",0.0
+"['burn', 'calori', 'digest', 'protein', 'carbohydr', 'fat']","['queman', 'caloría', 'digerir', 'proteína', 'carbohidrato', 'grasa']",2.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",1.0
+"['got', 'right']","['entendido', 'bien']",5.0
+"['answer', 'question']","['respondido', 'propia', 'pregunta']",5.0
+['thing'],['mismo'],3.0
+"['ye', 'chemic', 'differ']","['diferencia', 'química']",0.0
+"['level', 'bit', 'flat', 'import']","['pueden', 'nivel', 'piso', 'important']",0.0
+"['would', 'look', 'u']","['miraría', 'eeuu']",2.0
+"['right', 'path']","['camino', 'correcto']",5.0
+['havent'],"['si', 'hecho', 'debería', 'hacerlo']",1.0
+"['ye', 'common']",['común'],3.0
+"['dont', 'think', 'there']","['creo', 'ninguno']",3.0
+"['look', 'set', 'want']","['parec', 'preparado', 'quier']",2.0
+"['problem', 'system', 'doesnt', 'account', 'peopl', 'could', 'care', 'le', 'money', 'titl']","['problema', 'sistema', 'cuenta', 'gent', 'importa', 'dinero', 'título']",1.0
+"['first', 'case', 'think', 'dont', 'need']","['primer', 'caso', 'creo', 'necesita']",1.0
+"['imposs', 'answer', 'question', 'without', 'form', 'check']","['impos', 'respond', 'pregunta', 'comprobación', 'formulario']",2.0
+"['need', 'add', 'resum', 'posit']","['necesita', 'añadir', 'currículum', 'único', 'puesto']",2.0
+"['work', 'slowli']","['trabaja', 'ello', 'lentament']",4.0
+"['need', 'bread', 'machin']","['necesita', 'máquina', 'pan']",0.0
+"['ye', 'possibl', 'publish', 'paper', 'model', 'analysi']","['posibl', 'publicar', 'artículo', 'análisi', 'modelo']",1.0
+"['base', 'answer', 'know', 'want']","['sólo', 'basar', 'respuesta', 'sabe', 'quier']",1.0
+"['ye', 'mention', 'experi']","['debería', 'mencionar', 'experiencia']",2.0
+"['think', 'great', 'test', 'conduct']","['creo', 'genial', 'hecho', 'prueba']",2.0
+"['dont', 'know']",['saberlo'],0.0
+"['ye', 'rule']",['regla'],1.0
+['goal'],"['cuál', 'objetivo']",5.0
+"['im', 'go', 'go', 'limb']","['voy', 'arriesgarm']",2.0
+"['long', 'stay', 'visa', 'switzerland', 'valid', 'need', 'transit', 'visa']","['si', 'visado', 'larga', 'duración', 'suiza', 'válido', 'entonc', 'necesitará', 'visado', 'tránsito']",2.0
+"['point', 'think']","['cuanto', 'punto', 'pensar']",5.0
+"['dont', 'perfect', 'everi', 'answer']","['ahora', 'ser', 'perfecto', 'cada', 'respuesta']",2.0
+"['im', 'afraid', 'luck', 'one']","['temo', 'suert', 'caso']",5.0
+"['decid', 'get', 'other']","['decidir', 'debe', 'hacer', 'debe', 'hacer', 'hagan', 'demá']",0.0
+"['vari', 'situat']","['varía', 'según', 'situación']",4.0
+['thing'],['mismo'],4.0
+['thing'],['mismo'],4.0
+"['right', 'path']","['camino', 'correcto']",0.0
+"['primerpaint', 'work']","['imprimaciónpintura', 'funcionará']",2.0
+"['best', 'thing', 'know', 'stuff']","['mejor', 'pued', 'hacer', 'conoc', 'cosa']",2.0
+"['also', 'matter', 'tast']","['cuestión', 'gusto']",5.0
+"['similar', 'situat']","['situación', 'similar']",2.0
+['use'],"['pued', 'usarlo']",3.0
+"['decid', 'want', 'get']","['decidir', 'quier', 'sacar']",4.0
+['depend'],['depend'],1.0
+['problem'],"['mismo', 'problema']",5.0
+"['sometim', 'realli', 'want', 'might', 'need', 'pay', 'agenc', 'get', 'place']","['algún', 'momento', 'si', 'realment', 'quier', 'pued', 'pagar', 'agencia', 'consiga', 'lugar']",2.0
+"['dont', 'need', 'know', 'everyth']","['necesita', 'saberlo']",1.0
+"['also', 'use', 'keep', 'consist', 'stori']","['útil', 'manten', 'consistencia', 'historia']",2.0
+"['think', 'habit']","['creo', 'sólo', 'hábito']",1.0
+"['good', 'idea']","['buena', 'idea']",4.0
+"['im', 'think', 'bad', 'idea']","['creo', 'mala', 'idea']",5.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",1.0
+['problem'],['problema'],4.0
+"['unfortun', 'answer', 'question', 'simpli', 'know']","['desafortunadament', 'respuesta', 'pregunta', 'simplement', 'sabemo']",2.0
+"['unfortun', 'question', 'answer', 'full', 'gener']","['desafortunadament', 'pregunta', 'pued', 'ser', 'respondida', 'totalidad']",4.0
+"['would', 'person', 'bewar', 'motley', 'fool']","['personalment', 'cuidaría', 'tonto', 'múltipl']",2.0
+"['think', 'isnt', 'gener', 'answer']","['creo', 'respuesta', 'gener']",4.0
+"['good', 'idea']","['buena', 'idea']",5.0
+"['dont', 'need', 'visa']","['necesita', 'ningún', 'visado']",0.0
+"['decid', 'want', 'get']","['decidir', 'quier', 'sacar']",0.0
+['problem'],"['mismo', 'problema']",5.0
+"['answer', 'question', 'probabl']","['respuesta', 'pregunta', 'probablement']",4.0
+[],"['debería', 'hacerlo']",1.0
+['problem'],"['mismo', 'problema']",4.0
+"['hope', 'look']","['espero', 'buscando']",4.0
+"['two', 'thing', 'consid']","['do', 'cosa', 'considerar']",5.0
+"['pretti', 'much']","['depend', 'bastant']",5.0
+['thing'],"['cosa', 'pued', 'hacer']",4.0
+"['answer', 'similar', 'question', 'two', 'stage']","['respuesta', 'toda', 'pregunta', 'similar', 'do', 'etapa']",1.0
+"['imposs', 'answer', 'question', 'without', 'form', 'check']","['impos', 'respond', 'pregunta', 'comprobación', 'formulario']",0.0
+['thing'],"['cosa', 'pued', 'hacer']",3.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",4.0
+"['possibl', 'reason']","['una', 'cuanta', 'razon', 'posibl']",3.0
+"['three', 'option']","['tre', 'opcion']",5.0
+"['think', 'way']","['así', 'piénsalo', 'manera']",5.0
+"['mayb', 'could', 'work']","['tal', 'vez', 'podría', 'funcionar']",5.0
+"['depend', 'want', 'next', 'want']","['depend', 'quiera', 'hacer', 'continuación', 'dónde', 'quiera', 'hacerlo']",1.0
+"['microwav', 'would', 'best', 'bet']","['microonda', 'mejor', 'apuesta']",0.0
+"['u', 'depend', 'school']","['eeuu', 'dependerá', 'escuela']",4.0
+"['good', 'idea']","['buena', 'idea']",1.0
+"['thing', 'think']","['cosa', 'creo', 'debería', 'hacer']",4.0
+"['ive', 'problem']","['mismo', 'problema']",3.0
+"['good', 'idea']","['buena', 'idea']",5.0
+"['realiz', 'alreadi', 'accept', 'answer', 'figur', 'would', 'add', 'num', 'cent']","['di', 'cuenta', 'respuesta', 'aceptada', 'creo', 'añadiría', 'do', 'centavo']",5.0
+"['ye', 'reason', 'propos']","['razón', 'hacer', 'propon']",0.0
+"['ye', 'least', 'one', 'knowledg']","['meno', 'sepa']",1.0
+"['dont', 'worri']",['preocupart'],0.0
+"['test', 'tell', 'seal']","['ninguna', 'prueba', 'pueda', 'decirt', 'si', 'sellado']",0.0
+"['ye', 'make', 'résumé']","['debería', 'hacer', 'currículum']",0.0
+"['shouldnt', 'feel', 'oblig']","['debería', 'sentir', 'ninguna', 'obligación', 'absoluto']",0.0
+"['ive', 'problem']","['mismo', 'problema']",4.0
+"['may', 'experi', 'find', 'like']","['pued', 'experimentar', 'encontrar', 'gusta']",5.0
+"['answer', 'question', 'probabl']","['respuesta', 'pregunta', 'probablement']",1.0
+"['key', 'thing', 'realiz', 'job', 'make', 'peopl', 'work']","['clave', 'dars', 'cuenta', 'trabajo', 'hacer', 'gent', 'haga', 'trabajo']",1.0
+"['direct', 'answer', 'question', 'someth', 'consid']","['respuesta', 'directa', 'pregunta', 'sino', 'considerar']",4.0
+"['two', 'possibl', 'caus']","['do', 'posibl', 'causa']",1.0
+"['agre', 'comment']","['acuerdo', 'comentario']",5.0
+"['answer', 'question', 'ye']","['respuesta', 'amba', 'pregunta']",3.0
+"['rather', 'depend', 'countri', 'your']","['depend', 'bien', 'paí']",5.0
+"['terribl', 'idea']","['idea', 'terribl']",5.0
+"['vivendi', 'share', 'close', 'num', 'percent', 'num', 'euro', 'pari', 'fall', 'num', 'percent', 'monday']","['accion', 'vivendi', 'cerraron', 'num', 'ciento', 'num', 'euro', 'parí', 'despué', 'haber', 'caído', 'num', 'ciento', 'lune']",1.4
+"['bremer', 'said', 'one', 'initi', 'launch', 'usnum', 'million', 'nationwid', 'program', 'next', 'two', 'week', 'clean', 'neighborhood', 'build', 'commun', 'project']","['bremer', 'dijo', 'iniciativa', 'lanzar', 'programa', 'nacion', 'num', 'millon', 'dólare', 'próxima', 'do', 'semana', 'limpiar', 'barrio', 'construir', 'proyecto', 'comunitario']",3.6
+"['governor', 'gray', 'davi', 'estim', 'yesterday', 'fire', 'could', 'cost', 'nearli', 'num', 'billion']","['gobernador', 'gray', 'davi', 'estimó', 'ayer', 'incendio', 'podrían', 'costar', 'casi', 'num', 'mil', 'millon', 'dólare']",3.5
+"['american', 'express', 'corp', 'pledg', 'least', 'num', 'million', 'num', 'million', 'need']","['american', 'express', 'corp', 'prometido', 'meno', 'num', 'millon', 'dólare', 'num', 'millon', 'necesitan']",3.2
+"['claudett', 'first', 'hurrican', 'atlant', 'storm', 'season', 'hit', 'midtexa', 'coast', 'juli', 'num', 'nummph', 'wind']","['claudett', 'primer', 'huracán', 'temporada', 'tormenta', 'atlántico', 'golpeó', 'costa', 'texa', 'num', 'julio', 'viento', 'num', 'mph']",4.0
+"['result', 'num', 'u', 'soft', 'drink', 'maker', 'pepsico', 'inc', 'nyse', 'pep', 'news', 'peopl', 'like', 'spotlight']","['resultado', 'fabricant', 'refresco', 'número', 'num', 'eeuu', 'pepsico', 'inc', 'nyse', 'pep', 'noticia', 'gent', 'probabl', 'punto', 'mira']",2.0
+"['taylor', 'aid', 'warn', 'abrupt', 'departur', 'could', 'trigger', 'chao', 'view', 'share', 'mani', 'liberia', 'privat', 'even', 'mediat']","['ayudant', 'taylor', 'advierten', 'partida', 'abrupta', 'podría', 'desencadenar', 'cao', 'opinión', 'comparten', 'liberia', 'privado', 'incluso', 'mediador']",3.6
+"['odett', 'first', 'form', 'caribbean', 'sea', 'decemb', 'center', 'said']","['odett', 'primera', 'formars', 'mar', 'carib', 'diciembr', 'dijo', 'centro']",4.2
+"['aflcio', 'wait', 'octob', 'decid', 'endors', 'candid']","['aflcio', 'espera', 'octubr', 'decidir', 'si', 'apoyará', 'candidato']",4.0
+"['develop', 'consult', 'num', 'leader', 'academia', 'industri', 'govern', 'public']","['desarrollado', 'consulta', 'num', 'lídere', 'academia', 'industria', 'gobierno', 'público']",3.25
+"['local', 'polic', 'author', 'treat', 'explos', 'crimin', 'matter', 'noth', 'rule']","['autoridad', 'policía', 'local', 'tratando', 'explosión', 'asunto', 'crimin', 'descartado']",3.4
+"['chiron', 'alreadi', 'nearli', 'num', 'percent', 'accept', 'powderject', 'sharehold']","['quirón', 'casi', 'num', 'ciento', 'aceptación', 'accionista', 'powderject']",3.667
+"['believ', 'fulli', 'prepar', 'roll', 'touchscreen', 'machin', 'num', 'presidenti', 'primari', 'said', 'gill', 'w', 'burger', 'state', 'board', 'elect', 'chairman']","['creemo', 'totalment', 'preparado', 'desplegar', 'máquina', 'pantalla', 'táctil', 'primaria', 'presidencial', 'num', 'dijo', 'gill', 'w', 'burger', 'president', 'junta', 'estat', 'eleccion']",3.75
+"['analyst', 'expect', 'earn', 'num', 'cent', 'share', 'revenu', 'num', 'billion', 'thomson', 'first', 'call', 'say']","['analista', 'esperaban', 'ganancia', 'num', 'centavo', 'acción', 'ingreso', 'num', 'millon', 'dólare', 'según', 'thomson', 'first', 'call']",1.2
+"['anoth', 'seriou', 'condit', 'northwest', 'medic', 'center', 'springdal']","['grave', 'centro', 'médico', 'northwest', 'springdal']",3.8
+"['sean', 'harrigan', 'presid', 'california', 'public', 'employe', 'retir', 'system', 'also', 'suggest', 'pare', 'nyse', 'nummemb', 'board', 'chang', 'composit', 'make', 'account']","['harrigan', 'president', 'sistema', 'jubilación', 'empleado', 'público', 'california', 'sugirió', 'reducir', 'junta', 'num', 'miembro', 'bolsa', 'nueva', 'york', 'cambiar', 'composición', 'hacerla', 'respons']",3.4
+"['swedish', 'central', 'bank', 'also', 'meet', 'wednesday', 'wide', 'expect', 'announc', 'cut', 'thursday']","['banco', 'central', 'sueco', 'reunió', 'miércol', 'espera', 'anunci', 'recort', 'juev']",3.2
+"['num', 'chevrolet', 'taho', 'found', 'abandon', 'virginia', 'beach', 'va', 'park', 'lot', 'june', 'num']","['chevrolet', 'taho', 'num', 'encontrado', 'abandonado', 'estacionamiento', 'virginia', 'beach', 'virginia', 'num', 'junio']",3.6
+"['heatley', 'sixth', 'leagu', 'goal', 'last', 'season', 'num', 'ninth', 'point', 'num']","['heatley', 'sexto', 'liga', 'gole', 'temporada', 'pasada', 'num', 'noveno', 'punto', 'num']",3.0
+"['toni', 'feel', 'well', 'spur', 'coach', 'gregg', 'popovich', 'said']","['toni', 'bien', 'dijo', 'entrenador', 'spur', 'gregg', 'popovich']",1.6
+"['electron', 'data', 'system', 'corp', 'thursday', 'said', 'secur', 'exchang', 'commiss', 'ask', 'compani', 'document', 'relat', 'larg', 'contract', 'u', 'navi']","['electron', 'data', 'system', 'corp', 'juev', 'dijo', 'comisión', 'valor', 'bolsa', 'pedido', 'compañía', 'documento', 'relacionado', 'gran', 'contrato', 'marina', 'unido']",3.2
+"['well', 'dolphin', 'scheme', 'chao', 'allow', 'foreign', 'compani', 'engag', 'damag', 'log', 'fish', 'oper', 'without', 'proper', 'monitor', 'export', 'control']","['ademá', 'plan', 'delfin', 'cao', 'permitido', 'empresa', 'extranjera', 'dediquen', 'operacion', 'perjudicial', 'tala', 'pesca', 'debida', 'supervisión', 'control', 'exportacion']",3.8
+"['next', 'court', 'session', 'threejudg', 'tribun', 'announc', 'verdict', 'midfebruari']","['próxima', 'sesión', 'tribun', 'tribun', 'tre', 'juec', 'anunci', 'veredicto', 'mediado', 'febrero']",4.2
+"['consensu', 'among', 'wall', 'street', 'analyst', 'loss', 'num', 'cent', 'share']","['consenso', 'analista', 'wall', 'street', 'pérdida', 'num', 'centavo', 'acción']",3.0
+"['civilian', 'unemploy', 'rate', 'improv', 'margin', 'last', 'month', 'slip', 'num', 'percent', 'even', 'compani', 'slash', 'payrol', 'num']","['tasa', 'desempleo', 'civil', 'mejoró', 'ligerament', 'me', 'pasado', 'bajando', 'num', 'ciento', 'incluso', 'empresa', 'redujeron', 'nómina', 'num']",4.0
+"['moffitt', 'said', 'result', 'need', 'replic', 'anoth', 'studi', 'test', 'individu', 'presenc', 'long', 'short', 'version', 'gene', 'pursu']","['moffitt', 'dijo', 'resultado', 'deben', 'ser', 'replicado', 'estudio', 'examinar', 'individuo', 'detectar', 'presencia', 'version', 'larga', 'corta', 'gen']",4.75
+"['compens', 'committe', 'prohibit', 'secur', 'industri', 'director', 'sit']","['comité', 'compensación', 'prohibirá', 'director', 'industria', 'valor', 'sienten']",3.533
+"['q', 'buy', 'coverag', 'prescript', 'drug', 'right', 'away']","['p', 'puedo', 'comprar', 'cobertura', 'medicamento', 'recetado', 'inmediato']",1.25
+"['share', 'mandalay', 'close', 'eight', 'cent', 'num', 'earn', 'announc']","['accion', 'mandalay', 'cerraron', 'ocho', 'centavo', 'num', 'dólare', 'anunciaran', 'ganancia']",4.0
+"['num', 'build', 'owner', 'port', 'author', 'new', 'york', 'new', 'jersey', 'issu', 'guidelin', 'upgrad', 'fireproof', 'thick', 'num', 'inch']","['num', 'propietario', 'edificio', 'autoridad', 'portuaria', 'nueva', 'york', 'nueva', 'jersey', 'publicaron', 'directric', 'mejorar', 'resistencia', 'fuego', 'grosor', 'num', 'pulgada']",3.0
+"['dollar', 'last', 'num', 'euro', 'close', 'strongest', 'level', 'sinc', 'april', 'num']","['dólar', 'mantuvo', 'num', 'dólare', 'euro', 'cerca', 'nivel', 'alto', 'num', 'abril']",2.6
+"['singl', 'currenc', 'rose', 'far', 'num', 'yen', 'match', 'record', 'high', 'hit', 'shortli', 'euro', 'launch', 'januari', 'num']","['moneda', 'única', 'subió', 'num', 'yene', 'igualando', 'récord', 'éxito', 'despué', 'lanzamiento', 'euro', 'enero', 'num']",3.5
+"['new', 'castl', 'counti', 'woman', 'becom', 'first', 'delawar', 'patient', 'contract', 'west', 'nile', 'viru', 'year', 'state', 'depart', 'health', 'report']","['mujer', 'condado', 'new', 'castl', 'convertido', 'primera', 'pacient', 'delawar', 'contraer', 'viru', 'nilo', 'occident', 'año', 'informó', 'departamento', 'salud']",1.5
+"['also', 'reaffirm', 'wish', 'resolv', 'north', 'korean', 'nuclear', 'crisi', 'peac']","['reafirmó', 'deseo', 'resolv', 'crisi', 'nuclear', 'corea', 'nort', 'forma', 'pacífica']",2.0
+"['rebel', 'captur', 'said', 'num', 'insurg', 'involv', 'attack']","['rebeld', 'capturado', 'dijo', 'num', 'insurgent', 'involucrado', 'ataqu']",3.5
+"['kyi', 'un', 'envoy', 'say', 'japan', 'add', 'grow', 'intern', 'pressur', 'say', 'halt', 'hefti', 'econom', 'aid', 'unless', 'suu', 'kyi', 'freed']","['kyi', 'enviado', 'onu', 'dice', 'japón', 'suma', 'crecient', 'presión', 'internacion', 'diciendo', 'detendrá', 'cuantiosa', 'ayuda', 'económica', 'meno', 'suu', 'kyi', 'liberada']",3.0
+"['walmart', 'kohl', 'corp', 'famili', 'dollar', 'store', 'inc', 'big', 'lot', 'inc', 'among', 'merchant', 'post', 'may', 'sale', 'fell', 'wall', 'street', 'modest', 'expect']","['walmart', 'kohl', 'corp', 'famili', 'dollar', 'store', 'inc', 'big', 'lot', 'inc', 'comerciant', 'anunciaron', 'venta', 'mayo', 'debajo', 'modesta', 'expectativa', 'wall', 'street']",4.75
+"['mr', 'eddington', 'warn', 'yesterday', 'futur', 'airlin', 'hand', 'negoti']","['sr', 'eddington', 'advirtió', 'ayer', 'futuro', 'aerolínea', 'mano', 'negociador']",3.4
+"['kid', 'wonder', 'physic', 'condit', 'right', 'said', 'press', 'brief', 'hospit']","['ambo', 'niño', 'condición', 'física', 'maravillosa', 'ahora', 'mismo', 'dijo', 'rueda', 'prensa', 'hospit']",3.4
+"['cell', 'surfac', 'foreign', 'compon', 'recognis', 'cell', 'realis', 'infect', 'kill']","['superfici', 'célula', 'component', 'extraño', 'reconocido', 'célula', 'luego', 'dan', 'cuenta', 'infectada', 'matan']",4.25
+"['trade', 'loral', 'halt', 'yesterday', 'share', 'close', 'monday', 'num']","['comercio', 'loral', 'detuvo', 'ayer', 'accion', 'cerraron', 'lune', 'num', 'dólare']",3.8
+"['knox', 'counti', 'health', 'depart', 'follow', 'nation', 'center', 'diseas', 'control', 'prevent', 'protocol', 'contain', 'infect']","['departamento', 'salud', 'condado', 'knox', 'siguiendo', 'protocolo', 'centro', 'control', 'prevención', 'enfermedad', 'conten', 'infección']",3.0
+"['school', 'chancellor', 'joel', 'klein', 'said', 'push', 'higher', 'standard', 'account', 'show', 'result']","['cancil', 'escuela', 'joel', 'klein', 'dijo', 'presión', 'mayor', 'estándar', 'responsabilidad', 'dando', 'resultado']",3.0
+"['one', 'wit', 'told', 'anatolian', 'saw', 'plane', 'fire', 'still', 'air']","['testigo', 'dijo', 'anatolia', 'vio', 'avión', 'llama', 'mientra', 'aún', 'air']",4.6
+"['propos', 'system', 'would', 'take', 'fewer', 'fewer', 'vote', 'overcom', 'filibust']","['propuso', 'sistema', 'necesitarían', 'cada', 'vez', 'meno', 'voto', 'superar', 'filibustero']",3.0
+"['hormon', 'replac', 'therapi', 'combin', 'estrogen', 'progestin', 'doubl', 'woman', 'risk', 'breast', 'cancer', 'british', 'studi', 'million', 'woman', 'found']","['terapia', 'reemplazo', 'hormon', 'combina', 'estrógeno', 'progestágeno', 'duplica', 'riesgo', 'mujer', 'padec', 'cáncer', 'mama', 'según', 'estudio', 'británico', 'millón', 'mujer']",4.25
+"['barbini', 'comment', 'came', 'tuesday', 'second', 'day', 'ministeri', 'confer', 'expo', 'agricultur', 'scienc', 'technolog']","['comentario', 'barbini', 'llegaron', 'mart', 'segundo', 'día', 'conferencia', 'ministeri', 'expo', 'ciencia', 'tecnología', 'agrícola']",1.8
+"['yesterday', 'share', 'close', 'num', 'cent', 'num', 'percent', 'num']","['ayer', 'accion', 'cerraron', 'num', 'centavo', 'num', 'ciento', 'num', 'dólare']",2.8
+"['lawtey', 'first', 'faithbas', 'program', 'florida', 'prison', 'system']","['lawtey', 'primer', 'programa', 'basado', 'fe', 'sistema', 'penitenciario', 'florida']",1.25
+"['transact', 'grant', 'handspr', 'stockhold', 'num', 'share', 'palmand', 'share', 'palmsourcefor', 'share', 'handspr', 'common', 'stock']","['transacción', 'otorgará', 'accionista', 'handspr', 'num', 'acción', 'palmi', 'ninguna', 'acción', 'palmsourcepor', 'cada', 'acción', 'accion', 'ordinaria', 'handspr']",3.75
+"['giant', 'rock', 'first', 'observ', 'august', 'num', 'lincoln', 'nearearth', 'asteroid', 'research', 'program', 'base', 'socorro', 'new', 'mexico']","['roca', 'gigant', 'observada', 'primera', 'vez', 'num', 'agosto', 'programa', 'investigación', 'asteroid', 'cercano', 'tierra', 'lincoln', 'sede', 'socorro', 'nuevo', 'méxico']",3.75
+"['need', 'chang', 'old', 'habit', 'serious', 'rethink', 'businessasusu']","['cambiar', 'viejo', 'hábito', 'repensar', 'seriament', 'negocio', 'costumbr']",3.75
+"['despic', 'act', 'commit', 'killer', 'whose', 'faith', 'hate', 'bush', 'said', 'ad', 'unit', 'state', 'find', 'killer']","['despreci', 'acto', 'cometido', 'asesino', 'cuya', 'única', 'fe', 'odio', 'dijo', 'bush', 'añadiendo', 'unido', 'encontrará', 'asesino']",3.5
+"['total', 'num', 'woman', 'enrol', 'academi', 'report', 'said']","['total', 'num', 'mujer', 'inscrita', 'academia', 'según', 'inform']",4.6
+"['nation', 'concern', 'touch', 'virtual', 'everi', 'american', 'abraham', 'said']","['preocupación', 'nacion', 'afectará', 'prácticament', 'estadounidens', 'dijo', 'abraham']",3.25
+"['unit', 'state', 'num', 'percent', 'woman', 'smoke']","['unido', 'num', 'ciento', 'toda', 'mujer', 'fuman']",1.333
+"['margin', 'error', 'plu', 'minu', 'num', 'percentag', 'point']","['margen', 'error', 'meno', 'num', 'punto', 'porcentual']",2.5
+"['share', 'moni', 'gain', 'num', 'num', 'num', 'afterhour', 'trade', 'instinet']","['accion', 'moni', 'ganando', 'num', 'num', 'num', 'comercio', 'horario', 'instinet']",3.25
+"['diana', 'lowest', 'ebb', 'wrote', 'letter', 'paul', 'burrel', 'claim', 'plot', 'kill']","['diana', 'punto', 'bajo', 'escribió', 'carta', 'paul', 'burrel', 'afirmando', 'complot', 'matarla']",3.0
+"['gillespi', 'sent', 'letter', 'cb', 'presid', 'lesli', 'moonv', 'ask', 'histor', 'review', 'disclaim']","['gillespi', 'envió', 'carta', 'presidenta', 'cb', 'lesli', 'moonv', 'pidiendo', 'revisión', 'histórica', 'descargo', 'responsabilidad']",3.6
+"['let', 'show', 'wont', 'let', 'said', 'marc', 'blondel', 'leader', 'forc', 'ouvrier', 'union']","['demostremo', 'dejaremo', 'ir', 'dijo', 'marc', 'blondel', 'líder', 'sindicato', 'forc', 'ouvrier']",2.2
+"['contrari', 'peoplesoft', 'manag', 'would', 'believ', 'oracl', 'intend', 'fulli', 'support', 'peoplesoft', 'custom', 'product', 'mani', 'year', 'come']","['contrariament', 'dirección', 'peoplesoft', 'quier', 'hacer', 'creer', 'oracl', 'intención', 'apoyar', 'plenament', 'client', 'producto', 'peoplesoft', 'año']",4.8
+"['mexican', 'law', 'bounti', 'hunt', 'consid', 'form', 'kidnap']","['según', 'legislación', 'mexicana', 'caza', 'recompensa', 'considera', 'forma', 'secuestro']",4.0
+"['announc', 'made', 'intern', 'broadcast', 'convent', 'ibc', 'amsterdam']","['anuncio', 'hicieron', 'convención', 'internacion', 'radiodifusión', 'ibc', 'amsterdam']",3.4
+"['keyword', 'support', 'chines', 'languag', 'web', 'portal']","['palabra', 'clave', 'apoyada', 'portal', 'web', 'lengua', 'china']",3.2
+"['consensu', 'estim', 'analyst', 'poll', 'thomson', 'first', 'call', 'call', 'profit', 'num', 'per', 'share']","['estimación', 'consensuada', 'analista', 'encuestado', 'thomson', 'first', 'call', 'pedía', 'beneficio', 'num', 'dólare', 'acción']",2.5
+"['initi', 'autopsi', 'report', 'show', 'die', 'dehydr', 'hyperthermia', 'suffoc']","['inform', 'inicial', 'autopsia', 'muestran', 'murieron', 'deshidratación', 'hipertermia', 'asfixia']",3.25
+"['author', 'appeal', 'public', 'friday', 'come', 'forward', 'provid', 'could', 'key', 'solv', 'sniperstyl', 'shoot', 'kill', 'three', 'peopl', 'outsid', 'area', 'conveni', 'store']","['autoridad', 'apelaron', 'público', 'viern', 'present', 'proporcion', 'podría', 'ser', 'clave', 'resolv', 'tiroteo', 'estilo', 'francotirador', 'matado', 'tre', 'persona', 'tienda', 'conveniencia', 'área']",3.8
+"['second', 'come', 'hp', 'num', 'percent', 'num', 'billion', 'num', 'percent']","['segundo', 'lugar', 'vien', 'hp', 'num', 'ciento', 'num', 'millon', 'dólare', 'num', 'ciento']",4.4
+"['u', 'forc', 'recent', 'apprehend', 'num', 'suspect', 'foreign', 'milit', 'near', 'syrian', 'border', 'interrog']","['fuerza', 'estadounidens', 'detenido', 'recientement', 'num', 'presunto', 'militant', 'extranjero', 'cerca', 'frontera', 'siria', 'ahora', 'interrogando']",3.5
+"['compar', 'profit', 'num', 'million', 'breakeven', 'num', 'billion', 'revenu', 'period', 'last', 'year']","['compara', 'ganancia', 'num', 'millón', 'dólare', 'punto', 'equilibrio', 'num', 'millon', 'dólare', 'ingreso', 'mismo', 'período', 'año', 'pasado']",1.5
+"['bolivia', 'armi', 'fought', 'stop', 'column', 'protest', 'stream', 'foodstarv', 'capit', 'wednesday', 'popular', 'upris', 'presid', 'spread']","['ejército', 'boliviano', 'luchó', 'impedir', 'columna', 'manifestant', 'llegaran', 'capit', 'hambrienta', 'alimento', 'miércol', 'mientra', 'extendía', 'levantamiento', 'popular', 'president']",2.8
+"['anum', 'come', 'printer', 'scanner', 'copier', 'num']","['anum', 'vien', 'impresora', 'escáner', 'copiadora', 'num', 'dólare']",3.6
+"['first', 'num', 'second', 'young', 'enter', 'ring', 'famili', 'knew', 'uneven', 'match', 'meyer', 'said']","['primero', 'num', 'segundo', 'despué', 'young', 'entrara', 'ring', 'familia', 'supo', 'partido', 'desigu', 'dijo', 'meyer']",4.2
+"['singapor', 'report', 'suspect', 'sar', 'case', 'wednesday', 'offici', 'quarantin', 'num', 'peopl', 'contact', 'taiwanes', 'patient']","['singapur', 'informó', 'miércol', 'ningún', 'caso', 'sospechoso', 'sar', 'autoridad', 'pusieron', 'cuarentena', 'num', 'persona', 'contacto', 'pacient', 'taiwané']",3.0
+"['downstream', 'mount', 'vernon', 'skagit', 'river', 'expect', 'crest', 'num', 'foot', 'num', 'foot', 'flood', 'stage', 'tonight', 'burk', 'said']","['agua', 'abajo', 'mount', 'vernon', 'esperaba', 'río', 'skagit', 'llegara', 'cima', 'num', 'pie', 'num', 'pie', 'encima', 'etapa', 'inundación', 'noch', 'dijo', 'burk']",3.0
+"['monday', 'dow', 'declin', 'num', 'num', 'percent', 'num', 'shed', 'num', 'percent', 'last', 'week']","['lune', 'dow', 'bajó', 'num', 'num', 'ciento', 'num', 'perdido', 'num', 'ciento', 'semana', 'pasada']",1.6
+"['injur', 'taken', 'hospit', 'jefferson', 'citi', 'columbia', 'colleg', 'town', 'num', 'mile', 'north']","['herido', 'llevado', 'hospital', 'jefferson', 'citi', 'columbia', 'ciudad', 'universitaria', 'una', 'num', 'milla', 'nort']",4.0
+"['dollar', 'num', 'yen', 'japanes', 'currenc', 'num', 'percent']","['dólar', 'num', 'yene', 'frent', 'moneda', 'japonesa', 'subida', 'num', 'ciento']",1.333
+"['addit', 'oconnor', 'rehnquist', 'major', 'opinion', 'join', 'justic', 'david', 'souter', 'ruth', 'bader', 'ginsburg', 'stephen', 'breyer']","['ademá', 'oconnor', 'opinión', 'mayoritaria', 'rehnquist', 'sumaron', 'juec', 'david', 'souter', 'ruth', 'bader', 'ginsburg', 'stephen', 'breyer']",3.6
+"['martin', 'num', 'freed', 'today', 'serv', 'two', 'third', 'fiveyear', 'sentenc', 'manslaught', 'numyearold', 'fred', 'barra']","['martin', 'num', 'año', 'liberado', 'hoy', 'despué', 'cumplir', 'do', 'tercio', 'condena', 'cinco', 'año', 'homicidio', 'fred', 'barra', 'num', 'año']",3.0
+"['idec', 'sharehold', 'would', 'num', 'percent', 'stock', 'combin', 'compani', 'biogen', 'sharehold', 'remain', 'num', 'percent']","['accionista', 'idec', 'poseerían', 'num', 'ciento', 'accion', 'compañía', 'combinada', 'accionista', 'biogen', 'num', 'ciento', 'restant']",3.0
+"['nonetheless', 'opensourc', 'guru', 'insist', 'attack', 'wrong', 'danger', 'goal']","['embargo', 'gurú', 'código', 'abierto', 'insistió', 'ataqu', 'mal', 'peligroso', 'objetivo']",3.5
+"['frank', 'quattron', 'former', 'credit', 'suiss', 'first', 'boston', 'technolog', 'investmentbank', 'guru', 'reportedli', 'plead', 'guilti', 'tuesday', 'charg', 'obstruct', 'justic', 'wit', 'tamper']","['frank', 'quattron', 'ex', 'gurú', 'banca', 'inversión', 'tecnología', 'credit', 'suiss', 'first', 'boston', 'declaró', 'inocent', 'mart', 'cargo', 'obstrucción', 'justicia', 'manipulación', 'testigo']",4.0
+"['bluechip', 'dow', 'jone', 'industri', 'averag', 'dji', 'fell', 'num', 'point', 'num', 'percent', 'num', 'give', 'num', 'percent', 'earlier']","['promedio', 'industri', 'dow', 'jone', 'primera', 'categoría', 'dji', 'cayó', 'num', 'punto', 'num', 'ciento', 'num', 'despué', 'haber', 'cedido', 'num', 'ciento']",2.2
+"['dow', 'jone', 'industri', 'averag', 'end', 'day', 'num', 'num', 'advanc', 'num', 'wednesday']","['promedio', 'industri', 'dow', 'jone', 'terminó', 'día', 'caída', 'num', 'num', 'despué', 'avanzar', 'num', 'miércol']",3.4
+"['perri', 'sinc', 'call', 'two', 'special', 'legisl', 'session', 'tri', 'forc', 'redistrict', 'plan']","['entonc', 'perri', 'convocado', 'do', 'sesion', 'legislativa', 'especial', 'tratar', 'forzar', 'plan', 'redistribución', 'distrito']",3.5
+"['agenc', 'consid', 'time', 'tax', 'return', 'payment', 'due', 'aug', 'num', 'submit', 'aug', 'num']","['agencia', 'considerará', 'oportuna', 'cualquier', 'declaración', 'impuesto', 'pago', 'debido', 'num', 'agosto', 'si', 'presentan', 'num', 'agosto']",4.25
+"['democrat', 'current', 'hold', 'num', 'advantag', 'state', 'congression', 'deleg']","['demócrata', 'actualment', 'ventaja', 'num', 'delegación', 'congreso']",2.6
+"['chaudhri', 'releas', 'num', 'day', 'later', 'fiji', 'militari', 'instal', 'allindigen', 'govern', 'led', 'qaras', 'democrat', 'elect', 'septemb', 'num']","['chaudhri', 'liberado', 'num', 'día', 'despué', 'ejército', 'fiji', 'instaló', 'gobierno', 'totalment', 'autóctono', 'dirigido', 'qaras', 'ganó', 'eleccion', 'democrática', 'septiembr', 'num']",3.0
+"['new', 'legit', 'download', 'servic', 'launch', 'pc', 'user', 'mind']","['nuevo', 'servicio', 'descarga', 'legítima', 'lanza', 'usuario', 'pc', 'ment']",2.4
+"['numyear', 'bond', 'usnumytrr', 'rose', 'num', 'yield', 'num', 'percent', 'versu', 'num', 'percent', 'wednesday', 'close']","['bono', 'num', 'año', 'usnumytrr', 'subió', 'num', 'rendimiento', 'num', 'ciento', 'frent', 'num', 'ciento', 'cierr', 'miércol']",3.8
+"['last', 'week', 'lawyer', 'ask', 'gov', 'mark', 'r', 'warner', 'grant', 'clemenc', 'governor', 'declin', 'interven']","['semana', 'pasada', 'abogado', 'pidieron', 'gobernador', 'mark', 'r', 'warner', 'concediera', 'clemencia', 'gobernador', 'negó', 'intervenir']",3.0
+"['gov', 'linda', 'lingl', 'member', 'staff', 'navi', 'base', 'watch', 'launch']","['gobernadora', 'linda', 'lingl', 'person', 'base', 'naval', 'vieron', 'lanzamiento']",3.5
+"['best', 'investig', 'nitpick', 'process', 'substanc', 'isol', 'busi', 'decis', 'question', 'compet', 'manag']","['mejor', 'pueden', 'hacer', 'investigador', 'criticar', 'proceso', 'sustancia', 'decision', 'comercial', 'aislada', 'cuestionar', 'competencia', 'gerent']",3.5
+"['justic', 'depart', 'file', 'suit', 'thursday', 'state', 'mississippi', 'fail', 'end', 'feder', 'offici', 'call', 'disturb', 'abus', 'juvenil', 'unconscion', 'condit', 'two', 'staterun', 'facil']","['departamento', 'justicia', 'presentó', 'demanda', 'juev', 'mississippi', 'poner', 'fin', 'funcionario', 'federal', 'llaman', 'abuso', 'perturbador', 'menor', 'condicion', 'desmedida', 'do', 'instalacion', 'estatal']",3.75
+"['chelsea', 'defend', 'marcel', 'desailli', 'latest', 'speak']","['defensor', 'chelsea', 'marcel', 'desailli', 'sido', 'último', 'hablar']",2.25
+"['woman', 'unit', 'member', 'teamster', 'local', 'num']","['única', 'mujer', 'unidad', 'miembro', 'local', 'num', 'teamster']",3.25
+"['special', 'polic', 'detain', 'khodorkovski', 'earli', 'saturday', 'siberian', 'citi', 'novosibirsk', 'plane', 'made', 'refuel', 'stop']","['policía', 'especi', 'detuvo', 'khodorkovski', 'temprano', 'sábado', 'ciudad', 'siberiana', 'novosibirsk', 'avión', 'hecho', 'parada', 'repostar']",4.8
+"['soni', 'ericsson', 'also', 'said', 'would', 'shut', 'gsmumt', 'rd', 'center', 'munich', 'germani', 'increas', 'profit']","['soni', 'ericsson', 'dijo', 'cerraría', 'centro', 'id', 'gsmumt', 'munich', 'alemania', 'aumentar', 'rentabilidad']",3.8
+"['countri', 'scrambl', 'prevent', 'spread', 'vast', 'countrysid', 'num', 'billion', 'peopl', 'live']","['paí', 'luchando', 'evitar', 'extienda', 'vasto', 'campo', 'vive', 'mayoría', 'num', 'millon', 'habitant']",3.4
+"['kansa', 'depart', 'health', 'environ', 'record', 'show', 'num', 'abort', 'perform', 'girl', 'age', 'num', 'younger', 'last', 'year']","['registro', 'departamento', 'salud', 'medio', 'ambient', 'kansa', 'muestran', 'año', 'pasado', 'realizaron', 'num', 'aborto', 'niña', 'num', 'año', 'meno']",2.0
+"['discoveri', 'map', 'bug', 'present', 'vast', 'major', 'crohn', 'suffer', 'mean', 'almost', 'certainli', 'caus', 'intestin', 'inflamm', 'said', 'statement']","['descubrimiento', 'viru', 'map', 'present', 'gran', 'mayoría', 'enfermo', 'crohn', 'significa', 'casi', 'seguro', 'causando', 'inflamación', 'intestin', 'dijo', 'comunicado']",4.6
+"['life', 'expect', 'boy', 'born', 'num', 'num', 'year', 'two', 'year', 'sinc', 'num']","['esperanza', 'vida', 'niño', 'nacido', 'num', 'num', 'año', 'do', 'año', 'num']",3.5
+"['full', 'nummonth', 'period', 'highspe', 'cabl', 'modem', 'connect', 'increas', 'num', 'percent']","['período', 'num', 'me', 'conexion', 'cabl', 'módem', 'alta', 'velocidad', 'aumentaron', 'num', 'ciento']",3.333
+"['believ', 'report', 'fulli', 'consist', 'court', 'rule', 'depart', 'action', 'fulli', 'within', 'law']","['creemo', 'inform', 'totalment', 'coherent', 'tribunal', 'dictaminado', 'accion', 'departamento', 'totalment', 'dentro', 'ley']",2.667
+"['inde', 'mr', 'weill', 'selfdescrib', 'workahol', 'said', 'plan', 'remain', 'involv', 'compani']","['hecho', 'sr', 'weill', 'autodenominado', 'adicto', 'trabajo', 'dijo', 'planeaba', 'seguir', 'involucrado', 'compañía']",3.2
+"['gregori', 'parseghian', 'former', 'invest', 'banker', 'appoint', 'chief', 'execut']","['gregori', 'parseghian', 'ex', 'banquero', 'inversión', 'nombrado', 'director', 'ejecutivo']",3.8
+"['report', 'cite', 'marriag', 'alleg', 'oper', 'command', 'bali', 'bomb', 'mukhla', 'farida', 'highli', 'cosmopolitan', 'welleduc', 'young', 'woman']","['inform', 'cita', 'matrimonio', 'supuesto', 'comandant', 'operativo', 'bombardeo', 'bali', 'mukhla', 'farida', 'joven', 'cosmopolita', 'bien', 'educada']",3.4
+"['cradl', 'liberti', 'council', 'isnt', 'first', 'one', 'buck', 'nation', 'group', 'stanc']","['consejo', 'cuna', 'libertad', 'primero', 'opon', 'postura', 'grupo', 'nacion']",3.4
+"['absurd', 'funni', 'cide', 'trainer', 'barclay', 'tagg', 'said']","['absurdo', 'dijo', 'entrenador', 'funni', 'cide', 'barclay', 'tagg']",3.6
+"['last', 'year', 'cuban', 'offici', 'said', 'none', 'nearli', 'two', 'dozen', 'nomin', 'cuban', 'musician', 'receiv', 'u', 'visa', 'time', 'attend', 'grammi', 'lo', 'angel']","['año', 'pasado', 'autoridad', 'cubana', 'dijeron', 'ninguno', 'casi', 'do', 'docena', 'músico', 'cubano', 'nominado', 'recibieron', 'visa', 'eeuu', 'tiempo', 'asistir', 'grammi', 'ángele']",3.8
+"['american', 'conserv', 'clearli', 'minor', 'within', 'episcop', 'church']","['conservador', 'americano', 'clarament', 'minoría', 'dentro', 'iglesia', 'episcop']",1.8
+"['new', 'york', 'senat', 'new', 'book', 'live', 'histori', 'appear', 'certain', 'bestsel']","['nuevo', 'libro', 'senador', 'nueva', 'york', 'historia', 'viva', 'parec', 'cierto', 'bestsel']",3.2
+"['canada', 'small', 'countri', 'need', 'compani', 'like', 'deal', 'like']","['canadá', 'paí', 'pequeño', 'necesita', 'compañía', 'trato']",3.0
+"['polic', 'offici', 'sk', 'tonapi', 'told', 'reuter', 'least', 'num', 'peopl', 'kill', 'num', 'wound']","['ofici', 'policía', 'sk', 'tonapi', 'dijo', 'reuter', 'meno', 'num', 'persona', 'muerto', 'num', 'sido', 'herida']",1.8
+"['jeremi', 'good', 'guy', 'barber', 'said', 'ad', 'jeremi', 'live', 'dream', 'life', 'new', 'york', 'athlet']","['jeremi', 'buen', 'tipo', 'dijo', 'barber', 'añadió', 'jeremi', 'viviendo', 'vida', 'ensueño', 'atleta', 'nueva', 'york']",2.75
+"['mitsubishi', 'tokyo', 'financi', 'jpnum', 'news', 'chart', 'profil', 'declin', 'num', 'yen', 'num', 'percent', 'num', 'yen']","['mitsubishi', 'tokyo', 'financi', 'jpnum', 'noticia', 'gráfico', 'perfil', 'bajó', 'num', 'yene', 'num', 'ciento', 'num', 'yene']",1.6
+"['num', 'gene', 'chromosom', 'num', 'thought', 'function']","['cree', 'num', 'gene', 'cromosoma', 'num', 'funcional']",2.75
+"['second', 'quarter', 'anadarko', 'expect', 'volum', 'num', 'million', 'boe', 'num', 'million', 'boe']","['segundo', 'trimestr', 'anadarko', 'espera', 'ahora', 'volumen', 'num', 'millon', 'boe', 'debajo', 'num', 'millon', 'boe']",3.25
+"['u', 'troop', 'encount', 'resist', 'fivehour', 'sweep', 'near', 'tikrit', 'saddam', 'hussein', 'hometown', 'center', 'region', 'baath', 'parti', 'support']","['tropa', 'estadounidens', 'encontraron', 'resistencia', 'barrido', 'cinco', 'hora', 'cerca', 'tikrit', 'ciudad', 'natal', 'saddam', 'hussein', 'centro', 'región', 'partidario', 'partido', 'baath']",2.25
+"['miodrag', 'zivkov', 'liber', 'allianc', 'montenegro', 'num', 'percent', 'vote', 'independ', 'dragan', 'hajdukov', 'got', 'four', 'percent']","['miodrag', 'zivkov', 'alianza', 'liber', 'montenegro', 'obtuvo', 'num', 'ciento', 'voto', 'mientra', 'independient', 'dragan', 'hajdukov', 'obtuvo', 'cuatro', 'ciento']",3.0
+"['yearago', 'period', 'pearson', 'post', 'num', 'million', 'pretax', 'profit']","['período', 'hace', 'año', 'pearson', 'registró', 'ganancia', 'num', 'millon', 'impuesto']",3.182
+"['thursday', 'oracl', 'said', 'num', 'million', 'peoplesoft', 'share', 'tender']","['juev', 'oracl', 'dijo', 'num', 'millon', 'accion', 'peoplesoft', 'sido', 'ofrecida']",3.75
+"['yucaipa', 'own', 'dominick', 'sell', 'chain', 'safeway', 'num', 'num', 'billion']","['yucaipa', 'propietaria', 'dominick', 'vender', 'cadena', 'safeway', 'num', 'num', 'millon', 'dólare']",2.6
+"['graf', 'report', 'albuquerqu', 'villafranca', 'austin', 'ratcliff', 'laredo']","['sepultura', 'reportada', 'albuquerqu', 'villafranca', 'austin', 'ratcliff', 'laredo']",1.25
+"['num', 'percent', 'increas', 'would', 'rais', 'undergradu', 'tuition', 'num', 'annual', 'includ', 'miscellan', 'campusbas', 'fee']","['aumento', 'num', 'ciento', 'elevaría', 'matrícula', 'estudiant', 'universitario', 'num', 'dólare', 'anual', 'incluyendo', 'diversa', 'tasa', 'campu']",2.5
+"['author', 'said', 'scientist', 'properli', 'quarantin', 'home', 'develop', 'sar', 'symptom', 'dec', 'num']","['autoridad', 'dijeron', 'científico', 'puso', 'cuarentena', 'casa', 'despué', 'desarrollar', 'síntoma', 'sar', 'num', 'diciembr']",4.2
+"['support', 'come', 'free', 'softwar', 'upgrad', 'call', 'webvpn', 'current', 'custom', 'support', 'contract']","['soport', 'vendrá', 'actualización', 'softwar', 'gratuita', 'llamada', 'webvpn', 'client', 'actual', 'contrato', 'soport']",2.6
+"['hilsenrath', 'klarman', 'indict', 'three', 'count', 'secur', 'fraud']","['hilsenrath', 'klarman', 'acusado', 'cada', 'tre', 'cargo', 'fraud', 'valor']",1.4
+"['new', 'sensor', 'dub', 'canari', 'cellular', 'analysi', 'notif', 'antigen', 'risk', 'yield', 'hijack', 'natur', 'process', 'two', 'import', 'chang']","['nuevo', 'sensor', 'llamado', 'canari', 'análisi', 'celular', 'notificación', 'riesgo', 'rendimiento', 'antígeno', 'secuestra', 'proceso', 'natur', 'do', 'cambio', 'important']",3.6
+"['one', 'fort', 'carsonbas', 'sgt', 'ernest', 'bucklew', 'num', 'way', 'home', 'attend', 'mother', 'funer', 'pennsylvania']","['sargento', 'ernest', 'bucklew', 'num', 'año', 'fort', 'carson', 'iba', 'camino', 'casa', 'asistir', 'funer', 'madr', 'pensilvania']",3.0
+"['waksal', 'plead', 'guilti', 'secur', 'fraud', 'sentenc', 'next', 'week']","['waksal', 'declarado', 'culpabl', 'fraud', 'valor', 'sentenciado', 'próxima', 'semana']",3.5
+"['devic', 'play', 'internet', 'radio', 'stream', 'come', 'numday', 'trial', 'realnetwork', 'rhapsodi', 'music', 'servic']","['dispositivo', 'reproduc', 'transmision', 'radio', 'internet', 'vien', 'prueba', 'num', 'día', 'servicio', 'música', 'rhapsodi', 'realnetwork']",5.0
+"['dollar', 'fell', 'low', 'num', 'per', 'euro', 'num', 'friday', 'trade', 'num', 'num', 'london']","['dólar', 'cayó', 'num', 'dólare', 'euro', 'num', 'dólare', 'viern', 'negoció', 'num', 'dólare', 'num', 'mañana', 'londr']",3.0
+"['hear', 'moral', 'express', 'sincer', 'regret', 'remors', 'action']","['audiencia', 'moral', 'expresó', 'sincero', 'arrepentimiento', 'remordimiento', 'accion']",3.8
+"['site', 'finder', 'visit', 'num', 'million', 'time', 'sinc', 'introduct', 'galvin', 'said']","['site', 'finder', 'sido', 'visitado', 'num', 'millon', 'vece', 'introducción', 'dijo', 'galvin']",3.8
+"['accord', 'sunncomm', 'peter', 'jacob', 'mediamax', 'perform', 'exactli', 'advertis', 'compani', 'purchas']","['según', 'peter', 'jacob', 'sunncomm', 'mediamax', 'funciona', 'exactament', 'anuncia', 'compañía', 'compraron']",4.222
+"['track', 'atlanta', 'arrest', 'tuesday', 'night']","['rastreado', 'atlanta', 'arrestado', 'mart', 'noch']",2.5
+"['bush', 'administr', 'blame', 'hussein', 'loyalist', 'foreign', 'muslim', 'milit', 'enter', 'iraq', 'fight', 'u', 'troop', 'wave', 'bomb', 'guerrilla', 'attack']","['administración', 'bush', 'culpa', 'leal', 'hussein', 'militant', 'musulman', 'extranjero', 'entrado', 'irak', 'luchar', 'tropa', 'estadounidens', 'ola', 'bombardeo', 'ataqu', 'guerrilla']",5.0
+"['later', 'emerg', 'broken', 'right', 'thigh', 'bone', 'right', 'wrist', 'elbow']","['tard', 'descubrió', 'roto', 'muslo', 'derecho', 'hueso', 'muñeca', 'codo', 'derecho']",4.0
+"['senat', 'agre', 'tuesday', 'lift', 'numyearold', 'ban', 'research', 'develop', 'lowyield', 'nuclear', 'weapon']","['senado', 'acordó', 'mart', 'levantar', 'prohibición', 'num', 'año', 'investigación', 'desarrollo', 'arma', 'nuclear', 'bajo', 'rendimiento']",3.6
+"['num', 'million', 'american', 'half', 'household', 'invest', 'mutual', 'fund']","['num', 'millon', 'estadounidens', 'mitad', 'hogar', 'invierten', 'fondo', 'inversión']",4.2
+"['hous', 'pass', 'prescriptiondrug', 'legisl', 'last', 'two', 'session', 'senat', 'fail']","['cámara', 'representant', 'aprobado', 'legislación', 'medicamento', 'prescripción', 'do', 'última', 'sesion', 'senado', 'hecho']",3.4
+"['elderli', 'weaken', 'immun', 'system', 'also', 'urg', 'protect', 'mosquito', 'bite']","['insta', 'anciano', 'persona', 'sistema', 'inmunológico', 'debilitado', 'protejan', 'picadura', 'mosquito']",2.6
+"['m', 'lafferti', 'lawyer', 'thoma', 'ezzel', 'told', 'kentucki', 'newspap', 'understand', 'lower', 'percentag', 'success', 'impregn', 'frozen']","['abogado', 'sra', 'lafferti', 'thoma', 'ezzel', 'dijo', 'periódico', 'kentucki', 'entendimiento', 'porcentaj', 'menor', 'impregnacion', 'exitosa', 'congelado']",3.6
+"['klarman', 'arrest', 'fbi', 'agent', 'hampton', 'exclus', 'summer', 'resort', 'enclav', 'east', 'new', 'york', 'citi']","['klarman', 'arrestado', 'agent', 'fbi', 'hampton', 'exclusivo', 'enclav', 'turístico', 'ciudad', 'nueva', 'york']",4.0
+"['bishop', 'told', 'polic', 'thought', 'hit', 'dog', 'cat', 'someon', 'thrown', 'rock', 'vehicl']","['obispo', 'dijo', 'policía', 'pensaba', 'golpeado', 'perro', 'gato', 'alguien', 'tirado', 'piedra', 'vehículo']",3.5
+"['promot', 'poster', 'complet', 'countdown', 'dial', 'remind', 'reader', 'upcom', 'releas', 'harri', 'potter', 'order', 'phoenix']","['póster', 'promocion', 'dial', 'cuenta', 'atrá', 'recuerda', 'lector', 'próximo', 'lanzamiento', 'harri', 'potter', 'orden', 'fénix']",1.5
+"['test', 'still', 'way', 'stage', 'given', 'earli', 'detect', 'outlook', 'instanc', 'would', 'posit', 'specialist', 'said', 'yesterday']","['todavía', 'realizando', 'prueba', 'etapa', 'dada', 'detección', 'temprana', 'perspectiva', 'tale', 'caso', 'positiva', 'dijo', 'ayer', 'especialista']",3.5
+"['morn', 'trade', 'dow', 'jone', 'industri', 'averag', 'num', 'num', 'percent', 'num', 'fallen', 'num', 'point', 'monday']","['comercio', 'matutino', 'promedio', 'industri', 'dow', 'jone', 'subió', 'num', 'num', 'ciento', 'num', 'caído', 'num', 'punto', 'lune']",1.75
+"['rich', 'medium', 'doubl', 'share', 'increas', 'num', 'qnum', 'num', 'num', 'qnum', 'num']","['medio', 'comunicación', 'rico', 'duplicaron', 'participación', 'pasando', 'num', 'segundo', 'trimestr', 'num', 'num', 'segundo', 'trimestr', 'num']",3.75
+"['take', 'time', 'oust', 'diehard', 'remnant', 'saddam', 'hussein', 'depos', 'regim', 'iraq', 'defens', 'secretari', 'donald', 'h', 'rumsfeld', 'said', 'tuesday']","['llevará', 'tiempo', 'expulsar', 'resto', 'mortal', 'régimen', 'depuesto', 'saddam', 'hussein', 'irak', 'dijo', 'mart', 'secretario', 'defensa', 'donald', 'h', 'rumsfeld']",4.8
+"['sayliyah', 'command', 'base', 'iraq', 'war', 'central', 'command', 'sent', 'hundr', 'ran', 'war', 'back', 'home', 'tampa', 'florida']","['sayliyah', 'base', 'mando', 'guerra', 'irak', 'comando', 'central', 'envió', 'ciento', 'dirigieron', 'guerra', 'tampa', 'florida']",3.4
+"['sco', 'say', 'price', 'term', 'licens', 'announc', 'week']","['sco', 'dice', 'término', 'precio', 'licencia', 'anunciarán', 'dentro', 'semana']",2.6
+"['sourc', 'within', 'race', 'industri', 'told', 'daili', 'bulletin', 'fontana', 'get', 'second', 'nascar', 'race', 'labor', 'day', 'weekend', 'start', 'next', 'season']","['fuent', 'industria', 'automovilismo', 'dicho', 'daili', 'bulletin', 'fontana', 'segunda', 'carrera', 'nascar', 'fin', 'semana', 'día', 'trabajo', 'partir', 'próxima', 'temporada']",4.4
+"['dow', 'jone', 'industri', 'averag', 'dji', 'end', 'num', 'point', 'num', 'percent', 'num', 'highest', 'level', 'sinc', 'januari', 'num']","['promedio', 'industri', 'dow', 'jone', 'dji', 'terminó', 'num', 'punto', 'num', 'ciento', 'num', 'nivel', 'alto', 'num', 'enero']",3.6
+"['dennehi', 'transfer', 'baylor', 'last', 'year', 'get', 'kick', 'univers', 'new', 'mexico', 'lobo', 'temper', 'tantrum', 'begun', 'read', 'bibl', 'daili']","['dennehi', 'trasladó', 'baylor', 'año', 'pasado', 'despué', 'ser', 'expulsado', 'universidad', 'nuevo', 'méxico', 'lobo', 'berrinch', 'empezado', 'leer', 'biblia', 'diariament']",3.6
+"['bashir', 'felt', 'tri', 'opinion', 'fact', 'mahendradatta', 'told', 'reuter']","['bashir', 'sintió', 'siendo', 'juzgado', 'opinión', 'hecho', 'dijo', 'mahendradatta', 'reuter']",4.0
+"['schofield', 'got', 'toepfer', 'admit', 'crossexamin', 'ignor', 'mani', 'odonnel', 'suggest', 'project']","['schofield', 'consiguió', 'toepfer', 'admitiera', 'interrogatorio', 'ignoraba', 'mucha', 'sugerencia', 'proyecto', 'odonnel']",4.5
+"['case', 'court', 'held', 'cincinnati', 'violat', 'first', 'amend', 'ban', 'advertis', 'pamphlet', 'interest', 'aesthet']","['caso', 'tribun', 'sostuvo', 'cincinnati', 'violado', 'primera', 'enmienda', 'prohibir', 'sólo', 'panfleto', 'publicitario', 'interé', 'estética']",5.0
+"['box', 'cutter', 'use', 'weapon', 'sept', 'num', 'num', 'hijack', 'sinc', 'ban', 'carryon', 'item']","['cortador', 'caja', 'utilizado', 'arma', 'secuestrador', 'num', 'septiembr', 'num', 'entonc', 'sido', 'prohibido', 'artículo', 'mano']",3.4
+"['juli', 'num', 'moor', 'announc', 'would', 'appeal', 'case', 'directli', 'u', 'suprem', 'court']","['num', 'julio', 'moor', 'anunció', 'apelaría', 'caso', 'directament', 'cort', 'suprema', 'unido']",3.75
+"['southwest', 'said', 'traffic', 'num', 'percent', 'quarter', 'end', 'quarter', 'num', 'billion', 'cash']","['southwest', 'dijo', 'tráfico', 'subió', 'num', 'ciento', 'trimestr', 'terminó', 'trimestr', 'num', 'millon', 'dólare', 'efectivo']",3.176
+"['four', 'version', 'window', 'oper', 'system', 'target', 'window', 'nt', 'window', 'num', 'window', 'xp', 'window', 'server', 'num']","['apunta', 'cuatro', 'version', 'sistema', 'operativo', 'window', 'window', 'nt', 'window', 'num', 'window', 'xp', 'window', 'server', 'num']",3.6
+"['share', 'mcdonald', 'corp', 'wendi', 'intern', 'inc', 'continu', 'modest', 'runup', 'new', 'york', 'stock', 'exchang', 'monday']","['accion', 'mcdonald', 'corp', 'wendi', 'intern', 'inc', 'continuaron', 'modesta', 'subida', 'bolsa', 'nueva', 'york', 'lune']",3.2
+"['play', 'chide', 'senat', 'littl', 'bitti', 'tax', 'relief', 'plan']","['reprendió', 'juguetonament', 'pequeño', 'plan', 'reducción', 'impuesto', 'senado']",3.5
+"['look', 'buy', 'latest', 'harri', 'potter']","['quier', 'comprar', 'último', 'harri', 'potter']",1.9
+"['mediaq', 'custom', 'includ', 'major', 'handheld', 'maker', 'mitsubishi', 'siemen', 'palm', 'sharp', 'philip', 'dell', 'soni']","['client', 'mediaq', 'encuentran', 'principal', 'fabricant', 'dispositivo', 'mano', 'mitsubishi', 'siemen', 'palm', 'sharp', 'philip', 'dell', 'soni']",3.0
+"['aventi', 'base', 'strasbourg', 'franc', 'one', 'hand', 'compani', 'still', 'make', 'flu', 'vaccin']","['aventi', 'sede', 'estrasburgo', 'francia', 'poca', 'compañía', 'aún', 'fabrican', 'vacuna', 'gripe']",3.6
+"['michael', 'bloomberg', 'nyc', 'mayor', 'im', 'gon', 'na', 'tri', 'march', 'number', 'differ', 'group']","['michael', 'bloomberg', 'alcald', 'ciudad', 'nueva', 'york', 'voy', 'intentar', 'marchar', 'número', 'grupo', 'diferent']",3.75
+"['attack', 'seem', 'similar', 'other', 'stage', 'near', 'foreign', 'compound', 'riyadh', 'may', 'num']","['ataqu', 'pareció', 'similar', 'produjeron', 'cerca', 'recinto', 'extraño', 'riyadh', 'num', 'mayo']",3.6
+"['put', 'lot', 'effort', 'energi', 'improv', 'patch', 'process', 'probabl', 'later', 'gain', 'incred', 'speed']","['ponemo', 'esfuerzo', 'energía', 'mejorar', 'proceso', 'parcheo', 'probablement', 'tard', 'debíamo', 'ahora', 'ganando', 'velocidad', 'increíbl']",3.75
+"['boy', 'also', 'spray', 'room', 'full', 'retard', 'fire', 'extinguish', 'made', 'hard', 'see', 'chief', 'said']","['chico', 'roció', 'habitación', 'retardant', 'extintor', 'fuego', 'hizo', 'difícil', 'ver', 'dijo', 'jefe']",3.333
+"['hrt', 'use', 'prevent', 'heart', 'diseas', 'chronic', 'condit']","['trh', 'debe', 'usars', 'prevenir', 'enfermedad', 'cardíaca', 'cualquier', 'condición', 'crónica']",2.6
+"['meat', 'poultri', 'butter', 'chees', 'nut', 'impound', 'year', 'ago', 'lagrou', 'cold', 'storag', 'warehous', 'chicago']","['carn', 'ave', 'mantequilla', 'queso', 'nuec', 'confiscada', 'hace', 'año', 'almacén', 'frigorífico', 'lagrou', 'chicago']",1.8
+"['bluecorenummultimedia', 'includ', 'numbit', 'stereo', 'audio', 'codec', 'dual', 'adc', 'dac', 'stereo', 'audio']","['bluecorenummultimedia', 'incluy', 'codec', 'audio', 'estéreo', 'num', 'bit', 'dobl', 'adc', 'dac', 'audio', 'estéreo']",3.6
+"['agenc', 'last', 'three', 'shuttl', 'ground', 'wake', 'columbia', 'disast', 'wait', 'could', 'even', 'longer']","['ahora', 'último', 'tre', 'transbordador', 'agencia', 'tierra', 'tra', 'desastr', 'columbia', 'espera', 'podría', 'ser', 'aún', 'larga']",4.4
+"['bremer', 'num', 'onetim', 'assist', 'former', 'secretari', 'state', 'william', 'p', 'roger', 'henri', 'kissing', 'ambassadoratlarg', 'counterterror', 'num', 'num']","['bremer', 'num', 'año', 'asistent', 'ex', 'secretario', 'william', 'p', 'roger', 'henri', 'kissing', 'embajador', 'itinerant', 'lucha', 'terrorismo', 'num', 'num']",3.0
+"['convers', 'taken', 'place', 'tuesday', 'night', 'accord', 'oracl', 'spokeswoman']","['conversacion', 'lugar', 'mart', 'noch', 'según', 'portavoz', 'oráculo']",4.0
+"['taiwan', 'attempt', 'gain', 'observ', 'statu', 'unit', 'nationsaffili', 'seven', 'year', 'rebuf', 'march', 'num', 'annual', 'confer', 'geneva']","['taiwán', 'tratado', 'obten', 'condición', 'observador', 'om', 'afiliada', 'nacion', 'unida', 'siet', 'año', 'rechazada', 'nuevament', 'num', 'marzo', 'conferencia', 'anual', 'ginebra']",3.25
+"['washington', 'counti', 'man', 'may', 'counti', 'first', 'human', 'case', 'west', 'nile', 'viru', 'health', 'depart', 'said', 'friday']","['hombr', 'condado', 'washington', 'podría', 'tener', 'primer', 'caso', 'humano', 'viru', 'nilo', 'occident', 'dijo', 'departamento', 'salud', 'viern']",3.0
+"['nation', 'breast', 'cancer', 'centr', 'chief', 'execut', 'professor', 'christin', 'ewan', 'said', 'earli', 'quantifi', 'risk', 'woman']","['profesora', 'christin', 'ewan', 'directora', 'ejecutiva', 'centro', 'nacion', 'cáncer', 'mama', 'dijo', 'demasiado', 'pronto', 'cuantificar', 'riesgo', 'mujer']",2.6
+"['brendsel', 'chief', 'financi', 'offic', 'vaughn', 'clark', 'resign', 'june', 'num']","['brendsel', 'director', 'financiero', 'vaughn', 'clark', 'renunciaron', 'num', 'junio']",2.6
+"['health', 'care', 'ndp', 'say', 'privat', 'healthcar', 'premium']","['cuanto', 'atención', 'salud', 'pnd', 'dice', 'privatización', 'prima', 'atención', 'salud']",4.6
+"['new', 'compani', 'begin', 'trade', 'nasdaq', 'today', 'ticker', 'symbol', 'plmo', 'psrc']","['nueva', 'compañía', 'comenzarán', 'operar', 'nasdaq', 'hoy', 'bajo', 'símbolo', 'plmo', 'psrc']",2.75
+"['kid', 'adult', 'booksel', 'postal', 'worker', 'prepar', 'harri', 'potter', 'order', 'phoenix']","['niño', 'adulto', 'librero', 'trabajador', 'postal', 'preparan', 'harri', 'potter', 'orden', 'fénix']",2.2
+"['govern', 'identifi', 'taikonaut', 'term', 'coin', 'taikong', 'chines', 'word', 'space', 'would', 'travel', 'second', 'mission']","['gobierno', 'identificó', 'taikonauta', 'término', 'acuñado', 'taikong', 'palabra', 'china', 'espacio', 'viajarían', 'segunda', 'misión']",3.333
+"['think', 'made', 'right', 'case', 'right', 'thing']","['creo', 'hicimo', 'caso', 'correcto', 'hicimo', 'correcto']",2.769
+"['kollarkotelli', 'schedul', 'anoth', 'antitrust', 'settlement', 'complianc', 'hear', 'januari']","['kollarkotelli', 'programado', 'audiencia', 'cumplimiento', 'acuerdo', 'antimonopolio', 'enero']",2.8
+"['tomorrow', 'mission', 'inn', 'opportun', 'congratul', 'governorelect', 'great', 'state', 'california']","['mañana', 'mission', 'inn', 'oportunidad', 'felicitar', 'gobernador', 'electo', 'gran', 'california']",4.0
+"['expect', 'japan', 'keep', 'conduct', 'intervent', 'volum', 'like', 'fall', 'sharpli', 'said', 'junya', 'tanas', 'forex', 'strategist', 'jp', 'morgan', 'chase']","['espero', 'japón', 'siga', 'llevando', 'cabo', 'intervención', 'probabl', 'volumen', 'caiga', 'bruscament', 'dijo', 'junya', 'tanas', 'estratega', 'forex', 'jp', 'morgan', 'chase']",4.733
+"['sunshin', 'group', 'ltd', 'repres', 'develop', 'relat', 'compani', 'apollo', 'real', 'estat', 'advisor', 'lp', 'deal']","['sunshin', 'group', 'ltd', 'representó', 'promotor', 'the', 'relat', 'compani', 'apollo', 'real', 'estat', 'advisor', 'lp', 'trato']",1.6
+"['third', 'owe', 'world', 'told', 'report']","['aproximadament', 'tercio', 'debo', 'mundo', 'dijo', 'periodista']",3.75
+"['techlac', 'nasdaq', 'composit', 'index', 'gain', 'num', 'point', 'num', 'percent', 'num']","['índice', 'compuesto', 'nasdaq', 'tecnología', 'avanzada', 'ganó', 'num', 'punto', 'num', 'ciento', 'num']",0.5
+"['benchmark', 'numyear', 'treasuri', 'note', 'yield', 'usnumytrr', 'dip', 'num', 'percent', 'tuesday']","['rendimiento', 'bono', 'tesoro', 'num', 'año', 'usnumytrr', 'cayó', 'debajo', 'num', 'ciento', 'mart']",3.25
+"['edi', 'falco', 'critic', 'prais', 'costar', 'franki', 'johnni']","['edi', 'falco', 'crítica', 'coprotagonista', 'franki', 'johnni']",2.4
+"['saddam', 'gone', 'want', 'u', 'occup', 'end', 'said', 'hit', 'resid', 'abu', 'qasim']","['saddam', 'ido', 'queremo', 'ocupación', 'eeuu', 'termin', 'dijo', 'resident', 'hit', 'abu', 'qasim']",3.2
+"['joe', 'kernan', 'lieuten', 'governor', 'past', 'seven', 'year', 'sworn', 'governor', 'obannon', 'die', 'saturday']","['joe', 'kernan', 'sido', 'vicegobernador', 'último', 'siet', 'año', 'prestó', 'juramento', 'gobernador', 'despué', 'obannon', 'muriera', 'sábado']",3.75
+"['advanc', 'micro', 'devic', 'said', 'fujitsu', 'siemen', 'comput', 'offer', 'highend', 'workstat', 'base', 'amd', 'opteron', 'num', 'seri']","['advanc', 'micro', 'devic', 'dijo', 'fujitsu', 'siemen', 'comput', 'ofrec', 'estación', 'trabajo', 'alta', 'gama', 'basada', 'seri', 'opteron', 'num', 'amd']",3.25
+"['kodak', 'expect', 'earn', 'num', 'cent', 'num', 'cent', 'share', 'quarter']","['kodak', 'espera', 'ganancia', 'num', 'num', 'centavo', 'dólar', 'acción', 'trimestr']",2.4
+"['share', 'corixa', 'fell', 'num', 'cent', 'num', 'nasdaq', 'stock', 'market']","['accion', 'corixa', 'cayeron', 'num', 'centavo', 'num', 'dólare', 'mercado', 'valor', 'nasdaq']",4.5
+"['refer', 'john', 'reed', 'former', 'citicorp', 'chief', 'execut', 'becam', 'interim', 'chairman', 'chief', 'execut', 'exchang', 'last', 'sunday']","['refería', 'john', 's', 'reed', 'ex', 'director', 'ejecutivo', 'citicorp', 'convirtió', 'president', 'interino', 'director', 'ejecutivo', 'bolsa', 'domingo', 'pasado']",4.0
+"['refus', 'reveal', 'percentag', 'flight', 'carri', 'sky', 'marshal', 'whether', 'would', 'increas']","['negó', 'revelar', 'porcentaj', 'vuelo', 'llevaban', 'mariscal', 'cielo', 'si', 'aumentarían']",3.8
+"['nasdaq', 'composit', 'index', 'rose', 'num', 'num', 'percent', 'num', 'highest', 'sinc', 'june', 'num']","['índice', 'compuesto', 'nasdaq', 'subió', 'num', 'num', 'ciento', 'num', 'nivel', 'alto', 'num', 'junio']",0.8
+"['said', 'conclud', 'film', 'fail', 'present', 'balanc', 'portray', 'reagan']","['dijeron', 'llegado', 'conclusión', 'película', 'presentaba', 'retrato', 'equilibrado', 'reagan']",3.0
+"['state', 'health', 'offici', 'said', 'today', 'young', 'northeast', 'kansa', 'woman', 'like', 'state', 'first', 'case', 'monkeypox', 'among', 'human', 'anim']","['funcionario', 'salud', 'dijeron', 'hoy', 'joven', 'norest', 'kansa', 'probablement', 'primer', 'caso', 'viruela', 'mono', 'humano', 'animal']",3.5
+"['navistar', 'share', 'num', 'cent', 'num', 'percent', 'num', 'new', 'york', 'stock', 'exchang', 'fall', 'low', 'num']","['accion', 'navistar', 'bajaron', 'num', 'centavo', 'num', 'ciento', 'num', 'dólare', 'bolsa', 'nueva', 'york', 'despué', 'haber', 'caído', 'num', 'dólare']",2.0
+"['intel', 'corp', 'num', 'percent', 'yield', 'lower']","['sólo', 'num', 'ciento', 'rendimiento', 'intel', 'corp', 'menor']",2.8
+"['mgm', 'nbc', 'liberti', 'execut', 'immedi', 'avail', 'comment']","['ejecutivo', 'mgm', 'nbc', 'liberti', 'dispon', 'inmediatament', 'hacer', 'comentario']",2.0
+"['new', 'analysi', 'found', 'num', 'num', 'particip', 'develop', 'ovarian', 'cancer', 'num', 'year', 'followup']","['nuevo', 'análisi', 'encontró', 'num', 'num', 'participant', 'desarrollaron', 'cáncer', 'ovario', 'num', 'año', 'seguimiento']",3.0
+"['veteran', 'stage', 'screen', 'actor', 'hume', 'cronyn', 'die', 'cancer', 'sunday']","['veterano', 'actor', 'teatro', 'cine', 'hume', 'cronyn', 'murió', 'cáncer', 'domingo']",3.5
+"['deirdr', 'hisler', 'govern', 'canyon', 'manag', 'said', 'state', 'long', 'eye', 'piec', 'properti', 'eager', 'complet', 'deal', 'obtain']","['deirdr', 'hisler', 'gerent', 'govern', 'canyon', 'dijo', 'puesto', 'ojo', 'propiedad', 'hace', 'tiempo', 'ansioso', 'completar', 'trato', 'obtenerla']",5.0
+"['reuter', 'wit', 'said', 'mani', 'hous', 'flatten', 'citi', 'squar', 'pack', 'cri', 'child', 'homeless', 'huddl', 'blanket', 'protect', 'cold']","['testigo', 'reuter', 'dijeron', 'mucha', 'casa', 'sido', 'arrasada', 'plaza', 'ciudad', 'llena', 'niño', 'lloron', 'vagabundo', 'acurrucado', 'manta', 'protegerlo', 'frío']",3.25
+"['three', 'groceri', 'chain', 'reli', 'store', 'manag', 'replac', 'worker', 'keep', 'store', 'open']","['tre', 'cadena', 'supermercado', 'confiaban', 'gerent', 'tienda', 'trabajador', 'reemplazo', 'manten', 'tienda', 'abierta']",3.4
+"['secur', 'offici', 'backup', 'couldnt', 'fill', 'activ', 'militari', 'duti', 'strutt', 'said']","['refuerzo', 'ofici', 'seguridad', 'pudo', 'sustituirlo', 'servicio', 'militar', 'activo', 'dijo', 'strutt']",3.4
+"['research', 'found', 'fossil', 'semidesert', 'area', 'venezuela', 'num', 'mile', 'west', 'caraca']","['investigador', 'encontraron', 'fósile', 'zona', 'semidesértica', 'venezuela', 'una', 'num', 'milla', 'oest', 'caraca']",3.75
+"['mr', 'mcdonnel', 'lead', 'grant', 'thornton', 'intern', 'inquiri', 'italian', 'busi']","['sr', 'mcdonnel', 'dirig', 'investigación', 'grant', 'thornton', 'intern', 'negocio', 'italiano']",2.75
+"['industri', 'largest', 'associ', 'urg', 'member', 'call', 'num', 'million', 'home', 'cellular', 'number', 'list']","['asociación', 'grand', 'industria', 'instando', 'miembro', 'llamar', 'num', 'millon', 'número', 'teléfono', 'fijo', 'móvil', 'lista']",3.2
+"['worker', 'accus', 'gener', 'dynam', 'revers', 'age', 'discrimin', 'chang', 'retir', 'benefit', 'num']","['trabajador', 'acusan', 'gener', 'dynam', 'discriminación', 'edad', 'inversa', 'debido', 'cambio', 'prestacion', 'jubilación', 'num']",2.6
+"['techlac', 'nasdaq', 'composit', 'index', 'ixic', 'eas', 'num', 'point', 'num', 'percent', 'num', 'break', 'sixday', 'string', 'gain']","['índice', 'compuesto', 'nasdaq', 'ixic', 'bajó', 'num', 'punto', 'num', 'ciento', 'num', 'rompiendo', 'cadena', 'sei', 'día', 'ganancia']",1.6
+"['space', 'infrar', 'telescop', 'facil', 'mission', 'search', 'begin', 'univers']","['misión', 'telescopio', 'espaci', 'infrarrojo', 'buscar', 'comienzo', 'universo']",2.5
+"['respect', 'medic', 'journal', 'lancet', 'call', 'complet', 'ban', 'tobacco', 'unit', 'kingdom']","['respetada', 'revista', 'médica', 'lancet', 'pedido', 'prohibición', 'total', 'tabaco', 'reino', 'unido']",3.4
+"['driver', 'truck', 'escap', 'sought', 'polic', 'supoyo', 'said']","['conductor', 'camión', 'escapó', 'ahora', 'busca', 'policía', 'dijo', 'supoyo']",4.0
+"['mani', 'differ', 'way', 'artistri', 'black', 'musician', 'convey', 'experi', 'black', 'american', 'throughout', 'histori', 'bush', 'said']","['mucha', 'manera', 'diferent', 'art', 'músico', 'negro', 'transmitido', 'experiencia', 'americano', 'negro', 'largo', 'historia', 'dijo', 'bush']",4.25
+"['geraldin', 'andrew', 'pastor', 'daughterinlaw', 'said', 'robinson', 'recent', 'took', 'daughter', 'mental', 'health', 'facil']","['geraldin', 'andrew', 'nuera', 'pastor', 'dijo', 'robinson', 'recientement', 'sacó', 'hija', 'centro', 'salud', 'mental']",4.0
+"['thursday', 'matine', 'baker', 'call', 'clubhous', 'meet', 'concern', 'controversi', 'distract', 'cub']","['matiné', 'juev', 'baker', 'convocó', 'reunión', 'club', 'preocupado', 'controversia', 'distraído', 'cachorro']",3.4
+"['taken', 'ambul', 'chare', 'cross', 'hospit', 'hammersmith']","['llevaron', 'ambulancia', 'hospit', 'chare', 'cross', 'hammersmith']",2.8
+"['shortli', 'open', 'bell', 'dow', 'jone', 'industri', 'averag', 'num', 'num', 'sp', 'num', 'index', 'gain', 'num', 'num']","['despué', 'campana', 'apertura', 'promedio', 'industri', 'dow', 'jone', 'subió', 'num', 'num', 'mientra', 'índice', 'sp', 'num', 'subió', 'num', 'num']",1.6
+"['addit', 'primari', 'care', 'trust', 'pct', 'given', 'star', 'rate', 'first', 'time', 'year']","['ademá', 'fideicomiso', 'atención', 'primaria', 'pct', 'recibieron', 'primera', 'vez', 'año', 'calificación', 'estrella']",3.8
+"['expend', 'avail', 'resourc', 'toward', 'investig', 'said', 'assist', 'u', 'attorney', 'todd', 'greenberg', 'counterterror', 'prosecutor', 'seattl']","['gastando', 'recurso', 'dispon', 'investigación', 'dijo', 'fiscal', 'adjunto', 'eeuu', 'todd', 'greenberg', 'fiscal', 'antiterrorista', 'seattl']",2.667
+"['technologylac', 'nasdaq', 'composit', 'index', 'ixic', 'shed', 'num', 'point', 'num', 'percent', 'num']","['índice', 'compuesto', 'nasdaq', 'basa', 'tecnología', 'ixic', 'bajó', 'num', 'punto', 'num', 'ciento', 'num']",1.2
+"['research', 'firm', 'earlier', 'forecast', 'increas', 'num', 'percent']","['empresa', 'investigación', 'pronosticado', 'anteriorment', 'aumento', 'num', 'ciento']",4.8
+"['peoplesoft', 'commit', 'num', 'million', 'cash', 'issu', 'num', 'million', 'new', 'share', 'compani', 'said']","['peoplesoft', 'comprometerá', 'num', 'millon', 'dólare', 'efectivo', 'emitirá', 'num', 'millon', 'nueva', 'accion', 'dijeron', 'empresa']",3.0
+"['state', 'union', 'address', 'januari', 'bush', 'declar', 'british', 'govern', 'learn', 'saddam', 'hussein', 'recent', 'sought', 'signific', 'quantiti', 'uranium', 'africa']","['así', 'discurso', 'unión', 'enero', 'bush', 'declaró', 'gobierno', 'británico', 'enterado', 'saddam', 'hussein', 'buscado', 'recientement', 'cantidad', 'significativa', 'uranio', 'áfrica']",4.0
+"['num', 'member', 'split', 'repres', 'secur', 'industri', 'socal', 'public', 'board', 'member']","['num', 'miembro', 'dividen', 'representant', 'industria', 'valor', 'llamado', 'miembro', 'público', 'junta']",4.0
+"['episcop', 'dioces', 'central', 'florida', 'becam', 'one', 'first', 'nation', 'saturday', 'offici', 'reject', 'nation', 'denomin', 'polici', 'homosexu']","['diócesi', 'episcop', 'florida', 'central', 'convirtió', 'sábado', 'primera', 'nación', 'rechazar', 'oficialment', 'política', 'denominación', 'nacion', 'homosexualidad']",2.75
+"['mcgill', 'also', 'detail', 'hole', 'cut', 'capric', 'trunk']","['mcgill', 'detalló', 'agujero', 'sido', 'cortado', 'tronco', 'capric']",2.25
+"['compar', 'yearearli', 'profit', 'num', 'million', 'num', 'cent', 'share']","['comparado', 'ganancia', 'num', 'millon', 'dólare', 'num', 'centavo', 'acción']",3.2
+"['economi', 'nonetheless', 'yet', 'exhibit', 'sustain', 'growth']","['economía', 'embargo', 'aún', 'mostrado', 'crecimiento', 'sosten']",4.75
+"['commiss', 'estim', 'california', 'lost', 'num', 'million', 'corpor', 'tax', 'shelter', 'num']","['comisión', 'estimó', 'california', 'perdió', 'num', 'millon', 'dólare', 'refugio', 'fiscal', 'empresa', 'num']",2.8
+"['market', 'u', 'treasuri', 'start', 'monday', 'weaker', 'stock', 'rose', 'earli']","['mercado', 'bono', 'tesoro', 'eeuu', 'empezaron', 'lune', 'débile', 'accion', 'subieron', 'temprano']",1.4
+"['technologylac', 'nasdaq', 'composit', 'index', 'ixic', 'num', 'point', 'num', 'percent', 'num']","['índice', 'compuesto', 'nasdaq', 'basa', 'tecnología', 'bajó', 'num', 'punto', 'num', 'ciento', 'num']",0.75
+"['pentagon', 'hope', 'retain', 'control', 'postwar', 'effort', 'decis', 'victori', 'secretari', 'state', 'colin', 'l', 'powel']","['pentágono', 'esperaba', 'reten', 'control', 'esfuerzo', 'posguerra', 'así', 'decisión', 'victoria', 'secretario', 'colin', 'l', 'powel']",3.667
+"['prof', 'salli', 'baldwin', 'num', 'york', 'fell', 'caviti', 'open', 'structur', 'collaps', 'tiburtina', 'station', 'italian', 'railway', 'offici', 'said']","['profesora', 'salli', 'baldwin', 'num', 'año', 'york', 'cayó', 'cavidad', 'abrió', 'estructura', 'derrumbó', 'estación', 'tiburtina', 'dijeron', 'funcionario', 'ferroviario', 'italiano']",3.4
+"['call', 'agenc', 'plan', 'independ', 'safeti', 'engin', 'organ']","['requier', 'agencia', 'planifiqu', 'organización', 'independient', 'seguridad', 'ingeniería']",3.4
+"['worldcom', 'account', 'problem', 'came', 'light', 'earli', 'last', 'year', 'compani', 'file', 'bankruptci', 'juli', 'num', 'cite', 'massiv', 'account', 'irregular']","['problema', 'contabl', 'worldcom', 'salieron', 'luz', 'principio', 'año', 'pasado', 'empresa', 'declaró', 'quiebra', 'julio', 'num', 'alegando', 'enorm', 'irregularidad', 'contabl']",3.857
+"['studi', 'also', 'found', 'consum', 'good', 'advertis', 'continu', 'spend', 'dollar', 'onlin', 'repres', 'num', 'web', 'advertis']","['estudio', 'encontró', 'anunciant', 'bien', 'consumo', 'continuaron', 'gastando', 'mayor', 'cantidad', 'dólare', 'línea', 'representando', 'num', 'toda', 'publicidad', 'web']",3.0
+"['kiernan', 'testifi', 'seifert', 'receiv', 'gunshot', 'wound', 'back']","['kiernan', 'testificó', 'seifert', 'recibió', 'disparo', 'espalda']",3.5
+"['price', 'num', 'unlimit', 'number', 'user', 'tap', 'singl', 'processor', 'num', 'per', 'user', 'minimum', 'five', 'user']","['precio', 'num', 'dólare', 'número', 'ilimitado', 'usuario', 'conecten', 'procesador', 'único', 'num', 'dólare', 'usuario', 'mínimo', 'cinco', 'usuario']",3.25
+"['tropic', 'storm', 'head', 'pa', 'along', 'hondura', 'coast']","['tormenta', 'tropic', 'dirig', 'paso', 'largo', 'costa', 'hondura']",1.4
+"['suicid', 'bomber', 'kill', 'num', 'nigeria', 'church']","['terrorista', 'suicida', 'mata', 'num', 'persona', 'iglesia', 'nigeria']",0.75
+"['u', 'say', 'readi', 'help', 'blind', 'chines', 'activist']","['eeuu', 'dice', 'dispuesto', 'ayudar', 'activista', 'chino', 'ciego']",3.4
+"['gazan', 'fire', 'num', 'rocket', 'israel', 'injuri']","['habitant', 'gaza', 'disparan', 'num', 'cohet', 'israel', 'herido']",4.8
+"['berri', 'say', 'readi', 'help', 'launch', 'nation', 'uniti', 'govern']","['berri', 'dice', 'listo', 'ayudar', 'lanzar', 'gobierno', 'unidad', 'nacion']",0.4
+"['num', 'dead', 'iraq', 'bomb', 'attack']","['num', 'muerto', 'ataqu', 'bomba', 'iraq']",1.8
+"['hurrican', 'isaac', 'move', 'inland', 'landfal']","['huracán', 'isaac', 'muev', 'tierra', 'adentro', 'despué', 'tocar', 'tierra']",2.4
+"['nigeria', 'mourn', 'num', 'peopl', 'kill', 'plane', 'crash']","['nigeria', 'llora', 'muert', 'num', 'persona', 'accident', 'aéreo']",1.6
+"['icc', 'jail', 'congoles', 'warlord', 'num', 'year', 'child', 'soldier']","['cpi', 'encarcela', 'señor', 'guerra', 'congoleño', 'num', 'año', 'culpa', 'niño', 'soldado']",3.2
+"['num', 'soldier', 'kill', 'num', 'injur', 'pkk', 'attack', 'eastern', 'turkey']","['num', 'soldado', 'muerto', 'num', 'herido', 'ataqu', 'pkk', 'turquía']",0.4
+"['schiphol', 'airport', 'partli', 'evacu', 'bomb', 'threat']","['aeropuerto', 'schiphol', 'parcialment', 'evacuado', 'despué', 'amenaza', 'bomba']",4.0
+"['mier', 'up', 'num', 'growth', 'forecast', 'numpc']","['mier', 'aumenta', 'previsión', 'crecimiento', 'num', 'num', 'pc']",0.8
+"['activist', 'syrian', 'troop', 'storm', 'damascu', 'suburb']","['activista', 'tropa', 'siria', 'asaltan', 'suburbio', 'damasco']",1.4
+"['tehran', 'eu', 'sanction', 'wont', 'forc', 'iran', 'nuclear', 'talk']","['teherán', 'sancion', 'ue', 'obligarán', 'irán', 'entablar', 'conversacion', 'nuclear']",1.8
+"['portug', 'drown', 'uk', 'girl', 'grandad', 'name']","['portug', 'ahogado', 'chica', 'abuelo', 'reino', 'unido', 'nombrado']",2.2
+"['iran', 'power', 'set', 'highstak', 'nuclear', 'talk']","['irán', 'potencia', 'preparan', 'conversacion', 'nuclear', 'alto', 'riesgo']",3.2
+"['syrian', 'forc', 'kill', 'teen', 'aleppo', 'protest']","['fuerza', 'siria', 'matan', 'adolescent', 'protesta', 'alepo']",1.2
+"['jaguar', 'creat', 'num', 'job', 'uk']","['jaguar', 'creará', 'num', 'puesto', 'trabajo', 'reino', 'unido']",1.25
+"['iraq', 'search', 'syria', 'bound', 'iran', 'plane', 'offici']","['irak', 'registra', 'avión', 'irán', 'destino', 'siria', 'funcionario']",4.2
+"['syria', 'fight', 'rage', 'russia', 'urg', 'western', 'rethink']","['siria', 'lucha', 'furia', 'mientra', 'rusia', 'insta', 'occident', 'repensar']",2.6
+"['erdogan', 'parti', 'submit', 'plan', 'turkish', 'presid']","['partido', 'erdogan', 'presenta', 'plan', 'presidencia', 'turca']",3.6
+"['publish', 'acquit', 'privaci', 'case']","['editor', 'absuelto', 'caso', 'privacidad']",0.4
+"['samsung', 'overtak', 'nokia', 'phone']","['samsung', 'supera', 'nokia', 'teléfono']",0.0
+"['gu', 'kailai', 'murder', 'trial', 'end', 'china']","['juicio', 'asesinato', 'gu', 'kailai', 'termina', 'china']",5.0
+"['hide', 'ball', 'russia', 'obama']","['escond', 'pelota', 'rusia', 'obama']",4.4
+"['england', 'captain', 'andrew', 'strauss', 'retir', 'profession', 'cricket']","['capitán', 'inglaterra', 'andrew', 'strauss', 'retira', 'cricket', 'profesion']",4.8
+"['china', 'back', 'sri', 'lanka', 'un', 'resolut']","['china', 'apoya', 'sri', 'lanka', 'resolución', 'onu']",3.6
+"['ton', 'tendulkar', 'reach', 'numth', 'intern', 'hundr']","['tonificar', 'tendulkar', 'alcanza', 'centenario', 'internacion']",3.8
+"['conspiraci', 'lanc']","['conspiración', 'lanc']",0.2
+"['mursi', 'take', 'oath', 'offic', 'becom', 'egyptian', 'presid']","['mursi', 'toma', 'juramento', 'cargo', 'conviert', 'president', 'egipto']",3.8
+"['syrian', 'opposit', 'plead', 'crimin', 'court', 'action']","['oposición', 'siria', 'declara', 'favor', 'acción', 'judici', 'penal']",2.2
+"['sunderland', 'num', 'bolton', 'davi', 'doubl', 'get', 'trotter', 'point', 'stay', 'bottom', 'three']","['sunderland', 'num', 'bolton', 'dobl', 'davi', 'da', 'punto', 'trotter', 'quedan', 'tre', 'último']",4.0
+"['syrian', 'forc', 'shell', 'town', 'clash', 'rebel']","['fuerza', 'siria', 'bombardean', 'ciudad', 'enfrentan', 'rebeld']",2.6
+"['bahraini', 'protest', 'polic', 'clash', 'funer']","['manifestant', 'bahreiní', 'policía', 'enfrentan', 'despué', 'funer']",0.6
+"['appl', 'buy', 'secur', 'firm', 'authentec', 'num', 'million']","['appl', 'compra', 'empresa', 'seguridad', 'authentec', 'num', 'millon', 'dólare']",4.4
+"['trade', 'newspap', 'varieti', 'sale']","['periódico', 'comerci', 'variedad', 'venta']",4.0
+"['australian', 'flee', 'home', 'amid', 'flood']","['australiano', 'huyen', 'casa', 'medio', 'inundacion']",0.8
+"['germani', 'dodg', 'recess', 'growth', 'first', 'quarter']","['alemania', 'esquiva', 'recesión', 'crecimiento', 'primer', 'trimestr']",2.0
+"['asian', 'stock', 'rise', 'greek', 'vote', 'ea', 'fear']","['accion', 'asia', 'suben', 'despué', 'voto', 'griego', 'alivi', 'temor']",1.4
+"['british', 'soldier', 'kill', 'southern', 'afghanistan']","['soldado', 'británico', 'muerto', 'sur', 'afganistán']",3.0
+"['obama', 'silent', 'china', 'dissid']","['obama', 'guarda', 'silencio', 'disident', 'chino']",0.6
+"['suicid', 'bomber', 'kill', 'num', 'afghan', 'capit']","['terrorista', 'suicida', 'mata', 'num', 'persona', 'capit', 'afgana']",2.0
+"['denver', 'shoot', 'polic', 'deton', 'devic', 'suspect', 'home']","['tiroteo', 'denver', 'policía', 'detonará', 'dispositivo', 'casa', 'sospechoso']",4.6
+"['syria', 'hand', 'bodi', 'journalist']","['siria', 'entrega', 'cuerpo', 'periodista']",1.4
+"['coron', 'whitney', 'houston', 'die', 'bathtub']","['forens', 'whitney', 'houston', 'murió', 'bañera']",4.5
+"['japan', 'suffer', 'sever', 'flood', 'pictur']","['japón', 'sufr', 'graf', 'inundacion', 'imágen']",0.8
+"['japan', 'deport', 'chines', 'held', 'island', 'land']","['japón', 'deportará', 'chino', 'retenido', 'desembarco', 'isla']",0.0
+"['syria', 'violenc', 'amount', 'civil', 'war', 'cross']","['acto', 'violencia', 'siria', 'equivalen', 'guerra', 'civil', 'cruz', 'roja']",4.4
+"['romney', 'win', 'nevada', 'caucu']","['romney', 'gana', 'caucu', 'nevada']",1.0
+"['appl', 'ipad', 'mini', 'make', 'debut']","['ipad', 'mini', 'appl', 'hace', 'debut']",3.4
+"['hama', 'hang', 'three', 'gaza', 'prison']","['hama', 'cuelga', 'tre', 'prisionero', 'gaza']",0.6
+"['east', 'timor', 'vote', 'presidenti', 'elect']","['timor', 'orient', 'vota', 'eleccion', 'presidencial']",1.0
+"['sunday', 'time', 'journalist', 'mari', 'colvin', 'kill', 'syria']","['periodista', 'sunday', 'time', 'mari', 'colvin', 'asesinada', 'siria']",2.8
+"['kl', 'share', 'higher', 'midafternoon']","['accion', 'kl', 'alta', 'medium', 'tard']",1.6
+"['chicago', 'teacher', 'strike', 'bitter', 'contract', 'disput']","['maestro', 'chicago', 'hacen', 'huelga', 'amarga', 'disputa', 'contractu']",2.4
+"['israel', 'free', 'palestinian', 'hunger', 'striker']","['israel', 'liberará', 'palestino', 'huelga', 'hambr']",0.8
+"['good', 'begin', 'holland', 'plane', 'hit', 'lightn', 'en', 'rout', 'berlin']","['buen', 'comienzo', 'avión', 'holland', 'alcanzado', 'rayo', 'ruta', 'berlín']",4.4
+"['afghan', 'parliament', 'vote', 'oust', 'key', 'minist']","['parlamento', 'afgano', 'vota', 'destituir', 'ministro', 'clave']",4.8
+"['attack', 'afghan', 'uniform', 'kill', 'num', 'nato', 'troop']","['atacant', 'uniform', 'afgano', 'mata', 'num', 'tropa', 'otan']",3.4
+"['cheap', 'gener', 'panacea', 'india', 'poorest']","['genérico', 'barato', 'panacea', 'pobr', 'india']",3.8
+"['arrest', 'warrant', 'maldiv', 'expresid']","['orden', 'arresto', 'ex', 'president', 'maldiva']",4.5
+"['hrw', 'jordan', 'turn', 'away', 'palestinian', 'refuge', 'syria']","['hrw', 'jordania', 'rechazando', 'refugiado', 'palestino', 'siria']",2.2
+"['syrian', 'forc', 'overrun', 'rebel', 'stronghold']","['fuerza', 'siria', 'invaden', 'bastión', 'rebeld']",4.0
+"['chines', 'stock', 'close', 'higher', 'midday', 'friday']","['accion', 'china', 'cierran', 'alza', 'viern', 'mediodía']",1.0
+"['sandi', 'slam', 'northeast', 'least', 'num', 'dead', 'numm', 'without', 'power']","['sandi', 'estrella', 'norest', 'meno', 'num', 'muerto', 'numm', 'electricidad']",2.6
+"['putin', 'declar', 'victori', 'russia', 'presidenti', 'vote']","['putin', 'declara', 'victoria', 'voto', 'presidenci', 'rusia']",1.0
+"['suprem', 'court', 'hear', 'vote', 'right', 'act', 'case']","['tribun', 'supremo', 'conocerá', 'caso', 'ley', 'derecho', 'voto']",1.4
+"['libya', 'postpon', 'assembl', 'elect', 'juli', 'num']","['libia', 'pospon', 'elección', 'asamblea', 'num', 'julio']",4.0
+"['london', 'num', 'olymp', 'open', 'ceremoni', 'featur', 'green', 'pleasant', 'land']","['ceremonia', 'apertura', 'juego', 'olímpico', 'londr', 'num', 'presentará', 'tierra', 'verd', 'agrad']",4.2
+"['pakistan', 'block', 'twitter', 'antiislam', 'materi']","['pakistán', 'bloquea', 'twitter', 'materi', 'antiislámico']",3.8
+"['annan', 'visit', 'syrian', 'refuge', 'turkey', 'tuesday']","['annan', 'visitará', 'refugiado', 'sirio', 'turquía', 'mart']",3.8
+"['pakistani', 'pm', 'shock', 'avalanch', 'trap', 'armi', 'personnel']","['primer', 'ministro', 'paquistaní', 'sorprendió', 'avalancha', 'atrapó', 'person', 'ejército']",2.4
+"['opposit', 'leader', 'emerg', 'commemor', 'cambodian', 'worker', 'death']","['lídere', 'oposición', 'surgen', 'conmemorar', 'muert', 'trabajador', 'camboyano']",0.4
+"['mali', 'due', 'vote', 'presid']","['malí', 'votará', 'president']",2.2
+"['pussi', 'riot', 'member', 'alyokhina', 'releas', 'jail', 'russia']","['miembro', 'pussi', 'riot', 'alyokhina', 'liberado', 'cárcel', 'rusia']",4.4
+"['asiana', 'jet', 'crash', 'land', 'san', 'francisco', 'airport']","['avión', 'asiana', 'aterriza', 'aeropuerto', 'san', 'francisco']",3.6
+"['blizzard', 'hammer', 'u', 'northeast', 'five', 'dead', 'num', 'lose', 'power']","['ventisca', 'golpea', 'norest', 'eeuu', 'cinco', 'muerto', 'num', 'pierden', 'energía']",2.2
+"['num', 'french', 'journalist', 'kill', 'mali']","['num', 'periodista', 'franc', 'muerto', 'malí']",5.0
+"['vehicl', 'ablaz', 'collaps', 'japan', 'tunnel']","['vehículo', 'llama', 'túnel', 'colapsado', 'japón']",4.2
+"['china', 'stock', 'close', 'lower', 'friday']","['existencia', 'china', 'cierran', 'baja', 'viern']",1.8
+"['mayor', 'say', 'num', 'dead', 'texa', 'fertil', 'plant', 'blast']","['alcald', 'dice', 'num', 'muerto', 'explosión', 'planta', 'fertilizant', 'texa']",1.4
+"['cbn', 'reiter', 'plan', 'phase', 'polym', 'note']","['cbn', 'reitera', 'plan', 'eliminar', 'gradualment', 'billet', 'polímero']",2.2
+"['u', 'file', 'espionag', 'charg', 'again', 'nsa', 'leaker']","['eeuu', 'presentan', 'cargo', 'espionaj', 'filtrador', 'nsa']",3.8
+"['chines', 'gener', 'son', 'get', 'num', 'year', 'jail', 'rape']","['hijo', 'gener', 'chino', 'condenado', 'num', 'año', 'cárcel', 'violación']",4.2
+"['where', 'rusti', 'red', 'panda', 'vanish', 'nation', 'zoo']","['dónde', 'rusti', 'panda', 'rojo', 'desaparec', 'zoológico', 'nacion']",2.0
+"['queen', 'beatrix', 'netherland', 'abdic', 'son']","['reina', 'beatriz', 'holanda', 'abdicará', 'hijo']",5.0
+"['u', 'dump', 'bomb', 'great', 'barrier', 'reef']","['unido', 'arrojan', 'bomba', 'gran', 'barrera', 'coral']",3.8
+"['num', 'taliban', 'milit', 'kill', 'afghanistan']","['num', 'militant', 'taliban', 'muerto', 'afganistán']",1.2
+"['power', 'typhoon', 'num', 'hit', 'philippin']","['tifón', 'poderoso', 'num', 'golpea', 'filipina']",2.2
+"['call', 'egypt', 'protest']","['pide', 'protesta', 'egipto']",1.4
+"['u', 'govern', 'edg', 'shutdown']","['gobierno', 'eeuu', 'bord', 'cierr']",2.4
+"['num', 'kill', 'fight', 'northern', 'syria']","['num', 'muerto', 'combat', 'nort', 'siria']",3.0
+"['critic', 'say', 'putin', 'secur', 'restrict', 'violat', 'right']","['crítico', 'dicen', 'restriccion', 'seguridad', 'putin', 'violan', 'derecho']",3.2
+"['egypt', 'brace', 'protest', 'pray', 'calm']","['egipto', 'prepara', 'protesta', 'reza', 'calma']",3.8
+"['morsi', 'support', 'protest', 'egypt']","['partidario', 'morsi', 'protestan', 'egipto']",3.0
+"['stock', 'rise', 'earli', 'trade']","['accion', 'aumentan', 'primera', 'operacion']",2.0
+"['bangladesh', 'build', 'collaps', 'death', 'toll', 'hit', 'num', 'armi']","['colapso', 'edificio', 'bangladesh', 'deja', 'num', 'muerto', 'ejército']",2.8
+"['defiant', 'mugab', 'sworn', 'seventh', 'term', 'blast', 'vile', 'west']","['desafiant', 'mugab', 'juró', 'séptimo', 'término', 'explota', 'vil', 'oest']",4.0
+"['nelson', 'mandela', 'hospit', 'test']","['nelson', 'mandela', 'hospit', 'prueba']",4.6
+"['iran', 'six', 'global', 'power', 'sign', 'landmark', 'nuclear', 'deal']","['irán', 'sei', 'potencia', 'mundial', 'firman', 'acuerdo', 'nuclear', 'histórico']",4.0
+"['algeria', 'mount', 'militari', 'oper', 'rescu', 'al', 'qaeda', 'hostag']","['argelia', 'monta', 'operación', 'militar', 'rescatar', 'rehen', 'qaeda']",2.2
+"['delhi', 'gang', 'rape', 'victim', 'dy', 'singapor', 'hospit']","['víctima', 'violación', 'banda', 'delhi', 'muer', 'hospit', 'singapur']",3.4
+"['birth', 'control', 'link', 'higher', 'glaucoma', 'risk']","['control', 'natalidad', 'relacionado', 'mayor', 'riesgo', 'glaucoma']",3.4
+"['malaysia', 'set', 'may', 'num', 'date', 'close', 'contest', 'elect']","['malasia', 'fija', 'num', 'mayo', 'fecha', 'elección', 'reñida']",3.4
+"['dhawan', 'smash', 'india', 'big', 'win', 'south', 'africa']","['dhawan', 'aplasta', 'india', 'obten', 'gran', 'victoria', 'sudáfrica']",4.2
+"['n', 'korea', 'postpon', 'famili', 'reunion']","['corea', 'nort', 'pospon', 'reunion', 'familiar']",3.8
+"['syria', 'reject', 'u', 'uk', 'chemic', 'arm', 'claim']","['siria', 'rechaza', 'afirmacion', 'arma', 'química', 'eeuu', 'reino', 'unido']",2.6
+"['egypt', 'arrest', 'muslim', 'brotherhood', 'suprem', 'guid']","['egipto', 'arresta', 'guía', 'supremo', 'hermandad', 'musulmana']",2.2
+"['gunman', 'kill', 'nine', 'peopl', 'northwest', 'pakistan']","['hombr', 'armado', 'matan', 'nuev', 'persona', 'noroest', 'pakistán']",0.4
+"['news', 'summari', 'march', 'num']","['resumen', 'noticia', 'num', 'marzo']",1.8
+"['hawaii', 'pass', 'gay', 'marriag', 'bill']","['hawai', 'aprueba', 'proyecto', 'ley', 'matrimonio', 'gay']",1.0
+"['syrian', 'opposit', 'urg', 'eu', 'send', 'arm', 'rebel']","['oposición', 'siria', 'insta', 'ue', 'enviar', 'arma', 'rebeld']",1.6
+"['funer', 'oscar', 'pistoriu', 'girlfriend', 'reeva', 'steenkamp', 'take', 'place']","['funer', 'novia', 'oscar', 'pistoriu', 'reeva', 'steenkamp', 'lugar']",1.6
+"['two', 'firefight', 'kill', 'new', 'york', 'ambush']","['do', 'bombero', 'muerto', 'emboscada', 'nueva', 'york']",2.6
+"['ten', 'rescu', 'waterford', 'dublin', 'coast']","['diez', 'rescatado', 'costa', 'waterford', 'dublín']",2.6
+"['mar', 'rover', 'collect', 'first', 'bedrock', 'sampl']","['explorador', 'mart', 'recog', 'primera', 'muestra', 'roca', 'lecho', 'marino']",0.0
+"['ankeet', 'chavan', 'grant', 'condit', 'bail', 'marriag']","['ankeet', 'chavan', 'concedió', 'fianza', 'condicion', 'matrimonio']",4.4
+"['man', 'battl', 'fukushima', 'disast', 'dy', 'cancer']","['hombr', 'luchó', 'desastr', 'fukushima', 'muer', 'cáncer']",3.4
+"['iran', 'say', 'nuclear', 'talk', 'resum', 'next', 'month']","['irán', 'dice', 'conversacion', 'nuclear', 'reanudarán', 'próximo', 'me']",0.6
+"['u', 'author', 'charg', 'man', 'ricin', 'probe']","['autoridad', 'eeuu', 'acusan', 'hombr', 'sonda', 'ricino']",0.0
+"['num', 'bodi', 'found', 'raid', 'algerian', 'ga', 'plant']","['num', 'cuerpo', 'encontrado', 'planta', 'ga', 'argelina', 'asaltada']",4.4
+"['ferrer', 'cruis', 'australian', 'open', 'quarterfin']","['ferrer', 'llega', 'cuarto', 'final', 'abierto', 'australia']",3.6
+"['ub', 'settl', 'u', 'mortgag', 'lawsuit']","['ub', 'resuelv', 'demanda', 'hipotecaria', 'unido']",3.0
+"['north', 'south', 'korea', 'agre', 'talk']","['corea', 'nort', 'corea', 'sur', 'acuerdan', 'conversacion']",3.8
+"['gunman', 'kill', 'femal', 'politician', 'pakistan']","['hombr', 'armado', 'matan', 'mujer', 'política', 'pakistán']",2.2
+"['kardashian', 'divorc', 'readi', 'trial']","['divorcio', 'kardashian', 'listo', 'juicio']",0.0
+"['new', 'zealand', 'set', 'legalis', 'gay', 'marriag']","['nueva', 'zelanda', 'dispon', 'legalizar', 'matrimonio', 'gay']",4.6
+"['syria', 'regim', 'claim', 'evacu', 'num', 'near', 'damascu']","['régimen', 'sirio', 'reclama', 'evacuación', 'num', 'persona', 'cerca', 'damasco']",1.6
+"['nobel', 'prize', 'win', 'author', 'dori', 'less', 'dy']","['autora', 'ganadora', 'premio', 'nobel', 'dori', 'less', 'muer']",4.6
+"['internet', 'phone', 'servic', 'restor', 'syrian', 'capit']","['internet', 'servicio', 'telefónico', 'restaurado', 'capit', 'siria']",4.2
+"['syrian', 'pm', 'surviv', 'bomb', 'attack']","['primer', 'ministro', 'sirio', 'sobrev', 'ataqu', 'bomba']",3.8
+"['u', 'stock', 'futur', 'edg', 'ahead', 'job', 'report']","['futuro', 'accion', 'eeuu', 'adelantan', 'inform', 'empleo']",3.0
+"['bomb', 'blast', 'kill', 'num', 'southwest', 'pakistan']","['explosión', 'bomba', 'mata', 'num', 'persona', 'suroest', 'pakistán']",1.0
+"['david', 'cameron', 'put', 'sri', 'lanka', 'notic', 'war', 'crime', 'alleg']","['david', 'cameron', 'pone', 'sri', 'lanka', 'alerta', 'acusacion', 'crímene', 'guerra']",3.6
+"['morsi', 'support', 'clash', 'riot', 'polic', 'cairo']","['partidario', 'morsi', 'enfrentan', 'policía', 'antidisturbio', 'cairo']",0.8
+"['afghan', 'polic', 'kill', 'num', 'taliban', 'fighter']","['policía', 'afgana', 'mata', 'num', 'combatient', 'taliban']",2.2
+"['gunman', 'kidnap', 'airlin', 'pilot', 'lebanon']","['hombr', 'armado', 'secuestran', 'piloto', 'avión', 'líbano']",4.2
+"['kurdish', 'rebel', 'withdraw', 'turkey', 'march', 'report']","['rebeld', 'kurdo', 'retirarán', 'turquía', 'marzo', 'inform']",4.2
+"['japan', 'revis', 'gdp', 'growth', 'annual', 'num', 'pct', 'qnum']","['japón', 'revisa', 'crecimiento', 'pib', 'num', 'pct', 'anual', 'tercer', 'trimestr']",3.4
+"['foundat', 'south', 'africa', 'built', 'nelson', 'mandela', 'memori']","['cimiento', 'sudáfrica', 'construyen', 'memoria', 'nelson', 'mandela']",1.3
+"['ukrain', 'protest', 'leader', 'name', 'minist', 'russian', 'troop', 'alert']","['lídere', 'protesta', 'ucrania', 'nombran', 'ministro', 'tropa', 'rusa', 'alerta']",1.2
+"['malala', 'snowden', 'belarusian', 'shortlist', 'sakharov', 'prize']","['malala', 'snowden', 'belarú', 'preseleccionado', 'premio', 'sakharov']",3.6
+"['elbaradei', 'becom', 'egyptian', 'pm']","['baradei', 'convertirá', 'primer', 'ministro', 'egipto']",3.2
+"['taiwan', 'economi', 'grow', 'num', 'apriljun', 'quarter']","['economía', 'taiwán', 'crece', 'num', 'trimestr', 'abriljunio']",1.0
+"['tamerlan', 'tsarnaev', 'buri', 'virginia']","['tamerlan', 'tsarnaev', 'enterrado', 'virginia']",3.0
+"['state', 'dept', 'issu', 'wide', 'travel', 'alert', 'say', 'terror', 'attack', 'possibl']","['departamento', 'emit', 'amplia', 'alerta', 'viaj', 'dice', 'posibl', 'ataqu', 'terrorista']",3.8
+"['singapor', 'stock', 'end', 'num', 'pct']","['existencia', 'singapur', 'terminan', 'num', 'pct']",1.6
+"['russia', 'warn', 'ukrain', 'eu', 'deal']","['rusia', 'adviert', 'ucrania', 'acuerdo', 'ue']",1.2
+"['hernandez', 'doubl', 'give', 'mexico', 'victori']","['dobl', 'hernández', 'da', 'victoria', 'méxico']",3.4
+"['china', 'sack', 'top', 'econom', 'offici']","['china', 'saca', 'alto', 'funcionario', 'económico']",0.4
+"['canada', 'approv', 'oil', 'pipelin', 'pacif', 'coast']","['canadá', 'aprueba', 'oleoducto', 'costa', 'pacífico']",4.8
+"['storm', 'buri', 'northeast', 'num', 'inch', 'snow', 'nj']","['tormenta', 'entierra', 'norest', 'num', 'pulgada', 'niev', 'nj']",0.0
+"['jamaican', 'connect', 'liverpool', 'win']","['conexión', 'jamaicana', 'victoria', 'liverpool']",0.4
+"['intern', 'weapon', 'expert', 'leav', 'syria', 'obama', 'make', 'statement']","['experto', 'internacional', 'arma', 'salen', 'siria', 'obama', 'hará', 'declaración']",2.8
+"['southwest', 'jet', 'hit', 'nose', 'first']","['jet', 'suroest', 'golpeó', 'nariz', 'primero']",3.6
+"['twelv', 'kill', 'bomb', 'blast', 'pakistani', 'train']","['doce', 'muerto', 'explosión', 'bomba', 'tren', 'pakistaní']",2.0
+"['power', 'quak', 'strike', 'eastern', 'indonesia']","['poderoso', 'terremoto', 'golpea', 'indonesia']",4.0
+"['obama', 'lash', 'north', 'korea', 'pariah', 'state']","['obama', 'azota', 'corea', 'nort', 'paria']",3.8
+"['colombia', 'strike', 'three', 'time']","['colombia', 'golpea', 'tre', 'vece']",1.8
+"['lord', 'palumbo', 'offer', 'hope', 'relationship', 'son', 'jame']","['lord', 'palumbo', 'ofrec', 'esperanza', 'relación', 'hijo', 'jame']",0.2
+"['deputi', 'speaker', 'face', 'new', 'sex', 'claim']","['oradora', 'adjunta', 'enfrenta', 'nueva', 'demanda', 'sexual']",2.0
+"['cia', 'chief', 'visit', 'israel', 'syria', 'talk']","['jefe', 'cia', 'visita', 'israel', 'conversacion', 'siria']",5.0
+"['suicid', 'bomb', 'kill', 'num', 'injur', 'num', 'pakistan']","['bomba', 'suicida', 'mata', 'num', 'persona', 'hier', 'num', 'pakistán']",0.0
+"['ukrain', 'rebel', 'flee', 'eastern', 'stronghold']","['rebeld', 'ucrania', 'huyen', 'fortaleza', 'orient']",3.6
+"['num', 'foreign', 'among', 'num', 'kill', 'kabul', 'hotel', 'attack']","['num', 'extranjero', 'num', 'muerto', 'ataqu', 'hotel', 'kabul']",3.6
+"['firefight', 'battl', 'forest', 'fire', 'sw', 'china']","['bombero', 'luchan', 'incendio', 'forestal', 'suroest', 'china']",3.4
+"['hassan', 'rouhani', 'win', 'iran', 'presidenti', 'elect']","['hassan', 'rouhani', 'gana', 'eleccion', 'presidencial', 'irán']",0.2
+"['woman', 'remand', 'child', 'death', 'woman', 'remand', 'custodi', 'charg', 'murder', 'eightyearold', 'girl', 'found', 'dead', 'block', 'flat']","['mujer', 'prisión', 'preventiva', 'muert', 'niño', 'mujer', 'sido', 'puesta', 'prisión', 'preventiva', 'acusada', 'asesinato', 'despué', 'niña', 'ocho', 'año', 'encontrada', 'muerta', 'bloqu', 'piso']",4.4
+"['redshirt', 'leader', 'call', 'oppos', 'armi']","['líder', 'camiseta', 'roja', 'llama', 'oponers', 'ejército']",0.6
+"['russia', 'prais', 'idea', 'render', 'right', 'assist', 'ukrain']","['rusia', 'elogia', 'idea', 'prestar', 'asistencia', 'materia', 'derecho', 'ucrania']",0.4
+"['georgian', 'pm', 'alli', 'becom', 'presid', 'exit', 'poll']","['aliado', 'pm', 'georgia', 'convertirs', 'president', 'encuesta', 'salida']",4.6
+"['car', 'bomb', 'kill', 'least', 'num', 'iraqi', 'capit']","['coch', 'bomba', 'matan', 'meno', 'num', 'persona', 'capit', 'iraquí']",2.6
+"['saudi', 'arabia', 'get', 'seat', 'un', 'secur', 'council']","['arabia', 'saudita', 'consigu', 'asiento', 'consejo', 'seguridad', 'onu']",2.8
+"['u', 'drone', 'strike', 'kill', 'num', 'pakistan']","['ataqu', 'dron', 'estadounidens', 'mata', 'num', 'persona', 'pakistán']",3.2
+"['num', 'kill', 'bomb', 'attack', 'pakistani', 'base']","['num', 'muerto', 'ataqu', 'bomba', 'base', 'pakistán']",2.0
+"['shenzhen', 'stock', 'index', 'close', 'higher', 'monday']","['índice', 'bursátil', 'shenzhen', 'cierran', 'alza', 'lune']",1.8
+"['princ', 'harri', 'pay', 'tribut', 'u', 'war', 'dead']","['príncipe', 'harri', 'rind', 'homenaj', 'muerto', 'guerra', 'eeuu']",0.4
+"['num', 'dead', 'iraq', 'attack', 'bomb', 'footbal', 'pitch']","['num', 'muerto', 'ataqu', 'irak', 'bomba', 'campo', 'fútbol']",1.4
+"['myanmar', 'arrest', 'num', 'sectarian', 'violenc']","['myanmar', 'arresta', 'num', 'persona', 'violencia', 'sectaria']",1.2
+"['iran', 'offici', 'u', 'visa', 'denial', 'iranian', 'envoy', 'affect', 'nuke', 'talk']","['ofici', 'irán', 'denegación', 'visado', 'eeuu', 'enviado', 'iraní', 'afectará', 'conversacion', 'arma', 'nuclear']",2.6
+"['govt', 'group', 'pledg', 'million', 'typhoon', 'relief']","['gobierno', 'grupo', 'prometen', 'millon', 'alivio', 'tifón']",2.4
+"['greec', 'suspend', 'state', 'broadcast']","['grecia', 'suspend', 'emisora', 'estat']",4.2
+"['guatemalan', 'court', 'find', 'former', 'dictat', 'guilti', 'genocid']","['tribun', 'guatemalteco', 'declara', 'ex', 'dictador', 'culpabl', 'genocidio']",5.0
+"['beaten', 'florida', 'teen', 'releas', 'israel']","['adolescent', 'golpeado', 'florida', 'liberado', 'israel']",0.4
+"['iran', 'sextet', 'resum', 'expert', 'talk']","['irán', 'sexteto', 'reanudará', 'conversacion', 'experto']",1.6
+"['bangladesh', 'collaps', 'search', 'death', 'toll', 'num']","['finaliza', 'búsqueda', 'colapso', 'bangladesh', 'número', 'muerto', 'num']",3.2
+"['neymar', 'power', 'brazil', 'last', 'num']","['neymar', 'lleva', 'brasil', 'último', 'num', 'año']",4.4
+"['ukrain', 'implement', 'unilater', 'ceasefir']","['ucrania', 'aplicará', 'cesación', 'fuego', 'unilater']",4.8
+"['stone', 'add', 'second', 'hyde', 'park', 'concert']","['stone', 'añaden', 'segundo', 'concierto', 'hyde', 'park']",5.0
+"['paper', 'say', 'aug', 'num', 'num']","['dicen', 'periódico', 'num', 'agosto', 'num']",2.67
+"['num', 'nation', 'meet', 'haze']","['num', 'nacion', 'reúnen', 'neblina']",0.0
+"['car', 'bomb', 'swedish', 'consul', 'libya', 'benghazi', 'casualti']","['coch', 'bomba', 'consulado', 'sueco', 'bengasi', 'libia', 'baja']",5.0
+"['bomber', 'strike', 'near', 'pakistan', 'armi', 'hq']","['bombardero', 'ataca', 'cerca', 'cuartel', 'gener', 'ejército', 'pakistán']",3.0
+"['croatia', 'begin', 'countdown', 'histor', 'eu', 'entri']","['croacia', 'comienza', 'cuenta', 'atrá', 'histórica', 'entrada', 'ue']",4.8
+"['suicid', 'attack', 'kill', 'eight', 'baghdad']","['ataqu', 'suicida', 'mata', 'ocho', 'persona', 'bagdad']",2.4
+"['war', 'crimin', 'hero', 'whitewash', 'ariel', 'sharon', 'ŕä']","['criminal', 'guerra', 'héroe', 'encubrimiento', 'ariel', 'sharon', 'ŕä']",5.0
+"['roger', 'videotron', 'extend', 'reach', 'networkshar', 'deal']","['roger', 'videotron', 'amplía', 'alcanc', 'acuerdo', 'compartir', 'red']",4.8
+"['promin', 'aid', 'research', 'kill', 'malaysian', 'plane', 'crash']","['destacado', 'investigador', 'sida', 'murieron', 'accident', 'aéreo', 'malasia']",5.0
+"['israel', 'forc', 'kill', 'num', 'palestinian', 'milit']","['fuerza', 'israelí', 'matan', 'do', 'militant', 'palestino']",3.2
+"['death', 'toll', 'rise', 'num', 'typhoon', 'strike', 'japan']","['número', 'muerto', 'sube', 'num', 'despué', 'tifón', 'golpe', 'japón']",1.2
+"['protest', 'continu', 'tens', 'ukrain', 'capit']","['protesta', 'continúan', 'tensa', 'capit', 'ucrania']",5.0
+"['two', 'french', 'journalist', 'kill', 'mali', 'kidnap']","['do', 'periodista', 'franc', 'asesinado', 'despué', 'secuestro', 'malí']",4.6
+"['headlin', 'major', 'iranian', 'newspap', 'dec', 'num']","['titular', 'principal', 'periódico', 'iraní', 'num', 'diciembr']",2.0
+"['iran', 'warn', 'spillov', 'possibl', 'war', 'syria']","['irán', 'adviert', 'propagación', 'posibl', 'guerra', 'siria']",1.8
+"['former', 'pakistan', 'presid', 'pervez', 'musharraf', 'arrest']","['ex', 'president', 'pakistán', 'pervez', 'musharraf', 'arrestado', 'nuevament']",3.0
+"['u', 'drone', 'strike', 'kill', 'num', 'milit', 'pakistan']","['ataqu', 'dron', 'estadounidens', 'mata', 'num', 'militant', 'pakistán']",3.8
+"['uk', 'expremi', 'margaret', 'thatcher', 'dy', 'num']","['exprimera', 'ministra', 'reino', 'unido', 'margaret', 'thatcher', 'muer', 'num', 'año']",4.0
+"['polar', 'bear', 'dna', 'may', 'help', 'fight', 'obes']","['adn', 'oso', 'polar', 'podría', 'ayudar', 'combatir', 'obesidad']",4.8
+"['fast', 'amp', 'furiou', 'star', 'paul', 'walker', 'dy', 'car', 'crash']","['estrella', 'fast', 'amp', 'furiou', 'paul', 'walker', 'muer', 'accident', 'coch']",4.8
+"['air', 'strike', 'kill', 'one', 'man', 'syria', 'hama']","['ataqu', 'aéreo', 'mata', 'hombr', 'hama', 'siria']",2.8
+"['turkish', 'pm', 'presid', 'clash', 'repli', 'protest']","['pm', 'turca', 'president', 'enfrentan', 'respuesta', 'protesta']",2.6
+"['strong', 'new', 'quak', 'hit', 'shatter', 'pak', 'region']","['nuevo', 'fuert', 'terremoto', 'golpeó', 'región', 'pak']",4.4
+"['flood', 'central', 'europ', 'continu', 'creat', 'havoc']","['inundacion', 'europa', 'central', 'siguen', 'causando', 'estrago']",4.6
+"['luxembourg', 'pm', 'quit', 'amid', 'spi', 'scandal']","['primer', 'ministro', 'luxemburgo', 'renuncia', 'medio', 'escándalo', 'espionaj']",2.2
+"['num', 'dead', 'num', 'miss', 'central', 'china', 'construct', 'accid']","['num', 'muerto', 'num', 'desaparecido', 'accident', 'construcción', 'centro', 'china']",0.4
+"['u', 'china', 'fail', 'paper', 'crack', 'tie']","['eeuu', 'china', 'logran', 'empapelar', 'grieta', 'corbata']",0.4
+"['world', 'cup', 'live', 'franc', 'num', 'germani']","['copa', 'mundo', 'vivo', 'francia', 'num', 'alemania']",1.4
+"['tokyo', 'host', 'num', 'game']","['tokio', 'sede', 'juego', 'num']",4.8
+"['franc', 'warn', 'extremist', 'benefit', 'egypt', 'violenc']","['francia', 'adviert', 'extremista', 'benefician', 'violencia', 'egipto']",4.4
+"['british', 'teenag', 'kill', 'fall', 'magaluf', 'hotel']","['adolescent', 'británico', 'asesinado', 'otoño', 'hotel', 'magaluf']",5.0
+"['u', 'drone', 'strike', 'kill', 'eight', 'waziristan']","['ataqu', 'dron', 'estadounidens', 'mata', 'ocho', 'persona', 'waziristán']",2.0
+"['russian', 'opposit', 'leader', 'hous', 'arrest']","['líder', 'oposición', 'rusa', 'bajo', 'arresto', 'domiciliario']",5.0
+"['senat', 'confirm', 'janet', 'yellen', 'chair', 'u', 'feder', 'reserv']","['senado', 'confirma', 'janet', 'yellen', 'presidenta', 'reserva', 'feder', 'eeuu']",5.0
+"['israel', 'confirm', 'strike', 'syria', 'target', 'weapon']","['israel', 'confirma', 'ataqu', 'siria', 'arma', 'específica']",5.0
+"['juror', 'find', 'jodi', 'aria', 'elig', 'death', 'penalti']","['jurado', 'consideran', 'jodi', 'aria', 'eleg', 'pena', 'muert']",5.0
+"['twitter', 'report', 'block', 'venezuela']","['twitter', 'reporta', 'bloqueo', 'venezuela']",4.0
+"['goa', 'build', 'collaps', 'death', 'toll', 'touch', 'num']","['colapso', 'edificio', 'goa', 'causado', 'num', 'muert']",3.0
+"['pak', 'religi', 'bodi', 'endors', 'underag', 'marriag']","['cuerpo', 'religioso', 'pak', 'respalda', 'matrimonio', 'menor']",3.0
+"['mt', 'gox', 'reveal', 'num', 'forgotten', 'bitcoin', 'haul']","['mont', 'gox', 'revela', 'num', 'bote', 'moneda', 'olvidada']",5.0
+"['num', 'injur', 'texa', 'plant', 'blast']","['num', 'herido', 'explosión', 'planta', 'texa']",4.0
+"['redford', 'tout', 'alberta', 'economi', 'ahead', 'vote', 'leadership']","['redford', 'pregona', 'economía', 'alberta', 'votación', 'liderazgo']",2.0
+"['obama', 'hold', 'syria', 'strike']","['obama', 'resist', 'ataqu', 'siria']",1.0
+"['south', 'korean', 'soldier', 'reportedli', 'flee', 'kill', 'num', 'comrad', 'border', 'north', 'korea']","['soldado', 'surcoreano', 'según', 'informa', 'huy', 'despué', 'matar', 'num', 'camarada', 'frontera', 'corea', 'nort']",4.0
+"['tycoon', 'claim', 'win', 'ukrain', 'promis', 'seek', 'futur', 'eu']","['tycoon', 'afirma', 'gana', 'ucrania', 'promet', 'buscar', 'futuro', 'ue']",0.0
+"['syria', 'agre', 'surrend', 'chemic', 'weapon']","['siria', 'acuerdo', 'entregar', 'arma', 'química']",2.0
+"['abbvi', 'sour', 'numb', 'shire', 'deal', 'tax', 'chang']","['abbvi', 'sour', 'contrato', 'alquil', 'num', 'mil', 'dólare', 'despué', 'cambio', 'impuesto']",5.0
+"['milit', 'attack', 'afghanistan', 'kill', 'four', 'upper', 'dir']","['ataqu', 'militar', 'afganistán', 'mata', 'cuatro', 'alto', 'dir']",3.0
+"['num', 'kill', 'afgan', 'terror', 'attack']","['num', 'muerto', 'ataqu', 'terrorista', 'afganistán']",2.0
+"['rev', 'earli', 'read', 'march', 'num']","['rev', 'earli', 'read', 'num', 'marzo']",2.0
+"['pope', 'canon', 'num', 'palestinian']","['papa', 'canoniza', 'num', 'palestino']",0.0
+"['funer', 'ian', 'paisley', 'take', 'place', 'belfast']","['funer', 'ian', 'paisley', 'lugar', 'belfast']",0.0
+"['waba', 'emerg', 'new', 'nlc', 'presid']","['waba', 'emerg', 'nuevo', 'president', 'nlc']",1.0
+"['num', 'u', 'airstrik', 'target', 'islam', 'state', 'fighter']","['num', 'ataqu', 'aéreo', 'estadounidens', 'objetivo', 'caza', 'islámico']",1.0
+"['u', 'senat', 'vote', 'advanc', 'iran', 'nuclear', 'review', 'bill']","['senado', 'eeuu', 'vota', 'avanzar', 'proyecto', 'ley', 'revisión', 'nuclear', 'irán']",1.0
+"['editor', 'around', 'world', 'urg', 'turkey', 'protect', 'medium']","['editor', 'mundo', 'instan', 'turquía', 'proteg', 'medio', 'comunicación']",2.0
+"['philippin', 'canada', 'pledg', 'boost', 'relat']","['filipina', 'canadá', 'comprometen', 'seguir', 'impulsando', 'relacion']",0.0
+"['israel', 'bar', 'palestinian', 'jerusalem', 'old', 'citi']","['israel', 'impid', 'palestino', 'entrar', 'ciudad', 'vieja', 'jerusalén']",1.0
+"['much', 'know', 'secret', 'servic']","['cuánto', 'sabe', 'servicio', 'secreto']",1.0
+"['obama', 'struggl', 'sooth', 'saudi', 'fear', 'iran', 'talk', 'resum']","['obama', 'lucha', 'calmar', 'temor', 'saudí', 'mientra', 'reanudan', 'conversacion', 'irán']",0.0
+"['south', 'korea', 'declar', 'end', 'mer', 'outbreak']","['corea', 'sur', 'declara', 'fin', 'brote', 'mer']",0.0
